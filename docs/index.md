@@ -6,5 +6,6 @@
 
 ## Who is the audience and how do they use this?
 
-## How to update anything written here?
+## How to contribute?
 
+You can contribute by creating an Issue or sending a Pull Request.
