@@ -1,6 +1,6 @@
 # How to contribute?
 
-We are really glad that you are reading this. We want to keep KOSS documentation up-to-date all the time.
+We are really glad you are reading this. We want to keep KOSS documentation up-to-date all the time.
 
 ## 1. Something is bugging you
 
