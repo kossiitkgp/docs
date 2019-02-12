@@ -1,0 +1,8 @@
+# This file is used to automatically request review to some people for some aspects of KOSS documentation.
+# Read more about code owners here - https://help.github.com/articles/about-code-owners/
+# Keep the limited documents and limited owners. Follow /.github/CONTRIBUTING.md#how-is-a-change-reviewed for the review process.
+
+/docs/community/governance.md @OrkoHunter @kshitij10496 @madan96 @pranitbauva1997 @nitinkgp23 @DefCon-007 @Parth-Vader
+/docs/community/history.md @OrkoHunter @kshitij10496 @madan96 @pranitbauva1997 @nitinkgp23 @DefCon-007 @Parth-Vader
+/docs/about.md @OrkoHunter @kshitij10496 @madan96 @pranitbauva1997 @nitinkgp23 @DefCon-007 @Parth-Vader
+/docs/accounts.md @OrkoHunter @kshitij10496 @madan96 @pranitbauva1997 @nitinkgp23 @DefCon-007 @Parth-Vader
