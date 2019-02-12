@@ -14,6 +14,8 @@ Stick to the following conventions -
 
 ### Conventions
 - Look for an existing doc or section where your content may go. If you can not find any, create a new document at an appropriate index.
+- Do not write anything as an opinion. Write slowly without haste.
+- It is discouraged to write in first person *i.e.* do not use `I` or `Me`. Never write in first person without identifying who wrote it. (e.g. Name, Class of 'YY)
 - Check for spelling and grammatical mistakes.
   - You can use [Grammarly](https://app.grammarly.com/) to verify. You can get a [free grammarly account](https://wiki.metakgp.org/w/How_to_get_free_Grammarly_premium_account) if you are an IIT KGP student.
 - Sign your commits. [Read more](https://help.github.com/articles/signing-commits/)
