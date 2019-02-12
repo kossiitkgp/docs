@@ -1,0 +1,23 @@
+# Configuration for new-issue-welcome - https://github.com/behaviorbot/new-issue-welcome
+
+# Comment to be posted to on first time issues
+newIssueWelcomeComment: |
+  👋 Thanks for opening your first issue here! If you're asking a question, please allow some time for people to get back to you.
+
+  If you have a new change to submit, please close this issue and open a Pull Request instead.
+
+  To help make it easier for us to investigate your issue, please follow the [contributing guidelines](https://github.com/kossiitkgp/docs/blob/master/.github/CONTRIBUTING.md).
+
+# Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
+
+# Comment to be posted to on PRs from first time contributors in your repository
+newPRWelcomeComment: |
+  💖 Thanks for opening this pull request! 💖
+
+  Please read our [contributing guidelines](https://github.com/kossiitkgp/docs/blob/master/.github/CONTRIBUTING.md) thoroughly and make sure you follow it.
+
+  If you are making any changes to the `docs/` directory -
+  - The Pull Request must not be merged within 48 hours.
+  - Please do not merge your Pull Request yourself, even if you have access to do it.
+  - You need atleast 6 approvals (3 each from Executive Heads and Advisors)
+  - Feel free to mention some people in the PR.
