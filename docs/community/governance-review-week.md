@@ -6,11 +6,11 @@ It is a week dedicated to the Governance of KOSS.
 
 Our intention behind organizing the Governance Review Week is to help the core team members measure their level of involvement in KOSS. The week also promotes open discussions between Seniors and the Core team members. We want each one of our members to be frank with their batchmates as well as seniors in sharing their opinions and perspective on every aspect of KOSS.
 
-We also review how KOSS performed as a team in the past year. We identify our problems and discuss solutions. We want to make sure we eliminite all forms of toxicity from KOSS (It can be habits of how we do things, or some Core Team members themselves.)
+We also review how KOSS performed as a team in the past year. We identify our problems and discuss solutions. We want to make sure we eliminate all forms of toxicity from KOSS (It can be habits of how we do things, or some Core Team members themselves.)
 
 # What is the structure and timeline?
 
-We physically meet for 3-5 days for 3-4 hours each day. We put up few questions in advance and the Core Team Members have to think and give their answers or their take on the subject. All the second years individually speak for few minutes. The time limited is decided and followed. We later discuss the answers given by the CTMs. The members send their answers on the Google Group thread of the day. The sessions are recorded and put up on our archives.
+We physically meet for 3-5 days for 3-4 hours each day. We put up few questions in advance and the Core Team Members have to think and give their answers or their take on the subject. All the second years individually speak for a few minutes. The time limit is decided and followed. We later discuss the answers given by the CTMs. The members send their answers on the Google Group thread of the day. The sessions are recorded and put up on our archives.
 
 # What happens after this week?
 
@@ -64,7 +64,7 @@ Day 1 - https://groups.google.com/d/msg/kossiitkgp/wFGCjKuoM-k/JK91jCVWFgAJ
 
 - Question 3 (2 mins)
   - Any organization is driven by a strong bonding nature between the members.
-  - Is there a communication gap in KOSS? Mention evidences if you can recall.
+  - Is there a communication gap in KOSS? Mention evidence if you can recall.
   - Think of an idea to overcome it?
   - How will you increase the bonding among the new members and as well as the entire juniors and executives batch?
 ```
@@ -86,7 +86,7 @@ Day 2 - https://groups.google.com/d/msg/kossiitkgp/DmO7K-CZnOQ/UTfVzASxFgAJ
 
 
 - Question 2 ( 3 mins)
-  - Why do think these events were started in the first place?
+  - Why do you think these events were started in the first place?
   - Suggest one new event(workshop/seminar/different genre) that we should conduct in the upcoming year.
   - Why do you want this to be executed?
   - Give a brief overview of how would you go about organizing it as the Executive responsible for the event.
@@ -139,7 +139,7 @@ Day 1: https://groups.google.com/d/msg/kossiitkgp/WxBNzdCBb5Y/U0cCf-mTBwAJ
 ```
 - Question 1 (4 mins)
 - We conducted numerous flagship events/seminars during the past year, e.g., KWoC, Summit, Git workshop, Dual boot best, GSoC seminar.
-  - Why do think these events were started in the first place?
+  - Why do you think these events were started in the first place?
   - What order would you suggest for the organization of the Autumn Sem events? Why?
   - Why and how do you think new ideas come up? How would you, as an Executive, promote innovation of ideas in the team?
   - Suggest one new event(workshop/seminar/different genre) that we should conduct in the upcoming year.
