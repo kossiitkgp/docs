@@ -7,6 +7,6 @@ assignees: ''
 
 ---
 
-# We STRONGLY RECOMMEND you to Create a Pull Request instead of an issue. This applies to make a change or adding anything new.
+# We STRONGLY RECOMMEND you to Create a Pull Request instead of an issue. This applies to making a change or adding anything new.
 
-This helps us collect all the discussions at one place.
+This policy helps us collect all the discussions at one place.
