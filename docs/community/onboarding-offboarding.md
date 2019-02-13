@@ -1,6 +1,5 @@
 # Onboarding/Offboarding
 
-
 ## How to onboard someone in KOSS?
 
 See also [Fresher's Induction](/docs/community/freshers-induction).
