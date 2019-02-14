@@ -18,6 +18,9 @@ Executive Heads discuss the involvement and membership of each Core Team member.
 
 After the week, Core Team members become the new Executive Heads and Executive Members (See [Governance](/docs/community/governance)), quickly followed by an [Introductory Seminar](/docs/events/introductory-seminar) and the [Selection of new members](/events/freshers-selections).
 
+A new version of KOSS Documentation is released. It is suggested to scrutiny everything which is written over here. Detailed changelog should be published which answers, "What changed and Why?", "What things worked out really well?", "What more should be written?", etc. Alumni of KOSS will receive the changelog via email, and it will be published in the repository as well.
+
+
 # Why do we do this?
 
 - Evaluation. We want Core team members to review their year and contributions to KOSS
