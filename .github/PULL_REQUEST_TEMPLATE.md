@@ -1,7 +1,6 @@
 ### Notes:
 - Read [.github/CONTRIBUTING.md](https://github.com/kossiitkgp/docs/blob/master/.github/CONTRIBUTING.md) before creating the Pull Request. This is a MUST.
 - KOSS Documentation is public. Make sure you are not adding any information which should remain private.
-- This template is for making any change to the `docs/` directory. You can ignore the template for making any change outside `docs/`.
 
 **Write path(s) which will be affected by this Pull Request.**
 Example:

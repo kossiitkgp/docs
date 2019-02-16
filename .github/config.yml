@@ -16,7 +16,7 @@ newPRWelcomeComment: |
 
   Please read our [contributing guidelines](https://github.com/kossiitkgp/docs/blob/master/.github/CONTRIBUTING.md) thoroughly and make sure you follow it.
 
-  If you are making any changes to the `docs/` directory -
+  If you are making any changes to any written content of KOSS Documentation -
   - The Pull Request must not be merged within 48 hours.
   - Please do not merge your Pull Request yourself, even if you have access to do it.
   - You need atleast 6 approvals (3 each from Executive Heads and Advisors)

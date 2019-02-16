@@ -2,7 +2,7 @@
 # Read more about code owners here - https://help.github.com/articles/about-code-owners/
 # Be very conservative with this file. Keep the documents and owners limited. Follow /.github/CONTRIBUTING.md#how-is-a-change-reviewed for the review process.
 
-/docs/community/governance.md @OrkoHunter @kshitij10496 @madan96 @pranitbauva1997 @nitinkgp23 @DefCon-007 @Parth-Vader
-/docs/community/history.md @OrkoHunter @kshitij10496 @madan96 @pranitbauva1997 @nitinkgp23 @DefCon-007 @Parth-Vader
-/docs/about.md @OrkoHunter @kshitij10496 @madan96 @pranitbauva1997 @nitinkgp23 @DefCon-007 @Parth-Vader
-/docs/accounts.md @OrkoHunter @kshitij10496 @madan96 @pranitbauva1997 @nitinkgp23 @DefCon-007 @Parth-Vader
+/community/governance.md @OrkoHunter @kshitij10496 @madan96 @pranitbauva1997 @nitinkgp23 @DefCon-007 @Parth-Vader
+/community/history.md @OrkoHunter @kshitij10496 @madan96 @pranitbauva1997 @nitinkgp23 @DefCon-007 @Parth-Vader
+/about.md @OrkoHunter @kshitij10496 @madan96 @pranitbauva1997 @nitinkgp23 @DefCon-007 @Parth-Vader
+/accounts.md @OrkoHunter @kshitij10496 @madan96 @pranitbauva1997 @nitinkgp23 @DefCon-007 @Parth-Vader

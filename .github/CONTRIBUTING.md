@@ -13,7 +13,7 @@ You are awesome! You will have to create a Pull Request. Fork the repository, cr
 Stick to the following conventions -
 
 ### Conventions
-- Look for an existing doc or section where your content may go. If you can not find any, create a new document at an appropriate index. Put all your content inside the `docs/` directory.
+- Look for an existing doc or section where your content may go. If you can not find any, create a new document at an appropriate index.
 - Do not write anything as an opinion.
 - Do not rush through the content, hence write slowly. (A content written in haste, causes uneasiness to the reader.)
 - It is discouraged to write in first person *i.e.* do not use `I` or `Me`. NEVER write anything in first person without identifying who wrote it. (e.g. Name, Class of 'YY)
