@@ -1,6 +1,6 @@
 # Governance Review Week
 
-# What is it?
+## What is it?
 
 It is a week dedicated to the Governance of KOSS.
 
@@ -8,11 +8,11 @@ Our intention behind organizing the Governance Review Week is to help the core t
 
 We also review how KOSS performed as a team in the past year. We identify our problems and discuss solutions. We want to make sure we eliminate all forms of toxicity from KOSS (It can be habits of how we do things, or some Core Team members themselves.)
 
-# What is the structure and timeline?
+## What is the structure and timeline?
 
 We physically meet for 3-5 days for 3-4 hours each day. We put up few questions in advance and the Core Team Members have to think and give their answers or their take on the subject. All the second years individually speak for a few minutes. The time limit is decided and followed. We later discuss the answers given by the CTMs. The members send their answers on the Google Group thread of the day. The sessions are recorded and put up on our archives.
 
-# What happens after this week?
+## What happens after this week?
 
 Executive Heads discuss the involvement and membership of each Core Team member. If they find someone not being a good fit to continue, this is the time when the team is updated and they are laid off (See [Onboarding/Offboarding](/docs/community/offboarding-onboarding)).
 
@@ -21,7 +21,7 @@ After the week, Core Team members become the new Executive Heads and Executive M
 A new version of KOSS Documentation is released. It is suggested to scrutiny everything which is written over here. Detailed changelog should be published which answers, "What changed and Why?", "What things worked out really well?", "What more should be written?", etc. Alumni of KOSS will receive the changelog via email, and it will be published in the repository as well.
 
 
-# Why do we do this?
+## Why do we do this?
 
 - Evaluation. We want Core team members to review their year and contributions to KOSS
 - Executive Heads want to understand the priorities and values of the new batch. They form the questions to do so.
@@ -29,9 +29,9 @@ A new version of KOSS Documentation is released. It is suggested to scrutiny eve
 - Self-awareness of all the members.
 - Questioning the principles of KOSS. We discuss and make serious policy changes to how things are done.
 
-# Archives
+## Archives
 
-## 2019
+### 2019
 
 **Who were the CTMs?**
 
@@ -114,7 +114,7 @@ Day 3 - https://groups.google.com/d/msg/kossiitkgp/-t4l9WdJYhs/HlS8UpzCFwAJ
 
 ---
 
-## 2018
+### 2018
 
 **Who were the CTMs?**
 
