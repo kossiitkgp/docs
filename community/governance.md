@@ -79,7 +79,7 @@ The role has no formal duties, as of now.
 ### Guidelines for Executive Heads -
 
 1. Do not miss a meeting unless extremely required (health or out of station). Your lack of involvement will psychologically disolve your responsibilities. Schedule meetings according to the availability of all the Executive Heads.
-1. Be in sync among yourselves. Physically meet at-least once a week. Slack and Emails do not take importance over your coordination. You will build an amazing friendship with this, which will remain beyond KOSS.
+1. Be in sync among yourselves. Frequently meet with each other. You will build an amazing friendship with this, which will remain beyond KOSS.
 1. Respect time of your fellow Executives and Juniors. Do not slack off.
 1. Always have a lump-sum timeline for events and internal workshops for a particular semester (or year). Core Team members are an essential part of overall execution, so not having a timeline puts them at blindside, and they cannot manage their time.
 1. Your Core Team Members are your KGP juniors as well. Make sure they prioritize their mental and physical health.
@@ -96,10 +96,10 @@ The role has no formal duties, as of now.
 
 ### Guidelines for Core Team Members -
 
-1. Take initiatives and ownership of KOSS.
-1. Make sure you are learning things and making good friends in KOSS, else you will definitely lose interest and leave.
-1. Practice public speaking and teaching as often as possible.
-1. There will always be people better than you in one or more aspect, it applies to your batch too. Don’t get intimidated by this. Remember, you can never know all the things.
+1. We believe in self-motivation and a sense of ownership. Try to take initiatives and tasks on your own.
+1. Make sure you are active within the community. Reach out to your batchmates and seniors once in a while. Discuss stuff with people, or you might end up losing interest.
+1. Communication skills are vital for any line of work. Practice public speaking and teaching as often as possible. Try to get over your stage fear (if you have one).
+1. There will always be people who do certain things better than you in one or more aspect. Don’t get intimidated by this. Instead, try to get the most of out it. Knowledge-sharing is how we as individuals grow.
 
 ### Guidelines for Advisors -
 
