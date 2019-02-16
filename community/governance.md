@@ -18,7 +18,7 @@ Members join KOSS in their first year as Core Team members. They spend their tim
 
 ## The policy of KOSS membership
 
-We recruit UG 1st years in the team, preferably after they have spent one semester on the campus. We can also hire any 2nd year in their third semester, based on recommendations by the members.
+We recruit UG 1st years in the team, preferably after they have spent one semester on the campus. We can also recruit any 2nd year in their third semester, based on recommendations by the members.
 
 In the spring semester of Core Team members, they go through a Governance week discussion and finally become the new Executives (Heads and Members). Former Executives should carefully offboard members who are not a good fit for the upcoming Executive batch. Every single individual should have a net positive impact on the team. See [Onboarding/Offboarding](/docs/community/onboarding-offboarding) for more detail.
 
@@ -42,7 +42,7 @@ They approve Pull Requests to https://github.com/kossiitkgp/accounts.
 
 ### 1.2 Executive Members
 
-Executive Members do not take the lead but have experience in working with KOSS and the erstwhile Executive Heads. Their primary objectives are:
+Executive Members do not take the lead but have experience in working with KOSS and the Executive Heads. Their primary objectives are:
 
 - Involving Core Team members through projects/hackathons to improve their skills
 - Supporting Executive Heads when necessary
