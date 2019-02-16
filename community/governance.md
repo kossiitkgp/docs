@@ -14,7 +14,7 @@ Permanent membership of KOSS mandates serving one year as an Executive (either a
 
 ## The Story
 
-Members join KOSS in their first year as Core Team members. They spend their time learning technologies, as well as working on raising the awareness of Open Source. At the end of their second year, they take up the role of Executive Heads and Executive Members after a rigorous [Governance Review Week](/docs/community/governance-review-week). The former Executive Heads and Advisors decide for each. After serving for one year, they pass on the baton to the next batch, and they become Advisors while staying on the campus. They actively take part in the discussions, events, and seminars as per their skills and expertise. They graduate to become KOSS Alumni, the role of which is undecided yet.
+Members join KOSS in their first year as Core Team members. They spend their time learning technologies, as well as working on raising the awareness of Open Source. At the end of their second year, they take up the role of Executive Heads and Executive Members after a rigorous [Governance Review Week](/docs/community/governance-review-week). The former Executive Heads and Advisors decide whether a CTM will become an Executive Head or an Executive Member. (See [Onboarding/Offboarding](/docs/community/onboarding-offboarding)). After serving another year, they pass on the baton to the next batch, and they become Advisors while staying on the campus. They actively take part in the discussions, events, and seminars as per their skills and expertise. They graduate to become KOSS Alumni, the role of which is undecided yet.
 
 ## The policy of KOSS membership
 
