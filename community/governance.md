@@ -5,9 +5,9 @@
 * **Executive Heads**: The public face, managers and the decision makers.
 * Rest -
   * **Core Team Members**: Freshers batch. (< 1 year of experience)
-  * Executive Members: Batchmates of Executive Heads.
-  * Advisors: People who have been an Executive member in the past and are still on the campus.
-  * Alumni: People who have graduated but were Executive members when on campus.
+  * **Executive Members**: Batchmates of Executive Heads.
+  * **Advisors**: People who have been an Executive member in the past and are still on the campus.
+  * **Alumni**: People who have graduated but were Executives when on campus.
 
 Permanent membership of KOSS mandates serving one year as an Executive (either as Head or Member).
 
