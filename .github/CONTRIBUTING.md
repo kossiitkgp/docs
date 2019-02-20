@@ -36,6 +36,6 @@ Refrain from using Slack to discuss any queries related to a doc or any discussi
 # How is a change reviewed?
 
 - Do not merge any Pull Request within 48 hours of its creation.
-- At least 3 approvals from Executive Heads is required.
-- At least 3 approvals from Advisors/Alumni is required.
+- At least x [TBD] approvals from Executive Heads is required.
+- At least x [TBD] approvals from Advisors/Alumni is required.
 - Do not merge a Pull Request which you have created yourself.
