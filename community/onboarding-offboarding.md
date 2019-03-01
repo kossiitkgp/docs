@@ -19,7 +19,7 @@ See also [Fresher's Induction](/docs/community/freshers-induction).
 1. Make Executive Members the Admins of Slack workspace.
 1. Make Executive Heads the Owners of Slack workspace.
 1. Add all Executive Members and Heads to the `Admins` team on GitHub org. Remove them from the `Newbies` team.
-1. Change role of Executive Heads as `Maintainers` of the GitHub org.
+1. Ask an Owner of kossiitkgp GitHub org to change role of Executive Heads as `Owners`.
 1. Make Executive Heads the Owners of the Google Group.
 1. Update Contacts README on `kossiitkgp/secrets`
 1. Release the names from blog/facebook page
