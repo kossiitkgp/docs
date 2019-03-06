@@ -15,6 +15,7 @@ A 1:1 can be about
 * Come prepared with questions to ask or points to discuss. You can create an email thread between you and your mentor and log notes after the meetups.
 * 1:1 mentorship is voluntary. Every Executive does not need to be a mentor if they are unable to commit their time.
 * Mentors can invite any Advisor in any meeting. 1:1s are informal and inclusive.
+* Mentors can be changed upon request by either the mentor or the mentee.
 
 ## Guidelines for the mentors
 * Make sure your mentee feels comfortable.
