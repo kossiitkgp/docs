@@ -22,7 +22,7 @@ Questions on the form for screening round -
 * Roll Number
 * Email ID
 * Phone
-* Share with us your URLs
+* Share with us your URLs (GitHub, portfolio, any projects, etc.)
 * Do you have any achievements you want us to know?
 * When did you start programming? What motivates you? Tell us your story.
 * What are you learning these days?
@@ -34,7 +34,7 @@ Questions on the form for screening round -
 
 ### Interview Round
 
-We form a few panels consisting of 3-5 people. Each panel should have at least one advisor. The interviewers evaluate them during the conversation. If a candidate does not have any projects done so far, a task must be given to check code quality.
+We form a few panels consisting of 3-5 people. Each panel should have at least one advisor. The interviewers evaluate them during the conversation. If a candidate does not have any projects done so far, a task must be given to check code quality. The tasks are on spot or to be completed within 24 hours.
 
 ## Panel Discussion and the release of results
 
@@ -84,6 +84,8 @@ Also see [Onboarding/Offboarding](/docs/community/onboarding-offboarding)
 * Inability to express or communicate clearly
 * Trying to flatter by talking against Competitive Programming or praising KOSS too much.
 * Thinks lowly / of stuff like FrontEnd Designing or designing in general.
+
+Note: Negative points differ from Red Flags. A Red Flag is too serious to consider. However, negative points do not indicate rejecting a candidate. The interviewers need to make extra effort in understand the interviewee. They may also require extra attention from the Executives/Advisors to align with our ideologies.
 
 ## FAQs
 
