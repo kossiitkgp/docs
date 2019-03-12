@@ -107,6 +107,8 @@ Facebook post - https://www.facebook.com/kossiitkgp/posts/2072478999495756
 
 ### 2018
 
+The selection still followed direct walk-in interviews. The interviews were conducted on two days. The number of people who showed up was large compared to the number of interviewers. The experience was tiring and very repetitive with people who did not align with our principles. It was then decided that we should not do direct walk-in interviews.
+
 Facebook post - https://www.facebook.com/kossiitkgp/photos/a.551030724973932/1642194875857506/?type=3&theater
 
 ### 2017
@@ -114,5 +116,7 @@ Facebook post - https://www.facebook.com/kossiitkgp/photos/a.551030724973932/164
 Facebook post - https://www.facebook.com/kossiitkgp/photos/a.551030724973932/1230476980362633/?type=3&theater
 
 ### 2016
+
+A single round of interviews was conducted. Around 50 people showed up. We used Google Sheets to note down interview comments.
 
 Facebook post - https://www.facebook.com/kossiitkgp/photos/a.551030724973932/993755030701497/?type=3&theater=
