@@ -103,4 +103,29 @@ The role has no formal duties, as of now.
 
 ### Guidelines for Advisors -
 
-1. Do not disappear.
+Dear fellow advisors,
+
+It’s very easy to be the grumpy old fellows pointing out mistakes in others’ work and it’s quite tempting since our brain mostly favors short-term rewards. The real challenge is to enable people to improve and change themselves as well as the organization. Hiring the right people and steering them in a good direction should be the aim of an advisor.
+
+While the Execs are mostly involved in doing a lot of ground work, advisors can really think about the overall organization and how they can improve it (since we aren’t caught up in day to day shit).
+
+(Bauva’s Theory) Enablers vs Disablers:
+Enablers are the people that enable an organization to do good while disablers are exactly the opposite. Enablers are the people who can with their energy and attitude allow more people to collaborate more productively. Enablers trust the people they recruit to do their job (this has got to do a lot with having hope and faith that we have the right strategy for recruiting since without it it’s impossible to have that confidence) and teach them. Disablers don’t trust the people they recruit and curse them for their mistakes (realize that everyone makes mistakes, and it’s more important that you learn from them). An advisor should remember that every interaction is important and after you have “enabled” someone, you have set them on a good path and vice versa.
+
+Advisors should aim for being enablers in KOSS and avoid being disablers.
+
+What an advisor should aim for:
+
+1. Trust the team that you have hand-picked (the most important one)
+2. Motivate the team
+3. Create reliable systems and process (like `docs` or `mistakes` repo) that reduce systematic errors
+4. Provide valuable experiences
+5. Asking Execs the reason behind their actions and thorough cross-questioning
+6. Help people learn
+7. Set the culture
+8. Set guidelines and goals
+9. Appreciate and shower praises for the good work
+
+It’s also important to remember how we (advisors) felt when we were in our 2nd and 3rd years. Campus life is **really hard** and it takes a toll on the best of us. Remember that Execs & CTM have their own life with their own problems which they want to solve to achieve their own goals. There are many things obvious for us right now and we know what to focus on and what to not focus on. So the next time, if some junior comes up to you and says, “Kal test/assignment/lab hai, toh kaam nahi hoga”  don’t starting whining about how you didn’t give a fuck about it when you were young and wild (either they won’t care or they will mistake you for being reckless). “Humare bhi dusra kaam hota hai per phir bhi hum kaam karte hai” isn’t exactly the sentence that would motivate someone. Instead try to find a solution where you solve his/her issue along without hampering the work to be done.
+
+
