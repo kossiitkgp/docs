@@ -1,10 +1,25 @@
 # KOSS Documentation
 
+## Index
+
+### [Community](community)
+
+- [Governance Week Review](community/governance-review-week)
+- [Governance](community/governance)
+- [Onboarding/Offboarding](community/onboarding-offboarding)
+- [1:1](community/one-on-one)
+
+### [Events](events)
+
+<!-- 
+
 ## What is this project about?
 
 ## Who is the goal of the project?
 
 ## Who is the audience and how do they use this?
+
+-->
 
 ## How to contribute?
 
