@@ -1,3 +1,7 @@
++++
+toc=true
++++
+
 # Governance
 
 ## Hierarchy

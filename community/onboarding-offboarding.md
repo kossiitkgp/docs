@@ -1,3 +1,7 @@
++++
+toc=true
++++
+
 # Onboarding/Offboarding
 
 ## How to onboard someone in KOSS?
