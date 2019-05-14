@@ -10,16 +10,18 @@
 - [1:1](community/one-on-one)
 
 ### [Events](events)
+To get more beginners introduced to Open Source, we hold events like
 
-<!-- 
+- Kharagpur Winter of Code
+- Ubuntu Install Fest
+- Version control (Git + GitHub workflow)
+- Various workshops
+  - Python Classes
+  - Golang Classes
+  - Javascript classes
+  - Android Development
+- Hackathons
 
-## What is this project about?
-
-## Who is the goal of the project?
-
-## Who is the audience and how do they use this?
-
--->
 
 ## How to contribute?
 
