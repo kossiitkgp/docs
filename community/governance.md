@@ -13,7 +13,7 @@ toc=true
   * **Advisors**: People who have been an Executive member in the past and are still on the campus.
   * **Alumni**: People who have graduated but were Executives when on campus.
 
-Permanent membership of KOSS mandates serving one year as an Executive (either as Head or Member).
+Permanent membership of KOSS mandates serving one year as an Executive. But if advisors mutually agree that any particular human shouldn't be advisor due to several reasons like fundamentals, or their contribution as Executive then they can remove that particular human. 
 
 
 ## The Story
@@ -55,7 +55,7 @@ They approve Pull Requests to https://github.com/kossiitkgp/accounts.
 
 ~~They do not make any decision for KOSS without consulting the Executive Heads, or unless told to do so.~~
 
-We had a physical meeting in Kgp campus regarding this as well. It was mutually agreed that this should be removed. [ISSUE-15](https://github.com/kossiitkgp/docs/issues/15)
+We had a physical meeting in Kgp campus regarding this as well. It was mutually agreed that this should be removed. Reasons are mentioned in [ISSUE-15](https://github.com/kossiitkgp/docs/issues/15)
 ### 2. Core Team members
 
 > Members in their late first and early second year
