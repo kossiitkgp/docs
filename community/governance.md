@@ -44,17 +44,18 @@ Executive Heads regularly consult with the Advisors. They must do it before intr
 
 They approve Pull Requests to https://github.com/kossiitkgp/accounts.
 
-### 1.2 Executive Members
+### ~~1.2 Executive Members~~
 
-Executive Members do not take the lead but have experience in working with KOSS and the Executive Heads. Their primary objectives are:
+~~Executive Members do not take the lead but have experience in working with KOSS and the Executive Heads. Their primary objectives are:~~
 
-- Involving Core Team members through projects/hackathons to improve their skills
-- Supporting Executive Heads when necessary
+- ~~Involving Core Team members through projects/hackathons to improve their skills~~
+- ~~Supporting Executive Heads when necessary~~
 
-They act as resources of KOSS. They offer their suggestions constantly throughout the year.
+~~They act as resources of KOSS. They offer their suggestions constantly throughout the year.~~
 
-They do not make any decision for KOSS without consulting the Executive Heads, or unless told to do so.
+~~They do not make any decision for KOSS without consulting the Executive Heads, or unless told to do so.~~
 
+We had a physical meeting in Kgp campus regarding this as well. It was mutually agreed that this should be removed. [ISSUE-15](https://github.com/kossiitkgp/docs/issues/15)
 ### 2. Core Team members
 
 > Members in their late first and early second year
@@ -92,11 +93,11 @@ The role has no formal duties, as of now.
 * Build strong connections with your Core Team members. Have regular 1:1s. Prefer Meetings and Calls over Slack and Email.
 * Keep your Executive Members as involved as possible.
 
-### Guidelines for Executive Members -
+### ~~Guidelines for Executive Members -~~
 
-* Give Executive Heads their freedom. Do not interrupt or hinder their momentum of doing things.
-* Offer suggestions whenever you feel like it.
-* Come to meetings. Build relations with Core Team Members. Be active on Slack.
+* ~~Give Executive Heads their freedom. Do not interrupt or hinder their momentum of doing things.~~
+* ~~Offer suggestions whenever you feel like it.~~
+* ~~Come to meetings. Build relations with Core Team Members. Be active on Slack.~~
 
 ### Guidelines for Core Team Members -
 
