@@ -9,11 +9,10 @@ toc=true
 * **Executive Heads**: The public face, managers and the decision makers.
 * Rest -
   * **Core Team Members**: Freshers batch. (< 1 year of experience)
-  * **Executive Members**: Batchmates of Executive Heads.
   * **Advisors**: People who have been an Executive member in the past and are still on the campus.
   * **Alumni**: People who have graduated but were Executives when on campus.
 
-Permanent membership of KOSS mandates serving one year as an Executive. But if advisors mutually agree that any particular human shouldn't be advisor due to several reasons like fundamentals, or their contribution as Executive then they can remove that particular human. 
+Permanent membership of KOSS mandates serving one year as an Executive. But if advisors mutually agree that any particular human shouldn't be advisor due to several reasons like fundamentals which includes work ethics and style(for example aristocratic), wrong inheritance of values(how things work, why things are the way they are etc) of being in KOSS, what values they are imparting/spreading to their junior and their batchmate and how much they are aligned with KOSS work culture or their contribution as Executive, then they can remove that particular human. Ref [ISSUE-16](https://github.com/kossiitkgp/docs/issues/16)
 
 
 ## The Story
