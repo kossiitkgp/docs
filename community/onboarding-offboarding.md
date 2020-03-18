@@ -20,14 +20,20 @@ See also [Fresher's Induction](/docs/community/freshers-induction).
 1. Make them store numbers of everyone in team
 
 ## How to re-designate Core Team Members as Executives?
-1. Make Executive Members the Admins of Slack workspace.
-1. Make Executive Heads the Owners of Slack workspace.
+1. Make all Executives the Admins of Slack workspace.
 1. Add all Executive Members and Heads to the `Admins` team on GitHub org. Remove them from the `Newbies` team.
 1. Ask an Owner of kossiitkgp GitHub org to change role of Executive Heads as `Owners`.
-1. Make Executive Heads the Owners of the Google Group.
+1. Make Executive Heads the Managers of the Google Group.
 1. Update Contacts README on `kossiitkgp/secrets`
 1. Release the names from blog/facebook page
 1. Update the “Members” section on the website
+
+## How to re-designate Executive Members as Advisors?
+1. Make all Advisors the Owners of Slack workspace.
+1. Make all Advisors the Owners of the Google Group.
+1. Update Contacts README on `kossiitkgp/secrets`
+1. Update the “Members” section on the website
+
 
 ## How to offboard someone from KOSS?
 
