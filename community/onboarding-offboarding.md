@@ -30,7 +30,7 @@ See also [Fresher's Induction](/docs/community/freshers-induction).
 
 ## How to re-designate Executive Members as Advisors?
 1. Make all Advisors the Owners of Slack workspace.
-1. Make Executive Heads the Owners of the Google Group.
+1. Make all Advisors the Owners of the Google Group.
 1. Update Contacts README on `kossiitkgp/secrets`
 1. Update the “Members” section on the website
 
