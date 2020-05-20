@@ -9,4 +9,4 @@ KOSS Documentation is meant to be read and followed by the members of KOSS. We k
 
 # How is KOSS Documentation published?
 
-The repository https://github.com/kossiitkgp/kossiitkgp.org uses this repository as a submodule to publish. If you make changes here, you will need to updated https://github.com/kossiitkgp/kossiitkgp.org to get it published.
+The repository https://github.com/kossiitkgp/kossiitkgp.org uses this repository as a submodule to publish.
