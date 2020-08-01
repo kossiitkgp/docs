@@ -15,6 +15,6 @@ By acceptance, we mean that they will hold a number of responsibilities
 - Attend our meetings
 - Participate in our workshops and their logistics
 - Collaborate on projects together
-- Be a great team member
+- Be an active member of the society
 
 However, we have been collaborating with non-KOSS members since forever. They are welcoming to join/lead our events or pitch something to us. If they want to talk about something, we can have them in one of your meetings as well. There are no such rules preventing the same.
