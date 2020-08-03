@@ -11,7 +11,7 @@ We recruit UG 1st years in the team, preferably after they have spent one semest
 For more detailed description, refer [Freshers' Selection](/docs/events/freshers-selection)
 
 ## Do we accept M.Tech and Ph.D students?
-By acceptance, we mean that they will hold a number of responsibilities
+No. By acceptance, we mean that they will hold a number of responsibilities
 - Attend our meetings
 - Participate in our workshops and their logistics
 - Collaborate on projects together
