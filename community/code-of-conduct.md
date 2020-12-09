@@ -4,23 +4,23 @@ toc=true
 
 +++
 
-# [Name Option 1] Workplace Harassment - Code of Conduct 
-# [Name Option 2] An informal guide to avoid and deal with events of harassment and bullying
-# [Name Option 3] Workplace Harassment - An informal guide
+
+# Workplace Harassment - An informal guide
 
 ## Some basic fundamentals
 
-1. Humans are flawed and make mistakes on a regular basis while discovering new ways to hurt new people.
+1. Humans are flawed and make mistakes on a regular basis.
 
 2. We don't live in an ideal world, so we are not dealing with ideal scenarios.
 
 3. But the above statement doesn't provide wind to the practicality argument. Practicality argument is an exceptionally dangerous proposition in itself. So any time any particular statement is backed up by "being practical", it should take care of few things :-
    1. Being practical means what can be done or is possible in some finite duration. So it should be aggressively progressive in nature and it shouldn't settle on "n" but "n + ∞". We can start from "n" but the vision should be clear to reach "n + ∞" as fast as possible.
    2. It should be “enabler” in nature.
+   3. Example :- Just assume some company x is going to sponsor our events for which the whole team has put a lot of efforts, but during that time, a team member y came to know about few events of harassment, so a persuasive member might convince the team that, "it's not practical to reveal these events to public, let's bury it for now".
 
 4. Any democratic argument in case of harassment should be thrown out of the window immediately. For example, "9 out of 10 people are okay with this".
 
-5. Humans are not rational, so don't expect them to behave rationally. We are totally full of feelings.
+5. We at times can be irrational due to circumstances sometimes in our control and sometimes beyond our control.
 
 6. We don't accept snowflake argument. Some people have thick skin and are borderline stoic, and they think that "I am responsible for my feelings" and on the opposite end of emotional spectrum, are people who think that "You don't get to decide if you hurt someone". We will try to have an inclusive space for both of these people.
 
@@ -28,78 +28,104 @@ toc=true
 
 8. Convincing a human that they are wrong or have done wrong is exceptionally tough.
 
-9. Humans have double standards. Deal with it.
+9. All decisions must always be taken wrt the current scenario. Disregarding someone's opinion because of past behavior is wrong. 
+
+10. Adding "genuinely" prefix in front of sorry doesn't help.
 
 ## Basic Protocol in case you are harassed/bullied/found something offensive/weird/unacceptable
 
 Subject -> Who has been harassed/bullied
 
-Type 1 :- Constitutionally Legal Offense
+Type 1 :- Constitutionally Legal Offense  
+
+In case of sexual harassment, constitutional legal offense comprises of but is not limited to :-
+
+1. physical contact and advances; or
+2. a demand or request for a sexual favour; or
+3. making sexually coloured remarks; or
+4. showing pornography; or
+5. any other unwelcome physical, verbal or non-verbal conduct of sexual nature;
+  
+[Ref](https://www.indialegallive.com/special-story/the-legal-perspective-of-mental-harassment/)
 
 1. In this case the team is requested not to micromanage. let it go through official channels of college and judiciary and let them deal with it.
+2. Contact [ICC](http://www.iitkgp.ac.in/internal-complaints-committee)
 
+### Note  
 Type 2 :- Everything Else
 
-1. If it has happened for the first time, dm the person. And let {pronoun} know that this behaviour is offensive to the subject. If not comfortable confronting then **????????????? @team comments**
-2. Post on a public forum that the subject finds this particular behaviour offensive/xyz. Name calling doesn't help.
-3. If it's repetitive, **what to do ???????????????????? @team , comments**
+1. If it has happened for the first time, dm the person. And let {pronoun} know that this behaviour is offensive to the subject. If not comfortable confronting then talk to your 1:1 senior, or anyone whom you feel comfortable asking for advice. Do get advice from multiple trusted people before landing on a pathway of action.
 
-## Basic Protocol in case you are accused of harassment/bullying/offending/doing weird shits/unacceptable behaviour
+2. Also, securing evidence of the harassment is important as it substantiates the claims made.
+
+3. Post on a public forum that the subject finds this particular behaviour offensive/xyz. Name calling doesn't help.
+4. If there are multiple incidents already, it is more than likely that this will repeat, therefore stricter measures are necessary.
+
+## Basic Protocol in case you are accused of harassment/bullying/offending/unacceptable behaviour
 
 Subject -> Who has been accused
 
 1. Well the subject can start by saying sorry, and ensuring that similar behaviour is not repeated in front of the person who has accused the subject "ever". If it's ingrained in the subject’s habit let the accussee know that, it's in your habit you will make sincere effort to decrease the frequency. The subject can take a note and share updates of progress {pronoun} have made on that person's feedback.
-2. Adding "genuinely" prefix in front of sorry doesn't help.
-3. It doesn't matter if the subject’s sorry or change is genuine or fake, as long as it's change it's good.
+
+2. It doesn't matter if the subject’s sorry or change is genuine or fake, as long as it's change for good it's good.
 
 ## Basic Protocol in case you have noticed harassment.
 
-**@team comments**
+
+1. Inform other team members, see about their perspective if they have also witnessed the incident or any other incidents with same accused.
+2. Ask the victim what they want to do about it. Refer to them this guide and let them take the appropriate decisions.
+3. Care should be taken that the incident does not become a means to defame, harass, or trouble the accused until the incident is established and proven.
+4. Proven in a lost sense that there are enough reasons established to conclude that the accused is guilty.
 
 
 
 ## Basic Protocol in case you are an executive/advisor and have to take action
 
-**@team comments**
+
+1. If it's comes under legal offense, advise the victim to directly deal with the authorities and provide all the necessary support. Time is crucial in such cases and the sooner the matter is pursued for prosecution the better.
+
+2. If it doesn't come under legal offense, Inform other team members, see about their perspective if they have also witnessed the incident or any other incidents with same accused. Make sure the discussion doesn't continue indefinitely.
+
+3. Mediate the conversation between the victim and the accused. The accused may try gaslighting as a way out
+
+4. The matter is over if :-
+   1. It is a single incident and the accused is ready for amends
+   2. The victim is fine with the amends and doesn't want to take this further
+   3. Note - If the victim is not fine with the amends, ask them to suggest what will be fine. If a settlement is not reached, suggest the victim to make the accusation public, if it helps.
+
+5. With majority approval of advisors and substantiated proof of the incident is enough to terminate the accused from KOSS. The reason of termination should be made public to stop rumors and misinformation.   
 
 ## What is Considered as Sexual Harassment at Work Place ?
 
-What workplace at koss includes, **@team ????????????**
+
+### What workplace at koss includes :-
+
+1. Slack workspace
+2. A team outing (similar to an office party)
+3. Events and Event meetups
+
+### Note 1 
+Members of KOSS can always support the victim on other platforms without any intervention from KOSS. However, they should not depict this as a support from the entire society unless anything of that nature is released from the page, the decision of which lies with the Execs and the Advisors.  
+
+### Note 2
+It may happen that A has raised concerns over remarks made by B outside of the KOSS workplace and which do not concern KOSS in anyway, but both A and B happen to be KOSS members, then it is not a situation where KOSS should intervene, I believe. Besides, we are not equipped in any way to deal with such situations.  
 
 Sexual harassment includes many things but is not limited to
 
 [Ref](https://www.un.org/womenwatch/osagi/pdf/whatissh.pdf)
 
-1. Actual or attempted rape or sexual assault.
-2. Unwanted pressure for sexual favors.
-3. Unwanted deliberate touching, leaning over, cornering, or pinching.
-4. Unwanted sexual looks or gestures.
-5. Unwanted letters, telephone calls, or materials of a sexual nature.
-6. Unwanted pressure for dates.
-7. Unwanted sexual teasing, jokes, remarks, or questions.
-8. Referring to an adult as a girl, hunk, doll, babe, or honey.
-9. Whistling at someone.
-10. Cat calls.
-11. Sexual comments.
-12. Turning work discussions to sexual topics.
-13. Sexual innuendos or stories.
-14. Asking about sexual fantasies, preferences, or history.
-15. Personal questions about social or sexual life.
-16. Sexual comments about a person's clothing, anatomy, or looks.
-17. Kissing sounds, howling, and smacking lips.
-18. Telling lies or spreading rumors about a person's personal sex life.
-19. Neck massage.
-20. Touching an employee's clothing, hair, or body.
-21. Giving personal gifts., Hanging around a person.
-22. Hugging, kissing, patting, or stroking.
-23. Touching or rubbing oneself sexually around another person.
-24. Standing close or brushing up against a person.
-25. Looking a person up and down (elevator eyes).
-26. Staring at someone.
-27. Sexually suggestive signals.
-28. Facial expressions, winking, throwing kisses, or licking lips.
-29. Making sexual gestures with hands or through body movements.
-
+| Physical | Verbal | Non-Verbal |
+|--------- | ------ | ---------  |
+| Touching the person's clothing, hair, or body | Referring to an adult as a girl, hunk, doll, babe, or honey | Looking a person up and down (Elevator eyes) |
+| Hugging, kissing, patting, or stroking | Whistling at someone, cat calls | Staring at someone |
+| Touching or rubbing oneself sexually around another person | Making sexual comments about a person's body , innuendos , Turning work discussions to sexual topics | Blocking a person's path |
+| Standing close or brushing up against another person | Telling sexual jokes or stories | Following the person |
+| Actual or attempted rape or sexual assault | Asking personal questions about social or sexual life | Giving personal gifts |
+| Unwanted deliberate touching, leaning over, cornering, or pinching | Making kissing sounds, howling, and smacking lips | Displaying sexually suggestive visuals | 
+| | Making sexual comments about a person's clothing, anatomy, or looks | Making sexual gestures with hands or through body movements
+| | Repeatedly asking out a person who is not interested | Making facial expressions such as winking, throwing kisses, or licking lips
+| | Telling lies or spreading rumors about a person's personal sex life |
+| | obscene calling/texting or objectionable messaging | |
 
 
 The point of having this list, is to make people aware that these things can be considered offensive and harassment, by some people. We come from different culture, for example hugging might be quite common in a few culture, but might not be well received by some other culture. So asking “if a person is comfortable” might help in all verbal/non-verbal/physical contact.
@@ -161,6 +187,6 @@ But we request the team members to keep their personal agenda/mission and bias t
 
 Cons, if you follow the above statement line by line :- Classifying someways as direct and someways as indirect is itself filled with bias. Some seemingly indirect ways can bring more people to open source than seemingly direct ways. So the above statement should be taken as guideline, and not limit the team to experiment with new things. This guideline is just there to avoid unnecessary conflicts/misunderstanding/politicisation etc of our workspace and digress too much from our goal.
 
-Nitpicking replies/comments/reactions based on based on team member’s  gender/sexual preferences/political opinions should be strictly avoided.
+Nitpicking replies/comments/reactions based on team member’s  gender/sexual preferences/political opinions should be strictly avoided.
 
-**Example :- A person with a mission to uplift and empower women technocrats can seem as intentional favouring to achieve and fulfill personal desires. Now thinking in this way, my intentions are good, so it doesn’t matter what other people think is not acceptable. It does matter and your actions affect the whole organisation. It’s a good cause, but the way and place might not be appropriate.** 
+**Example :- A person with a mission to uplift and empower women technocrats can seem, as intentional favouring to achieve and fulfill personal desires. Now thinking in this way, my intentions are good, so it doesn’t matter what other people think about me, is not acceptable. It does matter and your actions affect the whole organisation. It’s a good cause, but the way and place might not be appropriate.**
