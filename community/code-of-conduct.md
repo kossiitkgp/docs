@@ -40,11 +40,11 @@ Type 1 :- Constitutionally Legal Offense
 
 In case of sexual harassment, constitutional legal offense comprises of but is not limited to :-
 
-1. physical contact and advances; or
-2. a demand or request for a sexual favour; or
-3. making sexually coloured remarks; or
-4. showing pornography; or
-5. any other unwelcome physical, verbal or non-verbal conduct of sexual nature;
+1. physical contact and advances
+2. a demand or request for a sexual favour
+3. making sexually coloured remarks
+4. showing pornography
+5. any other unwelcome physical, verbal or non-verbal conduct of sexual nature
   
 [Ref](https://www.indialegallive.com/special-story/the-legal-perspective-of-mental-harassment/)
 
@@ -69,13 +69,16 @@ Subject -> Who has been accused
 
 2. It doesn't matter if the subject’s sorry or change is genuine or fake, as long as it's change for good it's good.
 
+Note 1 :- Such things are extremely contextual. There could have been a big misunderstanding due to which the other person felt uncomfortable. In those cases both the accusee and accused are requested to handle the situation with utmost humanity and not to scar the other person for life.
+ 
+
 ## Basic Protocol in case you have noticed harassment.
 
 
 1. Inform other team members, see about their perspective if they have also witnessed the incident or any other incidents with same accused.
 2. Ask the victim what they want to do about it. Refer to them this guide and let them take the appropriate decisions.
 3. Care should be taken that the incident does not become a means to defame, harass, or trouble the accused until the incident is established and proven.
-4. Proven in a lost sense that there are enough reasons established to conclude that the accused is guilty.
+4. Proven in a loose sense that there are enough reasons established to conclude that the accused is guilty.
 
 
 
@@ -167,7 +170,7 @@ Having empathy and good will for the affected person is great, but the truth is 
 1. Just asking/demanding for a thicker skin won't magically generate a thicker skin.
 2. Not every time humans have the energy and need to change.
 
-So rather than expecting and introducing toxic culture for developing thicker skin, the subject is requested to just fucking change themselves temporarily/selectively. It might be general or it can be personalized, but change is necessary.
+So rather than expecting and introducing toxic culture for developing thicker skin, the subject is requested to change themselves temporarily/selectively. It might be general or it can be personalized, but change is necessary.
 
 ## Status Game
 
