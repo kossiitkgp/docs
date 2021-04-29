@@ -1,0 +1,77 @@
++++
+
+toc=true
+
++++
+
+# 1. Logistics
+
+- Decide the date and time of the event as per the convenience of speakers and audience. Conducting events during exams or some other important event might not be a good idea in general. Checking academic calendar and other events in KGP is suggested.
+- Publicize the event at least 2 or 3 days before the workshop. Publicizing earlier will fade away the event info from memory and publicizing late will be difficult for audience to plan.
+
+- Share the Post via Facebook, Twitter and Linkedin via KOSS Page.
+
+- Speakers should be decided atleast a week before the workshop, giving them enough time to prepare.
+- It is important to have backup speakers at least for 2 levels.
+- Speakers of the event should have enough practical experience with the topic. The experience is necessary so that speaker can convey the content in the simplest way and clear doubts accordingly.
+- It is highly recommended that the Slides for the event are made from scratch by the speaker.  Preparing from scratch will help you to add creativity and newness.  Also
+  - Feel free to look up at previous slides for inspiration - TODO: PREV slides repo
+  - Make sure that something important that has been covered in the past doesn't gets removed.
+  - Feel free to remove or edit stuff if you ever feel some part of the content is unnecessary and irrelevant. 
+  - Make sure to take feedback from other members of KOSS regarding the slides. It is suggested to have the discussion over a meet to discuss things like potential queries from audience, thinking of ways to simplify content.
+
+- Make a github repo for the workshop with name as event name and year which contains - installation instructions, slides, references, recording and others.
+
+## 1.1 Internal
+
+- Keep in touch regularly with other team mates on updates regarding the event. Regular communication on #events channel is suggested.
+- Meet regularly to discuss stuff. It is advisable to send mail invites even for a smaller meet, to avoid procrastination.
+
+
+
+# 2. Technicalities
+
+## 2.1 How to decide the Topic:
+
+- Make sure that the topic adds value to the community. The topic doesn't have to be sexy.
+- Atleast a couple of members at KOSS should have enough practical experience to speak about the topic
+
+## 2.2 How to decide the content
+
+ Make sure that the content adds a practical value to the audience. It might be tempting to add bit of cool jargon or theoretically detailed stuff to impress. But it is not suggested. For every slide, ask - Is this something that adds practical value. Will knowing or not knowing a particular thing affect the practical understanding of the topic. For example, consider explaining the idea of Merkel Tree in git, it might not be necessary to include the explanation of Merkel tree. As someone getting started with git, it is more important to practically understand staging area, branching, commits, sending a PR, pushing and pulling. When we get into details like Merkel Tree, audience might loose track of the event and loose interest. However, for the curious audience, it is a good idea to include such things at the end of the workshop, and provide further resources to explore more. But during the core period of the workshop, make sure that they get a practical hands on experience(which is what they have come for, otherwise they could have learnt it on YouTube too!)
+
+## 2.3 How to organize or approach content:
+
+- **2.3.1 Introduction:** It is a good idea to tell the audience the following things: 
+
+  - What they should take away from the workshop. For example, if it is git workshop, convey that by the end of the workshop they will be comfortable to track their project using git and know how to send a Pull Request properly to a open source repository on Github.
+
+  - Give the audience about how the flow of workshop would be. For example...
+
+    - While hands on, asking them to do them along with the speaker
+    - There will be small doubt sessions periodically **or** may be if the speaker is comfortable, he/she may ask the audience to interrupt in middle and ask the query. (It is a good idea to take breaks after each micro-century)
+    - It is a good idea to warn the audience if there is a long strech of theoretical discussion for the next few minutes.
+
+  - **2.3.2 Technical introducing a new topic**: If you are introducing any new topic, it is suggested to try either of the two methods
+
+    - **First principles approach**: Introducing the topic from the ground up. Don't just bring up a word and say, "we are going to learn about this X topic now". Bring the situation to explain why something of this sought is necessary. For example, in git consider the topic "branching". Introducing a problem in the beginning, where git branching is a super-useful solution, this will help the audience grasp the idea better.
+
+    - **Using Analogy**: It is always a useful thing to give a analogy with something which people already know. For  example, in git consider the idea of staging area. The staging area is generally difficult to grasp for someone new to git. To explain this, one can use "shopping in a mall"  analogy. 
+
+      - Selecting items from the rack <-> Making changes in the files
+
+      - Adding items in the shopping cart <-> Adding files in the staging area using `git add `
+
+      - Billing at the counter <-> Commiting the changes
+
+        The above analogy was found in a stack exchange answer. TODO-add link. Good analogies can be found by searching for intuitive explanations for the topic on web or by brainstorming with the team.
+
+        **Caution**: **Make sure to be aware of the consequences of the analogy used. Sometimes analogies can be misguiding. In that case, it is suggested to chose a different analogy. Alternatively, you can also warn the audience that the crafted analogy does not hold for further ideas. The analogy is only helpful for this concept.**
+
+      ​	
+
+    ## 2.4 After workshop:
+      - Upload the slides and reference in the Github repo made for the workshop
+      - Once audience has learnt the basics from our workshop. We should encourage the curious to explore more advanced and interesting topics on their own. Hence for such people, update further reading material or links to explore more regarding the topic.
+      - Share the updated repo's link along with a thanks for the audience. It is a good idea if the post explains the contents of the repo. TODO - git workshop teams post image link
+      - For sake of posterity, update the kossiitkgp/slides repo - TODO add link
