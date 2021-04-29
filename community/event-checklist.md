@@ -19,7 +19,8 @@ toc=true
   - Make sure that something important that has been covered in the past doesn't gets removed.
   - Feel free to remove or edit stuff if you ever feel some part of the content is unnecessary and irrelevant. 
   - Make sure to take feedback from other members of KOSS regarding the slides. It is suggested to have the discussion over a meet to discuss things like potential queries from audience, thinking of ways to simplify content.
-
+- Refer [kossiitkgp/mistakes](https://github.com/kossiitkgp/mistakes) repository to get an idea of what sought of things can go wrong.
+- It is a good idea to record the event(offline/online) for the sake of posterity.
 - Make a github repo for the workshop with name as event name and year which contains - installation instructions, slides, references, recording and others.
 
 ## 1.1 Internal
@@ -75,3 +76,4 @@ toc=true
       - Once audience has learnt the basics from our workshop. We should encourage the curious to explore more advanced and interesting topics on their own. Hence for such people, update further reading material or links to explore more regarding the topic.
       - Share the updated repo's link along with a thanks for the audience. It is a good idea if the post explains the contents of the repo. TODO - git workshop teams post image link
       - For sake of posterity, update the kossiitkgp/slides repo - TODO add link
+      - Update the [kossiitkgp/mistakes](https://github.com/kossiitkgp/mistakes) repository 
