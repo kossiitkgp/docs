@@ -37,7 +37,7 @@ toc=true
 - Keep in touch regularly with other team mates on updates regarding the event. Regular communication on #events channel is suggested.
 - Meet regularly to discuss stuff. It is advisable to send mail invites even for a smaller meet, to avoid procrastination.
 
-
+- **Making the workshop interactive**: It is always a good thing to keep the workshop interactive. If the workshop is conducted offline, we can have members of KOSS help people personally with hands on during the workshop and clear doubts more personally. But during an online workshop, this is not possible. So for sake of interaction, the speakers can encourage the audience to share the screen to show the work, for kind of validation and it also helps the rest of the audience. Asking the audience to share their screen in case of difficulties should also be encouraged. However note that,**do not force the audience to share their screen for sake of interaction. It has be voluntary and audience should not feel uncomfortable through such actions.**
 
 # 2. Technicalities - Workshop content
 
