@@ -43,7 +43,7 @@ toc=true
 
 ## 2.1 How to decide the Topic for the workshop
 
-- Make sure that the topic adds value to the community. The topic doesn't have to be sexy.
+- Make sure that the topic adds value to the community. The topic doesn't have to be trendy or in vogue.
 - Atleast a couple of members at KOSS should have enough practical experience to speak about the topic
 
 ## 2.2 How to decide the content of the workshop
