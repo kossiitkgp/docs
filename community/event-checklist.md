@@ -84,7 +84,7 @@ Make sure to give enough time to cover the queries and concerns of the audience 
 
     # 3.  Logistics - After workshop
 
-    ✔️Upload the slides and reference in the Github repo made for the workshop
+    ✔️Upload the slides and reference in the GitHub repo made for the workshop.
 
     ✔️Once the audience has learned the basics from our workshop, we should encourage the curious ones to explore more advanced and interesting topics on their own. Hence for such people, update further reading material or links to explore more regarding the topic.
 
