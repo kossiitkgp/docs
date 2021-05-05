@@ -12,7 +12,7 @@ toc=true
 
 ✔️Speakers should be **_decided atleast a week_** before the workshop, giving them enough time to prepare.
 
-✔️It is important to have backup speakers for atleast 2 levels.(A backup speaker for the decided speaker. Another backup speaker for the backup speaker)
+✔️It is important to have _atleast two_ backup speakers for each speaker.(One for the speaker, one for the backup speaker)
 
 ✔️Speakers of the event should have enough practical experience with the topic. The experience is necessary so that speaker can convey the content in the simplest way and clear doubts.
 
