@@ -86,7 +86,7 @@ Make sure to give enough time to cover the queries and concerns of the audience 
 
     ✔️Upload the slides and reference in the Github repo made for the workshop
 
-    ✔️Once audience has learnt the basics from our workshop. We should encourage the curious to explore more advanced and interesting topics on their own. Hence for such people, update further reading material or links to explore more regarding the topic.
+    ✔️Once the audience has learned the basics from our workshop, we should encourage the curious ones to explore more advanced and interesting topics on their own. Hence for such people, update further reading material or links to explore more regarding the topic.
 
     ✔️Share the updated repo's link along with a thanks for the audience. It is a good idea if the post explains the contents of the repo. A Facebook post after the workshop serves the purpose (For example, refer - [1](https://i.imgur.com/IoZsw6r.png),[2](https://i.imgur.com/fHflDQ2.png)).
 
