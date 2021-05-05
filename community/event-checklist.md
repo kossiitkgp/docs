@@ -6,7 +6,7 @@ toc=true
 
 ✔️Decide the **_date and time_** of the event as per the convenience of speakers and audience. Conducting **_events during exams_** or some other important event might **_not be a good idea_** in general. Checking **_academic calendar_** and other events in KGP is suggested.
 
-✔️Publicize the event at least 2 or 3 days before the workshop. Publicizing earlier will fade away the event info from memory and publicizing late will be difficult for audience to plan.
+✔️Publicize the event at least **_2 or 3_** days before the workshop. Publicizing earlier will fade away the event info from memory and publicizing late will be difficult for the audience to plan for.
 
 ✔️Share the Post via Facebook, Twitter and Linkedin via KOSS Account.
 
