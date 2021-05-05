@@ -66,7 +66,7 @@ Make sure to give enough time to cover the queries and concerns of the audience 
     - There will be small doubt sessions periodically **or** may be if the speaker is comfortable, he/she may ask the audience to interrupt in middle and ask the query. It is a good idea to take breaks after each [microcentury](https://susam.in/blog/microcentury/)
     - It is a good idea to warn the audience if there is a long strech of theoretical discussion for the next few minutes.
 
-  - **2.3.2 Introducing a new topic**: If you are introducing any new topic, it is suggested to try either of the two methods
+  - **2.3.2 Introducing a new topic**: If you are introducing any new topic, it is suggested to try either of the two methods - 
 
     - **First principles approach**: Introducing the topic from the ground up. Don't just bring up a word and say, "we are going to learn about this X topic now". Bring the situation to explain why something of this sought is necessary. For example, in git consider the topic "branching". Introducing a problem in the beginning, where git branching is a super-useful solution, this will help the audience grasp the idea better.
 
