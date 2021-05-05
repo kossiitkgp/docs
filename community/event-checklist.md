@@ -68,7 +68,7 @@ Make sure to give enough time to cover the queries and concerns of the audience 
 
   - **2.3.2 Introducing a new topic**: If you are introducing any new topic, it is suggested to try either of the two methods - 
 
-    - **First principles approach**: Introducing the topic from the ground up. Don't just bring up a word and say, "we are going to learn about this X topic now". Bring the situation to explain why something of this sought is necessary. For example, in git consider the topic "branching". Introducing a problem in the beginning, where git branching is a super-useful solution, this will help the audience grasp the idea better.
+    - **First principles approach**: Introducing the topic from the ground up. Don't just bring up a word and say, **_"we are going to learn about this X topic now"_**. Bring the situation to explain why something of this sought is necessary. For example, in git consider the topic "branching". Introducing a problem in the beginning, where git branching is a super-useful solution, this will help the audience grasp the idea better.
 
     - **Using Analogy**: It is always a useful thing to give a analogy with something which people already know. For  example, in git consider the idea of staging area. The staging area is [generally difficult to grasp](https://github.com/kossiitkgp/mistakes/blob/master/git-workshop.md#git-workshop-2018) for someone new to git. To explain this, one can use "shopping in a mall"  analogy. 
 
