@@ -4,7 +4,7 @@ toc=true
 
 # 1. Logistics - Before the Workshop
 
-✔️Decide the date and time of the event as per the convenience of speakers and audience. Conducting events during exams or some other important event might not be a good idea in general. Checking academic calendar and other events in KGP is suggested.
+✔️Decide the **_date and time_** of the event as per the convenience of speakers and audience. Conducting **_events during exams_** or some other important event might **_not be a good idea_** in general. Checking **_academic calendar_** and other events in KGP is suggested.
 
 ✔️Publicize the event at least 2 or 3 days before the workshop. Publicizing earlier will fade away the event info from memory and publicizing late will be difficult for audience to plan.
 
@@ -93,4 +93,3 @@ Make sure to give enough time to cover the queries and concerns of the audience 
     ✔️For sake of posterity, update the [kossiitkgp/slides](kossiitkgp/slides) repo
 
     ✔️Update the [kossiitkgp/mistakes](https://github.com/kossiitkgp/mistakes) repository 
-
