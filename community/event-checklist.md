@@ -18,7 +18,7 @@ toc=true
 
 ✔️It is highly recommended that the Slides for the event are made from scratch by the speaker.  Preparing from scratch will add creativity and newness to the content. New and simpler ways to present a topic might come out.  Also...
 
-​      🗸Feel free to look up at previous slides at [kossiitkgp/slides](https://github.com/kossiitkgp/slides) repo for inspiration
+​      🗸Feel free to look up at previous slides at [kossiitkgp/slides](https://github.com/kossiitkgp/slides) repo for inspiration.
 
 ​     🗸Make sure that something important that has been covered in the past doesn't gets removed.
 
