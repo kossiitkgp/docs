@@ -78,7 +78,7 @@ Make sure to give enough time to cover the queries and concerns of the audience 
 
       - Billing at the counter <-> Commiting the changes
 
-        The above analogy was inspired from a [stack exchange answer by Spoike](https://softwareengineering.stackexchange.com/questions/119782/what-does-stage-mean-in-git), Later modified by Pankaj Kumar. Good analogies can be found by searching for intuitive explanations for the topic on web and also by brainstorming with the team. The above analogy was a result of both!
+        The above analogy was inspired from a [stack exchange answer by Spoike](https://softwareengineering.stackexchange.com/questions/119782/what-does-stage-mean-in-git), Later modified by @Shankusu993 . Good analogies can be found by searching for intuitive explanations for the topic on web and also by brainstorming with the team. The above analogy was a result of both!
 
         **Caution**: **Make sure to be aware of the consequences of the analogy used. Sometimes analogies can be misguiding. In that case, it is suggested to chose a different analogy. Alternatively, you can also warn the audience that the crafted analogy does not hold for further ideas. The analogy is only helpful for this concept.**
 
