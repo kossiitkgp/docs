@@ -10,7 +10,7 @@ toc=true
 
 ✔️Share the Post via Facebook, Twitter and Linkedin via KOSS Account.
 
-✔️Speakers should be decided atleast a week before the workshop, giving them enough time to prepare.
+✔️Speakers should be **_decided atleast a week_** before the workshop, giving them enough time to prepare.
 
 ✔️It is important to have backup speakers for atleast 2 levels.(A backup speaker for the decided speaker. Another backup speaker for the backup speaker)
 
