@@ -44,7 +44,7 @@ toc=true
 ## 2.1 How to decide the Topic for the workshop
 
 - Make sure that the topic adds value to the community. The topic doesn't have to be trendy or in vogue.
-- Atleast a couple of members at KOSS should have enough practical experience to speak about the topic
+- Atleast a couple of members at KOSS should have enough practical experience to speak about the topic. The practical experience is helpful in organizing and delivering the contents of the workshop in a simple and intutive way. Otherwise, it would lead to just reproducing the content online, which is less valuable.
 
 ## 2.2 How to decide the content of the workshop
 
