@@ -23,7 +23,7 @@
 ## Registration:
 
 -  It is recommended to start the registrations in the first week of November. At maximum, the registrations should begin by third week of November. Please do not delay the registrations further.
-- It is suggested that both Student, Mentor and Project Registrations begin at the same time.  
+- It is suggested that Student, Mentor and Project Registrations begin at the same time.  
 - Release a Facebook, Twitter and LinkedIn Post from KOSS account. The post should contain the following things:
   - Briefly about KWoC
   - Mentor and Student Docs' Links
@@ -60,7 +60,7 @@ It is suggested a group of dedicated people from KOSS handle complaints and quer
 - **Mid evals criteria**:
   - **KWoC 20 criteria**: Having atleast one commit before was the criteria for clearing Mid evals. If the mentor has been inactive and the PR remains unmerged. We asked the students to mail 
   - In the previous KWoCs, there was a form, which was to filled by mentors. However, to automate stuff the single commit criteria was implemented. 
-  - You are encouraged to make changes in the Mid Eval criteria, but make sure that it is fair and is not too hard to clear. (Remember, KWoC was meant to encourage beginners)
+  - You are encouraged to make changes in the Mid Eval criteria, but make sure that it is fair and is not too hard to clear. (Remember, KWoC is meant to encourage beginners)
 - In case of serious emergencies, do not hesitate cancel mid evaluations. For example, in 2019 when there was a ban of internet in few states, the mid evals were cancelled. 
 - In case, if any individual is unable to clear mid evals due to some genuine reasons, it should be considered.
 
