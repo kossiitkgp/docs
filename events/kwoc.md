@@ -92,7 +92,7 @@ It is suggested a group of dedicated people from KOSS handle complaints and quer
 
 ## Miscellaneous
 
-- Take an anonymous feedback about the proceedings of KWoC from participants(preferably after end evals blog has been submitted).
+- Take anonymous feedback about the proceedings of KWoC from participants. Preferably after the submission of the end evals blog.
 
 - Update [kossiitkgp/mistakes](https://github.com/kossiitkgp/mistakes) repo for the sake of posterity based on feedback and other things that went wrong.
 
