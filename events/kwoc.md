@@ -83,7 +83,7 @@ It is suggested a group of dedicated people from KOSS handle complaints and quer
 
 - Along with the name of the participant, the certificate must contain the following links
   - Verification link: A link of certificate hosted on a Public repository of KOSS - [kossiitkgp/public-files](https://github.com/kossiitkgp/public-files)
-  - Stats link: A link containing Student's stats in case of a student and Project(s) Stats in case of Mentor.
+  - Stats link: A link containing the Student's or the Project's stats respectively for a student or a Mentor.
 
 - Move the website from `kwoc.kossiitkgp.org` to `kwoc{Y}.kossiitkgp.org`, where {Y} takes the value of year conducted. This must be done so that the stats are hosted on latter domain and the former - `kwoc.kossiitkgp.org`  is reused next year.
 
