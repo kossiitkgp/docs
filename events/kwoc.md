@@ -85,7 +85,7 @@ It is suggested a group of dedicated people from KOSS handle complaints and quer
   - Verification link: A link of certificate hosted on a Public repository of KOSS - [kossiitkgp/public-files](https://github.com/kossiitkgp/public-files)
   - Stats link: A link containing the Student's or the Project's stats respectively for a student or a Mentor.
 
-- Move the website from `kwoc.kossiitkgp.org` to `kwoc{Y}.kossiitkgp.org`, where {Y} takes the value of year conducted. This must be done so that the stats are hosted on latter domain and the former - `kwoc.kossiitkgp.org`  is reused next year.
+- Move the website from `kwoc.kossiitkgp.org` to `kwoc{Y}.kossiitkgp.org` (e.g. `kwoc19.kossiitkgp.org` for KWoC19). Thereafter, the stats are hosted on the latter while the former is reused next year.
 
 - The certificates should be hosted on public files repo - [kossiitkgp/public-files](https://github.com/kossiitkgp/public-files)
 - The certificates in PDF formats should be sent via mail to the participants.
