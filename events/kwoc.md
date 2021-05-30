@@ -1,7 +1,7 @@
 ## First things first 
 
 - KWoC is a month long event, generally conducted in December.
-- Registrations start atleast a week before the coding period(More than a week is preferred)
+- Registrations start at least a week before the coding period (more than a week is preferred).
 - Coding period is generally 4 weeks long
 - Mid evals are held after around 2 weeks of coding period
 - End evals are done after the coding period
