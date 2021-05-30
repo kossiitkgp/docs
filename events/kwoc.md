@@ -87,7 +87,7 @@ It is suggested a group of dedicated people from KOSS handle complaints and quer
 
 - Move the website from `kwoc.kossiitkgp.org` to `kwoc{Y}.kossiitkgp.org` (e.g. `kwoc19.kossiitkgp.org` for KWoC19). Thereafter, the stats are hosted on the latter while the former is reused next year.
 
-- The certificates should be hosted on public files repo - [kossiitkgp/public-files](https://github.com/kossiitkgp/public-files)
+- The certificates must be hosted on the public files repo - [kossiitkgp/public-files](https://github.com/kossiitkgp/public-files)
 - The certificates in PDF formats should be sent via mail to the participants.
 
 ## Miscellaneous
