@@ -8,7 +8,7 @@
 
 ## Pre-registration
 
-- The following things should be ready and updated:-
+- The following things should be ready (or updated) :-
 
   - Website with registration feature tested internally.
   - FAQs on the website
