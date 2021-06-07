@@ -20,7 +20,7 @@ toc=true
 
 * We conduct workshops and events to share the culture of OSS with the KGP folks.
 
-* We conduct KWoC(Kharagpur Winter of Code) which is a winter long contribution program for new contributors.
+* We conduct [KWoC(Kharagpur Winter of Code)](https://kwoc.kossiitkgp.org/) which is a winter long contribution program for new contributors.
 
 * We conduct Open Source Summmit, where we invite people from all around India about their experiences with Open Source Software.
 
