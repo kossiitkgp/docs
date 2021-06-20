@@ -30,6 +30,7 @@
   - Instructions to register
   - A KWoC workspace invite link. (Already existing one or New Slack workspace can be created)
 -  Make sure to take database backups periodically.
+-  When projects are being registered, they should not be immediately shown on the Projects Page. The projects should be shown only when they are accepted. During the registration period, the projects should be accepted frequently(atleast on a daily basis). The guidelines to accept projects are discussed [here](https://github.com/kossiitkgp/mistakes/blob/master/kwoc20.md) (2nd point in `Logistical` section).  
 
 ## Complaints and Queries
 
