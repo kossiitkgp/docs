@@ -103,6 +103,10 @@ A batch with more than 15 people is hard to manage. Increasing the team size mak
 
 ## Archives
 
+### 2020
+
+Facebook post - https://www.facebook.com/kossiitkgp/posts/4040891799321123
+
 ### 2019
 
 Facebook post - https://www.facebook.com/kossiitkgp/posts/2072478999495756
