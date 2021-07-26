@@ -22,19 +22,19 @@ In the post mention the fact that we will be available for installation issues b
 
 ## Flow of the workshop
 
--1. **How will the workshop proceed**
+0. **How will the workshop proceed**
 
    Explain that Git and Github are important parts of Software Development. Tell them how the workshop will proceed like when should audience ask queries. Tell the audience that doing hands-on by themselves along with the workshop will help them learn better. Encourage them to ask questions, as some of the Git concepts are non-intuitive.
 
-0. **Terminal Commands**
+1. **Terminal Commands**
 
    It might be a good idea to introduce basic linux Commands, as they will be used through out the workshop. You don't have to cover this topic in detail. Just important commands like - `ls`, `cat`, `echo` , `cd`, `mkdir`, `pwd` , `rm`would suffice. Windows users can be asked to try these commands on Git Bash. 
 
-1. **Why do we need something like Git**
+2. **Why do we need something like Git**
 
    Before teaching anything, it is important that audience understand why they are learning it. Start with an example, with which they can connect. Note that most of the audience might have not have collaborated on a software. You can give an example of a folder, containing so many files, which are regularly updated. Tell them that tools called "Version Control Systems" are used to track projects. Tell them the importance of maintaining History and backups. Then you can tell that how such tools are useful in Software development and conclude that Git is used to track Software projects.
 
-2. **Mental Model of Git**:
+3. **Mental Model of Git**:
 
    Directly jumping to the terminal would confuse the audience. It might be frustrating for audience to type commands that they don't understand. Hence, first explain how Git tracks your project. Tell that by Git stores snapshots of the project. And each snapshot is referred as commit. You can show a `git log` of a good project, to convey the idea of how snapshots are taken at every feature. 
 
@@ -42,17 +42,17 @@ In the post mention the fact that we will be available for installation issues b
 
    <u>Note</u>: Though it might be tempting to introduce the concepts of Decentralized VCS and Centralized VCS, Merkle Tree. Please refrain from jumping to complex concepts. We have only 3 hours. It is important that we convey them knowledge of practical usage. One can use Git comfortably without knowing Merkle Trees. But making audience comfortable with Git requires some time and effort. So, its worth investing time in making the basics strong. However, you can share the links/resources to such concepts at the end of the workshop for the curious audience.
 
-3. **A demo**
+4. **A demo**
 
    A small demo of how a git repository is initialised. Creating files and adding them to staging area. Commit the changes. While you are typing the commands, do explain the audience what these commands do. For example, while typing `git add FILE` , tell them that now this will add `FILE` to the staging area.
 
    Though any demo works, it is a good idea to demonstrate something that's closer to daily life examples. For demo purpose, you can create a project as a "Facebook clone". You don't have to write any real code. You can simply create a text file and and something to demonstrate that some X feature has been added, and commit it. Audience will indirectly absorb the idea the commits are made after every feature added or after every bug is fixed.
 
-4. **Stop and Revise**
+5. **Stop and Revise**
 
    It is a good time to stop and revise the concepts. Staging area is a non-intuitive concept. Try using analogies to make the idea clear(For analogies [refer answer by Spoike](https://softwareengineering.stackexchange.com/questions/119782/what-does-stage-mean-in-git)). Ask the audience if they have any doubts. In an offline session TAs can individually clear people's queries. 
 
-5. **Reverting using Git**
+6. **Reverting using Git**
 
    This is better done using demo. Show them the following
 
@@ -62,13 +62,13 @@ In the post mention the fact that we will be available for installation issues b
 
    (This can be done using a story. For example, an evil cat makes changes in your projects and you use git commands to revert those changes)
 
-6. **Branching**
+7. **Branching**
 
    Branching is another non-intuitive concept. You can start with a problem of how difficult it is to have multiple copies of a project with multiple people working on it. The problem should be posed in such a way that its ultimate solution has to be Git Branching. This will help them better understand why branches are important. You can show the commit trees of different branches and how they diverge. Also show how the tree merges after git merge.
 
    Tools that can be used - [https://git-school.github.io/visualizing-git/](https://git-school.github.io/visualizing-git/)
 
-7. **Branching demo**
+8. **Branching demo**
 
    You can use the "Facebook clone" project for the demo. Make a branch for a new feature. Make some commits in the new branch and show the commits. Jump to `master` branch and show that those commits are accept. Merge the newly created branch and show how commits have appeared. 
 
@@ -76,17 +76,17 @@ In the post mention the fact that we will be available for installation issues b
 
    Again it is a good point stop and summarise branching. Pause for short period of time. Let audience ask their queries. 
 
-8. **Introduce Github**
+9. **Introduce Github**
 
    Now once the audience are comfortable with basics of Git. It is the right time to introduce Github. Tell them, how Github is important for software development. Give an analogy of people writing a shared google doc, and explain collaborative software development better.
 
-9. **Push and Pull**
+10. **Push and Pull**
 
    This is best explained via demo. Show them how to make a new repository on Github. Show them how to push it to the repo using `git push https://github.com/USERNAME/REPONAME master` . Make a README on repo on Github. Show them how the changes on Github repo can be pulled locally via `git pull https://github.com/USERNAME/REPONAME master`
 
    Tell them typing the URL is a pain every time, and use this as an opportunity to introduce the concept of remote variables. Add a remote by name `origin`  using `git remote add origin` and show how `git push origin master` does the same job. 
 
-10. **Sending a Pull Request**
+11. **Sending a Pull Request**
 
     This is also best explained via a demo. It is a good idea to have a Github Repository made from KOSS account for the Pull Request demo. Make a small issue like a  "typo in `printf` function" which anyone can solve. Follow up the whole process from checking the issues, comment on issue you want to work, Forking the repo, Cloning it, Making a new branch, Push it, Sending a Pull Request with proper description. 
 
@@ -96,7 +96,7 @@ In the post mention the fact that we will be available for installation issues b
 
     Finally merge a PR which contains a well written description to complete the process. 
 
-11. **Conclusion**
+12. **Conclusion**
 
     - Tell them to contribute to beginner friendly issues at metakgp or KOSS repositories on Github. Share the Github Links of both the Github Organizations. Pointing them to some beginner friendly issues would be great.
     - Tell them about Github Student pack and its benefits like Domains, Free Server and so on.
