@@ -82,7 +82,7 @@ In the post mention the fact that we will be available for installation issues b
 
 10. **Push and Pull**
 
-   This is best explained via demo. Show them how to make a new repository on Github. Show them how to push it to the repo using `git push https://github.com/USERNAME/REPONAME master` . Make a README on repo on Github. Show them how the changes on Github repo can be pulled locally via `git pull https://github.com/USERNAME/REPONAME master`
+   This is best explained via demo. Show them how to make a new repository on Github. Show them how to push it to the repo using `git push git@github.com:USERNAME/REPONAME.git master` . Make a README on repo on Github. Show them how the changes on Github repo can be pulled locally via `git pull git@github.com:USERNAME/REPONAME.git master`.
 
    Tell them typing the URL is a pain every time, and use this as an opportunity to introduce the concept of remote variables. Add a remote by name `origin`  using `git remote add origin` and show how `git push origin master` does the same job. 
 
