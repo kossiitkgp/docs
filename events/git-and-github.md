@@ -14,8 +14,9 @@ At the end of the workshop, make sure that audience are comfortable with the fol
 Share an instructions file like [this](https://github.com/kossiitkgp/git-and-github-workshop-2020/blob/main/installation.md), along with the poster of the workshop. The instructions should contain
 
 - How to install Git for Windows, Linux, Mac seperately
-- For Windows users, make that they install `git bash`
+- For Windows users, make that they install `git bash` and configure it
 - How to verify that git is installed
+- Install SSH(As Pushing via HTTPS has been deprecated)
 - Instructions on how to create a Github Account
 
 In the post mention the fact that we will be available for installation issues before 15 minutes of the workshop. Help with the installation issues before the workshop begins.
@@ -82,7 +83,9 @@ In the post mention the fact that we will be available for installation issues b
 
 10. **Push and Pull**
 
-   This is best explained via demo. Show them how to make a new repository on Github. Show them how to push it to the repo using `git push git@github.com:USERNAME/REPONAME.git master` . Make a README on repo on Github. Show them how the changes on Github repo can be pulled locally via `git pull git@github.com:USERNAME/REPONAME.git master`.
+   This is best explained via demo. First show them how to create SSH keys and how to add the generated keys to Github. Show them how to make a new repository    on Github. 
+   
+   Show them how to push the local project to the Github repo using `git push git@github.com:USERNAME/REPONAME.git master` . Make a README on repo on Github. Show them how the changes on Github repo can be obtained locally via `git pull git@github.com:USERNAME/REPONAME.git master`.
 
    Tell them typing the URL is a pain every time, and use this as an opportunity to introduce the concept of remote variables. Add a remote by name `origin`  using `git remote add origin` and show how `git push origin master` does the same job. 
 
