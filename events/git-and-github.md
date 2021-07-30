@@ -3,6 +3,7 @@
 ## Aim of the Workshop
 
 The workshop should cover and explain the following
+
 - Why Version Control Systems are need?
 - Usage of basic Git commands to track their projects - Staging and Committing
 - Be able to push and pull code from Github
@@ -82,11 +83,12 @@ In the post mention the fact that we will be available for installation issues b
 
 10. **Push and Pull**
 
-   This is best explained via demo. First show them how to create SSH keys and how to add the generated keys to Github. Show them how to make a new repository    on Github. 
-   
-   Show them how to push the local project to the Github repo using `git push git@github.com:USERNAME/REPONAME.git master` . Make a README on repo on Github. Show them how the changes on Github repo can be obtained locally via `git pull git@github.com:USERNAME/REPONAME.git master`.
+    This is best explained via demo. First show them how to create SSH keys and how to add the generated keys to Github. Show them how to make a new repository    on Github. 
 
-   Tell them typing the URL is a pain every time, and use this as an opportunity to introduce the concept of remote variables. Add a remote by name `origin`  using `git remote add origin` and show how `git push origin master` does the same job. 
+    Show them how to push the local project to the Github repo using `git push git@github.com:USERNAME/REPONAME.git master` . Make a README on repo on Github. Show them how the changes on Github repo can be obtained locally via `git pull git@github.com:USERNAME/REPONAME.git master`.
+
+    Tell them typing the URL is a pain every time, and use this as an opportunity to introduce the concept of remote variables. Add a remote by name `origin`  using `git remote add origin` and show how `git push origin master` does the same job.
+
 
 11. **Sending a Pull Request**
 
@@ -126,4 +128,3 @@ Share the above via a facebook post along with a thanks for the audience.
 - Introduce an idea or feature directly without explaining why it is needed. Just starting with "Branching is an important feature and to create a new branch, we use `git branch` command" is a bad way to introduce branching. Make sure you firmly establish in audience' mind why they are learning. If you can't explain why in the beginning make a promise that it will be explained later and keep your promise. Otherwise, our workshops will be no different than most of the boring academic lectures.
 - Skip hands-on sessions. Hands on sessions are the main reason we conduct workshops, else audience would have simply watched a tutorial video. Repeat demos if required. Provide individual assistance. Make sure audience get their hands dirty.
 - Skip questions. Git contains many non-intuitive ideas. Audience may be confused while you are explaining the concepts. Re-explain things in a different way if necessary. Encourage audience to speak out if they have confuse. Tell them that Git is non-intuitive and its okay to ask small doubts.
-
