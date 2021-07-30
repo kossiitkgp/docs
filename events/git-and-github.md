@@ -4,7 +4,7 @@
 
 The workshop should cover and explain the following
 
-- Why Version Control Systems are need?
+- Why Version Control Systems are needed?
 - Usage of basic Git commands to track their projects - Staging and Committing
 - Be able to push and pull code from Github
 - Be able to send a PR to an Open Source Repository
