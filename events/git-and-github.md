@@ -2,16 +2,15 @@
 
 ## Aim of the Workshop
 
-At the end of the workshop, make sure that audience are comfortable with the following
-
+The workshop should cover and explain the following
 - Why Version Control Systems are need?
-- Usage of basic Git commands to track their projects - Adding and Committing
+- Usage of basic Git commands to track their projects - Staging and Committing
 - Be able to push and pull code from Github
 - Be able to send a PR to an Open Source Repository
 
 ## Before the workshop
 
-Share an instructions file like [this](https://github.com/kossiitkgp/git-and-github-workshop-2020/blob/main/installation.md), along with the poster of the workshop. The instructions should contain
+Share an instructions file like [this installation guide](https://github.com/kossiitkgp/git-and-github-workshop-2020/blob/main/installation.md), along with the poster of the workshop. The instructions should contain
 
 - How to install Git for Windows, Linux, Mac seperately
 - For Windows users, make that they install `git bash` and configure it
@@ -71,11 +70,11 @@ In the post mention the fact that we will be available for installation issues b
 
 8. **Branching demo**
 
-   You can use the "Facebook clone" project for the demo. Make a branch for a new feature. Make some commits in the new branch and show the commits. Jump to `master` branch and show that those commits are accept. Merge the newly created branch and show how commits have appeared. 
+   You can use the "Facebook clone" project for the demo. Make a branch for a new feature. Make some commits in the new branch and show the commits. Jump to `master` branch and show that the newly made commits are absent(To convey the idea that different branches have different commits). Merge the newly created branch and show how commits have appeared. 
 
    Make sure to speak while you are typing the commands, explaining what the commands do. For example, tell them that you are creating a new brach while typing `git branch BRANCH` and tell that you are hoping on to the newly created branch while typing `git checkout BRANCH`
 
-   Again it is a good point stop and summarise branching. Pause for short period of time. Let audience ask their queries. 
+   Again it is a good point to stop and summarise branching. Pause for short period of time. Let audience ask their queries. 
 
 9. **Introduce Github**
 
@@ -106,8 +105,9 @@ In the post mention the fact that we will be available for installation issues b
     - Tell them about Github Pages, and tell them howeasily a beautiful blog can be setup within minutes.
     - Inform about Hacktoberfest and tell them about the T-shirt and Stickers
 
-    - Tell them about starring a repo and getting the notifications.
-    - Ask them to star `kossiitkgp/slides` as important links like slides, resources will be put here
+    - Tell them about starring a repo and the usefulness of starred repos.
+    - Tell them about "watch" feature of a repo, and show them how it can be used to track a project.
+    - Ask them to `star` and `watch` the `kossiitkgp/slides` repo, as important links like slides, resources will be put here
 
     If any swags are available distriubute them to the audience.
 
