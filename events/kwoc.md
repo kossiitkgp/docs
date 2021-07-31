@@ -97,4 +97,4 @@ It is suggested a group of dedicated people from KOSS handle complaints and quer
 
 - Update [kossiitkgp/mistakes](https://github.com/kossiitkgp/mistakes) repo for the sake of posterity based on feedback and other things that went wrong.
 
-  
+- We can also consider to conduct a Advanced Git workshop, where concepts like `rebase`, `stash` and `bisect` are taught. The duration of this workshop can be shorter than duration of a regular workshop(3 hours). If such a thing is being planned, make sure to give some git excerises in the gap between git basic workshop and git advanced workshop, so that they are in touch with git concepts.
