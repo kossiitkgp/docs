@@ -45,7 +45,7 @@ In the post mention the fact that we will be available for installation issues b
 
 4. **A demo**
 
-   A small demo of how a git repository is initialised. Creating files and adding them to staging area. Commit the changes. While you are typing the commands, do explain the audience what these commands do. For example, while typing `git add FILE` , tell them that now this will add `FILE` to the staging area.
+   A small demo of how a git repository is initialised. Creating files and adding them to staging area. Commit the changes. While you are typing the commands, do explain the audience what these commands do. For example, while typing `git add FILE` , tell them that now this will add `FILE` to the staging area. You can use `git status` after each command to show the status of changes - changes have been staged, changes have been committed. 
 
    Though any demo works, it is a good idea to demonstrate something that's closer to daily life examples. For demo purpose, you can create a project as a "Facebook clone". You don't have to write any real code. You can simply create a text file and and something to demonstrate that some X feature has been added, and commit it. Audience will indirectly absorb the idea the commits are made after every feature added or after every bug is fixed.
 
