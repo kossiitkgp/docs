@@ -128,3 +128,7 @@ Share the above via a facebook post along with a thanks for the audience.
 - Introduce an idea or feature directly without explaining why it is needed. Just starting with "Branching is an important feature and to create a new branch, we use `git branch` command" is a bad way to introduce branching. Make sure you firmly establish in audience' mind why they are learning. If you can't explain why in the beginning make a promise that it will be explained later and keep your promise. Otherwise, our workshops will be no different than most of the boring academic lectures.
 - Skip hands-on sessions. Hands on sessions are the main reason we conduct workshops, else audience would have simply watched a tutorial video. Repeat demos if required. Provide individual assistance. Make sure audience get their hands dirty.
 - Skip questions. Git contains many non-intuitive ideas. Audience may be confused while you are explaining the concepts. Re-explain things in a different way if necessary. Encourage audience to speak out if they have confuse. Tell them that Git is non-intuitive and its okay to ask small doubts.
+
+
+## Updates
+- `switch` is the new preferred way to switch branches. This might be included in the upcoming workshops. Refer [this](https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore/).
