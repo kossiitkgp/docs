@@ -130,5 +130,6 @@ Share the above via a facebook post along with a thanks for the audience.
 - Skip questions. Git contains many non-intuitive ideas. Audience may be confused while you are explaining the concepts. Re-explain things in a different way if necessary. Encourage audience to speak out if they have confuse. Tell them that Git is non-intuitive and its okay to ask small doubts.
 
 
-## Updates
+## Miscellaneous
+- We can also consider to conduct a Advanced Git workshop, where concepts like `rebase`, `stash` and `bisect` are taught. The duration of this workshop can be shorter than duration of a regular workshop(3 hours). If such a thing is being planned, make sure to give some git excerises in the gap between git basic workshop and git advanced workshop, so that they are in touch with git concepts.
 - `switch` is the new preferred way to switch branches. This might be included in the upcoming workshops. Refer [this](https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore/).
