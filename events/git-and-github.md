@@ -133,3 +133,9 @@ Share the above via a facebook post along with a thanks for the audience.
 ## Miscellaneous
 - We can also consider to conduct a Advanced Git workshop, where concepts like `rebase`, `stash` and `bisect` are taught. The duration of this workshop can be shorter than duration of a regular workshop(3 hours). If such a thing is being planned, make sure to give some git excerises in the gap between git basic workshop and git advanced workshop, so that they are in touch with git concepts.
 - `switch` is the new preferred way to switch branches. This might be included in the upcoming workshops. Refer [this](https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore/).
+
+## Useful Resources
+- [Git-School](https://git-school.github.io/visualizing-git/): Visualizating git.This can be used while the workshop
+- [Git Parable](https://tom.preston-werner.com/2009/05/19/the-git-parable.html): Understanding Git concepts from ground up. It will be useful if speakers of the workshop go through this once. This can also be shared with the audience
+- [Git Immersion](https://gitimmersion.com/index.html): A guided tour walks through the fundamentals of Git. This can be shared with the audience.
+- [Git-The Simple Guide](https://rogerdudler.github.io/git-guide/): A handy cheat sheet. This can be shared with the audience. 
