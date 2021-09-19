@@ -6,9 +6,11 @@ toc=true
 
 * We are a bunch of Open Source enthusiasts, who love to share the culture of OSS. Through events and workshops, we try to share the different aspects of Software Engineering, and onboard folks with the basic understanding and literacy of Software Development.
   
-* We love to work on new ideas and projects, though we don't promote it from KOSS by default. You can find involvement of KOSS members in MetaKGP, developing on a project which is helpful for the KGP Community. You can also find members who are motivated enough to work on funky ideas and projects, which might range to solve a real-world issue, to create a project for banter, to help out folks learn a new language or framework.
+* We love to work on new ideas and projects, though we don't promote it from KOSS by default. You can find involvement of KOSS members in MetaKGP, developing on a project which is helpful for the KGP Community. You can also find members who are motivated enough to work on funky ideas and projects, which might range to solve a real-world issue, to create a project for banter, to help out folks learn a new language or framework. Some of us are enthusiastic enough to get involved with admin activities for running Gymkhana smoothly.
   
-* We inculcate an environment, where each of us work on anything that we might want to learn, and in return you would get fantastic mentors on the subject matter. Want to learn Frontend? Hop on to a call with [xypnox](https://github.com/xypnox); Want to learn more about Shell Scripting? [grapheo12](https://github.com/grapheo12) is informative to teach you. Infact, each one of us have carved their own specialization and have had their fair share of experience to guide you, so the KOSS members are the goto folks.
+* We are known for conducting technical workshops for sharing knowledge about useful software practices, such as git, python, shell script. You can find more about the events in this [page](./../events/git-and-github.md).
+
+* We inculcate an environment, where each of us work on anything that we might want to learn, and in return you would get fantastic mentors on the subject matter. Want to learn Frontend? Hop on to a call with [xypnox](https://xypnox.com/); Want to learn more about Shell Scripting? [grapheo12](https://grapheo12.in/) is informative to teach you. Infact, each one of us have carved their own specialization and have had their fair share of experience to guide you, so the KOSS members are the goto folks.
 
 * We value culture over technical prowess; You might be a rockstar developer, and quite adept with your skills, but we love to host people, who are empathic, a team member whom you can trust upon, and whom you can depend on. KOSS provides ample of mentoring to folks who want to curate their skills in a field of their choice, and in return they are expected to pass the baton. People having a sound skills is a bonus, but we value your soft-skills more than your technical knowledge.
   
@@ -22,7 +24,9 @@ toc=true
 
 * We conduct [KWoC(Kharagpur Winter of Code)](https://kwoc.kossiitkgp.org/) which is a winter long contribution program for new contributors.
 
-* We conduct Open Source Summmit, where we invite people from all around India about their experiences with Open Source Software.
+* We conduct Open Source Summit, where we invite people from all around India about their experiences with Open Source Software.
+
+* Check out our social media links for getting an idea about the content we share with the KGP folks - [Twitter](https://twitter.com/kossiitkgp) [Facebook](https://www.facebook.com/kossiitkgp) [YouTube](https://www.youtube.com/c/KOSSIITKharagpur) 
 
 ## What do we NOT do?
 
