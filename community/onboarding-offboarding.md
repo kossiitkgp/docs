@@ -9,7 +9,7 @@ toc=true
 See also [Fresher's Induction](/docs/community/freshers-induction).
 
 1. Add them to the “Newbies” GitHub team.
-1. Add them to the Google Group. Check the delivery settings.
+1. Add them to the kossiitkgp@ Google Group. Check the delivery settings. Anyone can ask to join using this link https://groups.google.com/g/kossiitkgp
 1. Add them to the Slack.
 1. Add them to their batch’s private channel.
 1. Add their contact details on https://github.com/kossiitkgp/secrets .
