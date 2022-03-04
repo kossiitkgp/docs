@@ -18,3 +18,5 @@ No. By acceptance, we mean that they will hold a number of responsibilities
 - Be an active member of the society
 
 However, we have been collaborating with non-KOSS members since forever. They are welcome to join/lead our events or pitch something to us. If they want to talk about something, we can have them in one of our meetings as well.
+## How many students do we take?
+Altough the number of students varies from year to year. We try to include limited number of students to presrve the culture of KOSS and not create unessesary chaos without actually having productive work.
