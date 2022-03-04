@@ -20,6 +20,8 @@ A 1:1 can be about
 * 1:1 mentorship is voluntary. Every Executive does not need to be a mentor if they are unable to commit their time.
 * Mentors can invite any Advisor in any meeting. 1:1s are informal and inclusive.
 * Mentors can be changed upon request by either the mentor or the mentee.
+* Create a google doc/notion page for listing out resources discussed in the meet.
+* If a particular task needs to be accomplished then the mentor can take regular follow ups regarding the task. (Here task refers to any self help goal.)
 
 ## Guidelines for the mentors
 * Make sure your mentee feels comfortable.
