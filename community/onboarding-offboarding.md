@@ -50,7 +50,9 @@ toc=true
 
 ## Why do we lay off some members? What are the reasons?
 
-A bad influence justifies bad turn of events in the future. They will recruit similar kind of people. New Core Team Members will start following them. Hence, we can not be passive about the membership of a CTM. We have to make sure we purge any unwanted behavior in time. Hence, it is important that we keep the doors open for uncompatible individuals in order to preserve KOSS culture and essence.
+A bad influence justifies bad turn of events in the future. They will recruit similar kind of people. New Core Team Members will start following them. Hence, we can not be passive about the membership of a CTM. We have to make sure we purge any unwanted behavior in time. Hence, it is important that we keep the doors open for uncompatible individuals in order to preserve KOSS culture and essence. 
+
+We totally understand that it is natural for folks for having change of plans after 2 years in KGP, and we should be really clear about the fact that we want motivated/passionate folks, who can stick for KOSS and are enthusiastic/interested in Open Source. Folks who are not aligned with this thought, would be a poor addition to the executives/advisors, so it makes sense for keeping like minded people in the batch. Brings down the moral, and makes it difficult to believe in the responsibilities, because they can always find a person, who is not having same level of commitment.
 
 1. If they do not align with our vision. 
 1. If they often do not show up in Meetings, Slack, or E-mails.
@@ -58,7 +60,7 @@ A bad influence justifies bad turn of events in the future. They will recruit si
 1. If they repeatatively do not care about how our meetings or events happen in their absense.
 1. If they never take leadership of KOSS. If they never take any initiatives or never took part in any initiative by one of their batchmates.
 1. If they depend upon their batchmates all the time. If they never volunteer and take up any work by their own.
-1. If they clearly feel or state that they do not belong here.
+1. If they clearly feel or state that they do not belong here and are not interested in committing their time to KOSS..
 
 Note: One semester may not be enough to judge. Preferably do it after [Governance Review Week](https://github.com/kossiitkgp/docs/blob/master/community/governance-review-week.md).
 
