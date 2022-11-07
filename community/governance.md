@@ -17,13 +17,13 @@ Permanent membership of KOSS mandates serving one year as an Executive. But if a
 
 ## The Story
 
-Members join KOSS in their first year as Core Team members. They spend their time learning technologies, as well as working on raising the awareness of Open Source. At the end of their second year, they take up the role of Executive Heads and Executive Members after a rigorous [Governance Review Week](/docs/community/governance-review-week). The former Executive Heads and Advisors decide whether a CTM will become an Executive Head or an Executive Member. (See [Onboarding/Offboarding](/docs/community/onboarding-offboarding)). After serving another year, they pass on the baton to the next batch, and they become Advisors while staying on the campus. They actively take part in the discussions, events, and seminars as per their skills and expertise. They graduate to become KOSS Alumni, the role of which is undecided yet.
+Members join KOSS in their first year as Core Team members. They spend their time learning technologies, as well as working on raising the awareness of Open Source. At the end of their second year, they take up the role of Executive Heads and Executive Members after a rigorous [Governance Review Week](/community/governance-review-week.md). The former Executive Heads and Advisors decide whether a CTM will become an Executive Head or an Executive Member. (See [Onboarding/Offboarding](/community/onboarding-offboarding.md)). After serving another year, they pass on the baton to the next batch, and they become Advisors while staying on the campus. They actively take part in the discussions, events, and seminars as per their skills and expertise. They graduate to become KOSS Alumni, the role of which is undecided yet.
 
 ## The policy of KOSS membership
 
 We recruit UG 1st years in the team, preferably after they have spent one semester on the campus. We can also recruit any 2nd year in their third semester, based on recommendations by the members.
 
-In the spring semester of Core Team members, they go through a Governance week discussion and finally become the new Executives (Heads and Members). Former Executives should carefully offboard members who are not a good fit for the upcoming Executive batch. Every single individual should have a net positive impact on the team. See [Onboarding/Offboarding](/docs/community/onboarding-offboarding) for more detail.
+In the spring semester of Core Team members, they go through a Governance week discussion and finally become the new Executives (Heads and Members). Former Executives should carefully offboard members who are not a good fit for the upcoming Executive batch. Every single individual should have a net positive impact on the team. See [Onboarding/Offboarding](/community/onboarding-offboarding.md) for more detail.
 
 
 ## Detailed Role Descriptions
@@ -69,7 +69,7 @@ At the end of the session, there is a week-long discussion with the Core Team me
 
 Advisors, in general, have more technical experience. They have seen a lot of KOSS, and the members should use their experience as a resource. They actively suggest better technologies to be used in KOSS. They also make sure the Executive Heads are not over-prioritizing anything and are relaxed. They continuously take updates from the Executive Heads about what is going in KOSS. They intervene when asked by an Executive to resolve any conflict. They can also lead meetings if Executive Heads do not object.
 
-One of the Advisors acts as the Treasurer of KOSS and oversees the finances. See [Accounts](/docs/community/accounts).
+One of the Advisors acts as the Treasurer of KOSS and oversees the finances. See [Accounts](/community/accounts.md).
 
 ### 4. Alumni
 

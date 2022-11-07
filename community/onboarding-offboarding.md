@@ -62,11 +62,11 @@ We totally understand that it is natural for folks for having change of plans af
 1. If they depend upon their batchmates all the time. If they never volunteer and take up any work by their own.
 1. If they clearly feel or state that they do not belong here and are not interested in committing their time to KOSS..
 
-Note: One semester may not be enough to judge. Preferably do it after [Governance Review Week](https://github.com/kossiitkgp/docs/blob/master/community/governance-review-week.md).
+Note: One semester may not be enough to judge. Preferably do it after [Governance Review Week](/community/governance-review-week.md).
 
 ## ~~How do we classify a CTM as Executive Head and Executive Member?~~
 
-~~The answer to this question should come from - the [Governance doc](https://github.com/kossiitkgp/docs/blob/master/community/governance.md).~~
+~~The answer to this question should come from - the [Governance doc](/community/governance.md).~~
 
 ~~After the Governance Review Week, all Executives and Advisors meet and decide for each CTM. Here are some guidelines -~~
 

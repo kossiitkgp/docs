@@ -6,7 +6,7 @@ toc=true
 
 > Pronounced as *one on one*
 
-During [Freshers' Induction](/docs/community/freshers-induction), every [Core Team Member](/docs/community/governance) is assigned one (or more) Executive(s) as 1:1 mentor(s). The mentee and mentor(s) decide the frequency, length, time, venue and nature of their 1:1 meetups.
+During Freshers' Induction, every [Core Team Member](/community/governance.md) is assigned one (or more) Executive(s) as 1:1 mentor(s). The mentee and mentor(s) decide the frequency, length, time, venue and nature of their 1:1 meetups.
 
 A 1:1 can be about
 * Career goals of Mentor/Mentee

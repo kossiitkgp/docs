@@ -2,14 +2,14 @@
 
 ## Index
 
-### [Community](community)
+### [Community](/community)
 
-- [Governance Week Review](community/governance-review-week)
-- [Governance](community/governance)
-- [Onboarding/Offboarding](community/onboarding-offboarding)
-- [1:1](community/one-on-one)
+- [Governance Week Review](/community/governance-review-week.md)
+- [Governance](/community/governance.md)
+- [Onboarding/Offboarding](/community/onboarding-offboarding.md)
+- [1:1](/community/one-on-one.md)
 
-### [Events](events)
+### [Events](/events)
 To get more beginners introduced to Open Source, we hold events like
 
 - Kharagpur Winter of Code
