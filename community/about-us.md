@@ -8,7 +8,7 @@ toc=true
   
 * We love to work on new ideas and projects, though we don't promote it from KOSS by default. You can find involvement of KOSS members in MetaKGP, developing on a project which is helpful for the KGP Community. You can also find members who are motivated enough to work on funky ideas and projects, which might range to solve a real-world issue, to create a project for banter, to help out folks learn a new language or framework. Some of us are enthusiastic enough to get involved with admin activities for running Gymkhana smoothly.
   
-* We are known for conducting technical workshops for sharing knowledge about useful software practices, such as git, python, shell script. You can find more about the events in this [page](./../events/git-and-github.md).
+* We are known for conducting technical workshops for sharing knowledge about useful software practices, such as git, python, shell script. You can find more about the events in this [page](/events/git-and-github.md).
 
 * We inculcate an environment, where each of us work on anything that we might want to learn, and in return you would get fantastic mentors on the subject matter. Want to learn Frontend? Hop on to a call with [xypnox](https://xypnox.com/); Want to learn more about Shell Scripting? [grapheo12](https://grapheo12.in/) is informative to teach you. Infact, each one of us have carved their own specialization and have had their fair share of experience to guide you, so the KOSS members are the goto folks.
 

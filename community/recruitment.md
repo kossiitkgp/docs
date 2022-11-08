@@ -8,7 +8,7 @@ toc=true
 We recruit UG 1st years in the team, preferably after they have spent one semester on the campus. We can also recruit any 2nd year in their third semester, based on recommendations by the members.
 
 ## How do we recruit?
-For more detailed description, refer [Freshers' Selection](/docs/events/freshers-selection)
+For more detailed description, refer [Freshers' Selection](/events/freshers-selection.md)
 
 ## Do we accept M.Tech and Ph.D students?
 No. By acceptance, we mean that they will hold a number of responsibilities

@@ -40,7 +40,7 @@ We form a few panels consisting of 3-5 people. Each panel should have at least o
 
 We all meet a few days after the interview round and discuss each potential candidate. A Physical meeting is required before finalizing the list of new members.
 
-Also see [Onboarding/Offboarding](/docs/community/onboarding-offboarding)
+Also see [Onboarding/Offboarding](/community/onboarding-offboarding.md)
 
 ## Guidelines
 

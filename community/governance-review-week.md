@@ -18,9 +18,9 @@ We physically meet for 3-5 days for 3-4 hours each day. We put up few questions 
 
 ## What happens after this week?
 
-Executive Heads discuss the involvement and membership of each Core Team member. If they find someone not being a good fit to continue, this is the time when the team is updated and they are laid off (See [Onboarding/Offboarding](/docs/community/offboarding-onboarding)).
+Executive Heads discuss the involvement and membership of each Core Team member. If they find someone not being a good fit to continue, this is the time when the team is updated and they are laid off (See [Onboarding/Offboarding](/community/onboarding-offboarding.md)).
 
-After the week, Core Team members become the new Executive Heads and Executive Members (See [Governance](/docs/community/governance)), quickly followed by an [Introductory Seminar](/docs/events/introductory-seminar) and the [Selection of new members](/events/freshers-selections).
+After the week, Core Team members become the new Executive Heads and Executive Members (See [Governance](/community/governance.md)), quickly followed by an Introductory Seminar and the [Selection of new members](/events/freshers-selection.md).
 
 A new version of KOSS Documentation is released. It is suggested to scrutiny everything which is written over here. Detailed changelog should be published which answers, "What changed and Why?", "What things worked out really well?", "What more should be written?", etc. Alumni of KOSS will receive the changelog via email, and it will be published in the repository as well.
 
