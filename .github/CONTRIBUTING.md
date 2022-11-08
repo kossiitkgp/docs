@@ -19,6 +19,9 @@ Stick to the following conventions -
 - It is discouraged to write in first person *i.e.* do not use `I` or `Me`. NEVER write anything in first person without identifying who wrote it. (e.g. Name, Class of 'YY)
 - Check for spelling and grammatical mistakes.
   - You can use [Grammarly](https://app.grammarly.com/) to verify. You can get a [free grammarly account](https://wiki.metakgp.org/w/How_to_get_free_Grammarly_premium_account) if you are an IIT KGP student.
+- Use one convention for hyper-links - makes easy for us to update them if file structures changes in future: 
+  - For linking a directory: `[Link Text](/DIR_NAME)`
+  - For linking a file: `[Link Text](/DIR_NAME/FILE_NAME.md)`. **Make sure you mention the file extension too**.
 - Sign your commits. [Read more](https://help.github.com/articles/signing-commits/)
 - Make 1 commit per change. Do not commit multiple changes together if they do not serve a single purpose.
 - Prefer 1 commit per Pull Request. This will keep the discussions separate and precise to the change.
