@@ -11,12 +11,17 @@
 - The following things should be ready (or updated) :-
 
   - Website with registration feature tested internally.
+  - Last year's stats on the website.
   - FAQs on the website
   - Student and Mentor Docs of KWoC. Make sure that the content of the doc is updated with the current rules of KWoC(especially rules like Mid Evals and End Evals criteria). If there are any new important changes, do mention them in the docs. 
 
 - A dedicated slack workspace for KWoC. If the old one has reached the maximum free limit, create a new Slack workspace.
-  
+
+- Printing and circulation of posters to every hall's, main building's and nalanda's notice boards.
+
 - Intro Seminar of KWoC should be conducted, a week before the registrations begin.
+
+- If possible approach a few organisations or companies - well before the website goes live - to sponsor KWoC for providing prizes to the top-performers (the number of top-performers might vary based on what we get in the swag). Do NOT term them as `winners` - [KWoC is not a competition](https://github.com/kossiitkgp/mistakes/blob/kwoc-22-mistakes/kwoc20.md#5-reduce-competive-nature-)
 
    
 
@@ -29,7 +34,7 @@
   - Mentor and Student Docs' Links
   - Instructions to register
   - A KWoC workspace invite link. (Already existing one or New Slack workspace can be created)
--  Make sure to take database backups periodically.
+-  Mail previous year's students and mentors that kwoc is back - along with working registration links.
 -  When projects are being registered, they should not be immediately shown on the Projects Page. The projects should be shown only when they are accepted. During the registration period, the projects should be accepted frequently(atleast on a daily basis). The guidelines to accept projects are discussed [here](https://github.com/kossiitkgp/mistakes/blob/master/kwoc20.md) (2nd point in `Logistical` section).  
 
 ## Complaints and Queries
@@ -44,7 +49,7 @@ It is suggested a group of dedicated people from KOSS handle complaints and quer
 
 - A Github Repo for Technical complaints. For example refer [this](https://github.com/kossiitkgp/kwoc-bugs)
 
-- Twitter and Linkedin of KOSS account
+- Discord, Twitter and Linkedin of KOSS account
 
   Make sure to keep the FAQ page exhaustive and detailed. Update the FAQ page from regularly if new frequent queries come up. Along with answering the queries, it is a good idea to share the FAQ Page of KWoC, so that future queries can be addressed without need of contact. 
 
@@ -52,8 +57,8 @@ It is suggested a group of dedicated people from KOSS handle complaints and quer
 
 - Sometimes due to serious reasons, participants(students or mentors) miss out the registration period. In such cases, collect the details from the participant and add their entry in the database manually.
 - Make sure that the site is regularly up and working, especially the stats tables. A group of people should be vigilant in this matter.
-- Make sure that the database backups are taken periodically. A script doing that job would be preferred. However, make sure to check at times that the script is indeed working.
 - Any important changes or announcements(like informing in case of spam, changing Mid evals dates) are to be made on both website and via email.
+- If a project is not approved then mail the mentor immediately for "Why their project is not healthy for KWoC" and "What they can do for it to be approved" (if possible).
 
 ## Mid Evals
 
@@ -64,6 +69,8 @@ It is suggested a group of dedicated people from KOSS handle complaints and quer
   - You are encouraged to make changes in the Mid Eval criteria, but make sure that it is fair and is not too hard to clear. (Remember, KWoC is meant to encourage beginners)
 - In case of serious emergencies, do not hesitate cancel mid evaluations. For example, in 2019 when there was a ban of internet in few states, the mid evals were cancelled. 
 - In case, if any individual is unable to clear mid evals due to some genuine reasons, it should be considered.
+- Mail the students a day or two before the dead-line of mid-evals as a last reminder.
+- insert: (mid-evals qualification criteria and respective mailiing)
 
 ## End evals
 
