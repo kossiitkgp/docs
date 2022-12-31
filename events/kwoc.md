@@ -70,7 +70,7 @@ It is suggested a group of dedicated people from KOSS handle complaints and quer
 - In case of serious emergencies, do not hesitate cancel mid evaluations. For example, in 2019 when there was a ban of internet in few states, the mid evals were cancelled. 
 - In case, if any individual is unable to clear mid evals due to some genuine reasons, it should be considered.
 - Mail the students a day or two before the dead-line of mid-evals as a last reminder.
-- insert: (mid-evals qualification criteria and respective mailiing)
+- Announce the results of Mid-Evals via mailing the students (in both cases) & via a pop-up on student's dashboard.
 
 ## End evals
 
