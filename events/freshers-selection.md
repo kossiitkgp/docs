@@ -102,6 +102,15 @@ Yes, absolutely! A few of KOSS members joined in their second year. However, it 
 A batch with more than 15 people is hard to manage. Increasing the team size makes it difficult to have like-minded people in the entire team across all the batches. Also, we should not be doing anything which requires the involvement of more than 15 people in every batch.
 
 ## Archives
+
+### 2022
+
+Facebook post - https://www.facebook.com/kossiitkgp/posts/pfbid02S19YQMn8VfVfxtHRNoS6xZcDe8GbjLZweaeyg1MDfiZAzk1u7iywvu1DZ6zX6AQpl
+
+### 2021
+
+Facebook post - https://www.facebook.com/kossiitkgp/posts/pfbid02nn4ctPmbCDJ4nAXtsik7sXWzsNZXYLPsDpWJYiJpaaBfboeACWCb5GPX1FXM4yxHl
+
 ### 2020
 
 Facebook post - https://www.facebook.com/kossiitkgp/posts/4040891799321123
