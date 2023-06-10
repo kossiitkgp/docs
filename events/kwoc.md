@@ -21,7 +21,7 @@
 
 - Intro Seminar of KWoC should be conducted, a week before the registrations begin.
 
-- If possible approach a few organisations or companies - well before the website goes live - to sponsor KWoC for providing prizes to the top-performers (the number of top-performers might vary based on what we get in the swag). Do NOT term them as `winners` - [KWoC is not a competition](https://github.com/kossiitkgp/mistakes/blob/kwoc-22-mistakes/kwoc20.md#5-reduce-competive-nature-)
+- If possible approach a few organisations or companies - well before the website goes live - to sponsor KWoC for providing swags/goodies to the top-contributors (the number of top-contributors might vary based on what we get in the swag). Do NOT term them as `winners` - [KWoC is not a competition](https://github.com/kossiitkgp/mistakes/blob/kwoc-22-mistakes/kwoc20.md#5-reduce-competive-nature-)
 
    
 
@@ -49,7 +49,7 @@ It is suggested a group of dedicated people from KOSS handle complaints and quer
 
 - A Github Repo for Technical complaints. For example refer [this](https://github.com/kossiitkgp/kwoc-bugs)
 
-- Discord, Twitter and Linkedin of KOSS account
+- Facebook, Instagram, Twitter, and Linkedin of KOSS account
 
   Make sure to keep the FAQ page exhaustive and detailed. Update the FAQ page from regularly if new frequent queries come up. Along with answering the queries, it is a good idea to share the FAQ Page of KWoC, so that future queries can be addressed without need of contact. 
 
