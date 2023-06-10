@@ -14,7 +14,7 @@ The parameters are given equal weight.
 
 ### Mailing
 
-All the mails sent during the selection process are sent via [mailing-scripts](https://github.com/kossiitkgp/mailing-scripts). It already has all of the templates of the mail which are to be sent during any round.
+All the mails sent during the selection process are sent using the [mailing-scripts](https://github.com/kossiitkgp/mailing-scripts). It already has all of the templates of the mail which are to be sent during any round.
 
 > **Warning** You must first test the scripts before sending the mails officially.
 
