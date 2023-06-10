@@ -12,6 +12,12 @@ Core parameters for hiring are
 
 The parameters are given equal weight.
 
+### Mailing
+
+All the mails sent during the selection process are sent via [mailing-scripts](https://github.com/kossiitkgp/mailing-scripts). It already has all of the templates of the mail which are to be sent during any round.
+
+> **Warning** You must first test the scripts before sending the mails officially.
+
 ### Screening Round
 
 An online form is released with few questionnaires. We carefully go through their answers and invite potential candidates for a sit-in interview with the team. We do this to focus more on the interviews with the eligible candidates.
