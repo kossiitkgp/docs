@@ -10,9 +10,11 @@
 
 - The following things should be ready (or updated) :-
 
-  - Website with registration feature tested internally.
-  - Last year's stats on the website.
-  - FAQs on the website
+  - KWoC Website:
+    - Registration feature, should be tested internally.
+    - Last year's stats.
+    - Last year's testimonials.
+    - FAQs.
   - Student and Mentor Docs of KWoC. Make sure that the content of the doc is updated with the current rules of KWoC(especially rules like Mid Evals and End Evals criteria). If there are any new important changes, do mention them in the docs. 
 
 - A dedicated slack workspace for KWoC. If the old one has reached the maximum free limit, create a new Slack workspace.
@@ -49,7 +51,9 @@ It is suggested a group of dedicated people from KOSS handle complaints and quer
 
 - A Github Repo for Technical complaints. For example refer [this](https://github.com/kossiitkgp/kwoc-bugs)
 
-- Facebook, Instagram, Twitter, and Linkedin of KOSS account
+- Discord Server of KWoC.
+
+- Facebook, Instagram, Twitter, and Linkedin of KOSS account.
 
   Make sure to keep the FAQ page exhaustive and detailed. Update the FAQ page from regularly if new frequent queries come up. Along with answering the queries, it is a good idea to share the FAQ Page of KWoC, so that future queries can be addressed without need of contact. 
 
