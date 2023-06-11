@@ -37,7 +37,8 @@
   - Instructions to register
   - A KWoC workspace invite link. (Already existing one or New Slack workspace can be created)
 -  Mail previous year's students and mentors that kwoc is back - along with working registration links.
--  When projects are being registered, they should not be immediately shown on the Projects Page. The projects should be shown only when they are accepted. During the registration period, the projects should be accepted frequently(atleast on a daily basis). The guidelines to accept projects are discussed [here](https://github.com/kossiitkgp/mistakes/blob/master/kwoc20.md) (2nd point in `Logistical` section).  
+-  Make sure to take database backups periodically.
+-  When projects are being registered, they should not be immediately shown on the Projects Page. The projects should be shown only when they are accepted. During the registration period, the projects should be accepted frequently(atleast on a daily basis). The guidelines to accept projects are discussed [here](https://github.com/kossiitkgp/mistakes/blob/master/kwoc20.md) (2nd point in `Logistical` section). If we are rejecting a project, mail the mentor why we are doing so.  
 
 ## Complaints and Queries
 
@@ -90,6 +91,11 @@ It is suggested a group of dedicated people from KOSS handle complaints and quer
   - For evaluation, distribute the blogs among members of KOSS for evaluation
   - While evaluating, if a member finds some blog that doesn't seem to clear the end evals, make sure to cross verify the same with other members of KOSS
 - It is good to inform the participants by what date, they might expect the results of KWoC after they have submitted their End evals Blog. 
+
+# Feedback
+Share an **anonymus** feedback form with following
+1. Some objective questions, where they can rate about different aspects of KWoC-website, doubts clarification,coding experience.
+2. Subjective questions - What did they like about KWoC, What did they didn't like about KWoC, Anything they would like to tell us.
 
 ## Certificates
 
