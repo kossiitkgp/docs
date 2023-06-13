@@ -44,7 +44,7 @@
 
 It is suggested a group of dedicated people from KOSS handle complaints and queries through out KWoC. The responsibilities can be split shift wise - One group can handle complaints during the day and the other during the night. However, **please make sure that the queries are answered within 24 hours**. KOSS members should be active at the following places to answer queries and complaints
 
-- Facebook Page of KOSS
+- Facebook, Instagram, Twitter, and Linkedin of KOSS account.
 
 - KWoC Slack workspace
 
@@ -53,8 +53,6 @@ It is suggested a group of dedicated people from KOSS handle complaints and quer
 - A Github Repo for Technical complaints. For example refer [this](https://github.com/kossiitkgp/kwoc-bugs)
 
 - Discord Server of KWoC.
-
-- Facebook, Instagram, Twitter, and Linkedin of KOSS account.
 
   Make sure to keep the FAQ page exhaustive and detailed. Update the FAQ page from regularly if new frequent queries come up. Along with answering the queries, it is a good idea to share the FAQ Page of KWoC, so that future queries can be addressed without need of contact. 
 
