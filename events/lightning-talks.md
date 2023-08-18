@@ -13,6 +13,6 @@
 - Room (with AV support) must be booked for the event.
 
 ## After the Event
-Upload the following in the `kossitkgp/slides` repo
+Upload the following in the [kossitkgp/slides](https://github.com/kossiitkgp/slides) repo
 - Recording of the event, if its recorded
-- Links to the slides
+- Links to the slides - [Here]()
