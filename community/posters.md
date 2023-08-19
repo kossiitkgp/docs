@@ -28,6 +28,31 @@ See also: [kossiitkgp/design](ttps://github.com/kossiitkgp/design/).
 - Make sure to buy or arrange for push pins, tape, and scissors.
 - The following table contains a rough number of posters to be printed per location:
 
-|Location|Number|Details|
+#### Poster Locations
+##### Halls
+|Location|Number of Posters|Details|
 |-|-|-|
-||2|1 - mess, 1 - main noticeboard|
+|Azad| | |
+|BRH| | |
+|Gokhale| | |
+|HJB| | |
+|JCB| | |
+|Nehru| | |
+|LBS| | |
+|LLR| | |
+|MMM| | |
+|MS| | |
+|MT| | |
+|SNVH| | |
+|Patel| | |
+|RK| | |
+|RP| | |
+|SNIG| | |
+|VS| | |
+
+##### Others
+|Location|Number of Posters|Details|
+|-|-|-|
+|Main Building| | |
+|Gymkhana| | |
+|HJB Night Canteen| | |
