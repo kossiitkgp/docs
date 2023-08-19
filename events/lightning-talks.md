@@ -14,5 +14,5 @@
 
 ## After the Event
 Upload the following in the [kossitkgp/slides](https://github.com/kossiitkgp/slides) repo
-- Recording of the event in the readme file, if its recorded.
-- Links to the slides - [Here](https://github.com/kossiitkgp/slides/tree/main/Lightning-Talks)
+- Recording of the event, if its recorded
+- Links to the slides - [Here]()
