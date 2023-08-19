@@ -24,7 +24,7 @@ Guidelines regarding handling, releasing posts, and transferring access to the o
 - Each reshare suggestion **must** be discussed with other team members on Slack before posting it on any platform. The suggestion must be approved by at least one executive and one advisor.
 - The repost must link back to the original post.
 - Platform wise Guidelines:
-    - On Facebook, the post must be shared using the share feature and with a caption if needed.
+    - On Facebook, the post must be shared using the "Share Now" feature. If a caption is to be added, use the "Share to Feed" feature.
     - On Twitter, the tweet must be quoted.
     - On LinkedIn, the repost feature must be used. If a caption is to be added, use the "Repost with your thoughts" feature.
     - On Instagram, the post must be added to the story. In rare cases, a collaborative post can be released if approved internally, and the other organization agrees.
