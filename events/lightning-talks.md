@@ -15,4 +15,4 @@
 ## After the Event
 Upload the following in the [kossitkgp/slides](https://github.com/kossiitkgp/slides) repo
 - Recording of the event, if its recorded
-- Links to the slides - [Here]()
+- Links to the slides
