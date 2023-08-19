@@ -10,9 +10,10 @@
 
 ## Before the Event
 - The event can last for 4-6 hours, so time can be divided into 2 days accordingly.
+- Schedule the slots between CTMs in advance.
 - Room (with AV support) must be booked for the event.
 
 ## After the Event
 Upload the following in the [kossitkgp/slides](https://github.com/kossiitkgp/slides) repo
 - Recording of the event, if its recorded
-- Links to the slides - [Here]()
+- Links to the slides - [Here](https://github.com/kossiitkgp/slides/tree/main/Lightning-Talks)
