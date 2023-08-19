@@ -30,6 +30,7 @@ Guidelines regarding how to handle, release posts, and transfer accessing of the
 	- On Instagram, the post must be added to the story. In rare cases, a collaborative post can be released if it is approved internally and the other organization agrees to do so.
 
 ### Direct Message and Comment Reply Guidelines
+- One executive should be assigned to each social media platform for reading comments under posts and direct messages at least once a day and reply.
 - Simple queries can be replied to directly.
 - Suggestions and other questions which may require discussion should be posted on Slack and discussed with executives and advisors.
 
