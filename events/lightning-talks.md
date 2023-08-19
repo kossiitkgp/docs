@@ -1,4 +1,4 @@
-# Lightning Talks(LT)
+# Lightning Talks (LT)
 
 ## What is Lightning Talks?
 - An event where CTMs present about a topic chosen by them, be it tech-related or not.
@@ -14,6 +14,6 @@
 - Room (with AV support) must be booked for the event.
 
 ## After the Event
-Upload the following in the [kossitkgp/slides](https://github.com/kossiitkgp/slides) repo
-- Recording of the event, if its recorded
-- Links to the slides - [Here](https://github.com/kossiitkgp/slides/tree/main/Lightning-Talks)
+- Update the [slides](https://github.com/kossiitkgp/slides/tree/main/Lightning-Talks) repo.
+- If the event recorded, the recording(s) may be uploaded on YouTube after discussion and approval on Slack.
+    - If uploaded, add links for the same in `slides` repo.
