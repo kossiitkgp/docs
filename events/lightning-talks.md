@@ -1,6 +1,6 @@
 # Lightning Talks (LT)
 
-## What is Lightning Talks?
+## What are Lightning Talks?
 - An event where CTMs present about a topic chosen by them, be it tech-related or not.
 - Each presentation should be of around 15 min.
 
@@ -15,5 +15,5 @@
 
 ## After the Event
 - Update the [slides](https://github.com/kossiitkgp/slides/tree/main/Lightning-Talks) repo.
-- If the event recorded, the recording(s) may be uploaded on YouTube after discussion and approval on Slack.
-    - If uploaded, add links for the same in `slides` repo.
+- If the event is recorded, the recording(s) may be uploaded on YouTube after discussion and approval on Slack.
+    - If uploaded, add links for the same in the `slides` repo.
