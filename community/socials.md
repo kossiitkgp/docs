@@ -10,7 +10,7 @@ Guidelines regarding handling, releasing posts, and transferring access to the o
 ### Post Release Guidelines
 - Try to include a poster in every post. **NOTE: Instagram posts must include a poster.**
 - Long links should be shortened using a tool such as https://bit.ly.
-    - Instagram posts do not allow links. The link should be added to the bio instead, and this should be mentioned in the post.
+    - Instagram posts do not allow links. The link should be added to the bio and in a comment instead, and this should be mentioned in the post.
 - A shortened post and poster should be shared on Whatsapp groups and statuses.
 - Twitter Guidelines:
     - The number of words in a tweet is limited, so the post must be split into paragraphs, and a thread must be created.
