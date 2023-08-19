@@ -8,7 +8,7 @@ Guidelines regarding handling, releasing posts, and transferring access to the o
 - [LinkedIn](https://www.linkedin.com/company/kharagpur-open-source-society)
 
 ### Post Release Guidelines
-- Try to include a poster in every post. **NOTE: Instagram posts must include a poster.**
+- Try to include a poster in every post. **NOTE: Instagram posts cannot be shared without an image.**
 - Long links should be shortened using a tool such as https://bit.ly.
     - Instagram posts do not allow links. The link should be added to the bio and in a comment instead, and this should be mentioned in the post.
 - A shortened post and poster should be shared on Whatsapp groups and statuses.
@@ -24,10 +24,10 @@ Guidelines regarding handling, releasing posts, and transferring access to the o
 - Each reshare suggestion **must** be discussed with other team members on Slack before posting it on any platform. The suggestion must be approved by at least one executive and one advisor.
 - The repost must link back to the original post.
 - Platform wise Guidelines:
-    - On Facebook, the post must be shared using the "Share Now" feature. If a caption is to be added, use the "Share to Feed" feature.
-    - On Twitter, the tweet must be quoted.
-    - On LinkedIn, the repost feature must be used. If a caption is to be added, use the "Repost with your thoughts" feature.
-    - On Instagram, the post must be added to the story. In rare cases, a collaborative post can be released if approved internally, and the other organization agrees.
+    - On Facebook, the post should be shared using the "Share Now" feature or using the "Share to Feed" if a caption is to be added, use the feature.
+    - On Twitter, the original tweet should be shared using the "Repost" feature or using quoted if a caption is to be added.
+    - On LinkedIn, the repost feature should be used. If a caption is to be added, use the "Repost with your thoughts" feature.
+    - On Instagram, the post should be added to the story. In rare cases, a collaborative post can be released if approved internally, and the other organization agrees.
 
 ### Direct Message and Comment Reply Guidelines
 - One executive should be assigned to each social media platform to read comments under posts and direct messages at least once a day and reply.
