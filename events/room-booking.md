@@ -1,33 +1,42 @@
 # Room Booking
+Steps for room and AV (Audio Visual) cell booking for conducting workshops and other events.
 
 ## Steps for Room Booking
-
-- Go to the Junior Executive, Academic Section (UG) (Mr Shouvik Adhikari as of now) and get the form for room booking.
+- Go to the Junior Executive, Academic Section (UG) (Mr. Shouvik Adhikari as of now) and get the form for room booking.
 - This form is only for room booking and not for AV support.
-- Fill in the details necessary for booking a room. Date and time, Duration.
-- Would need the signature of a Professor and the HOD of the respective department as the booking is made in the professor's name. (The toughest part of the job). CSE professors are easily approachable for this, so can reach them out.
-- Submit this form back to the Jr. Executive, and he would reach back in a day or two for the payment.
+- Fill in the details necessary for booking a room. Date, time, and duration.
+- Get the signature of a Professor and the HOD of the respective department as the booking is made in the professor's name (Approach professors at the earliest). CSE professors are easily approachable for this, so can reach them out.
+- Submit this form back to the Jr. Executive, and they would reach back in a day or two for the payment.
 - The Jr. Executive would give a draft to be paid at the fees counter and take the payment receipt.
-- Upon submitting the receipt to the Jr. Executive, the process from our end is done. And Voila, room booking is finally done.
+- Upon submitting the receipt to the Jr. Executive, the process from our end is done.
+- The Jr. Executive would email a memo with the permission to use the room to the professor approving the booking (and may add the person booking it in cc).
+- This memo must be printed and shown to the guard with the keys. In the worst case, the email and pdf memo can be shown.
 
-## Steps for AV cell
+### Room Booking During CDC
+- When CDC internships and placements, all Nalanda classrooms and Vikramshila rooms are booked by the CDC.
+- In order to conduct a workshop during this period, explicit written permission is required from CDC to use a particular room.
+- This permission can only be obtained with the approval of a professor.
+- If a professor agrees to approve the booking, they will have to send an email to CDC (`tnp-off@hijli.iitkgp.ac.in`) with us (`admin@kossiitkgp.org`) and `tpn-placecom@hijli.iitkgp.ac.in` in cc, asking for permission to conduct the event on our behalf.
+- Further steps to be documented.
 
-- Get the AV cell form from the AV cell room in Nalanda, or better get it from the CWISS office near the Mechanical Engineering department.
-- Rest steps are unknown right now.
+## Steps for booking AV (Audio Visual) Cell
+- Get the AV cell "Requisition Form" from the AV cell control room in Nalanda (ground floor) or from the CWISS (Central Workshop & Instruments Service Section) office near the Mechanical Engineering department.
+- The form may also be scanned and printed. [INSERT COPY] is a copy of the form.
+- Fill in the required details and get it signed by a professor. Preferrably, the student filling the form should be of the same department as the professor signing the form.
+- Submit the form to the CWISS office.
 
 ## Points to be noted
-
 - Keep at least 1.5 weeks in hand before booking a room, the process takes time.
 - UPI payment is accepted while paying in the Fees department.
 - Both the form for room booking and AV cell needs the professor's signature, better to get it done together.
+- Contact the AV Cell staff and AC maintainers of Nalanda one day before the event to notify them.
 
 ## Rates of Room w.e.f Oct 5, 2022
-
 | Sl no. | Name of the Auditorium                   | Seating Capacity | 4hrs | 8 hrs |
 | ------ | ---------------------------------------- | ---------------- | ---- | ----- |
 | 1      | Bhatnagar (F-116) / Raman (F-142)        | 300              | 2000 | 3000  |
 | 2      | S-301/S-302                              | -                | 1500 | 2500  |
-| 3      | V1 /V2 Class Room                        | 359              | 2000 | 3000  |
+| 3      | V1/V2 Class Room                         | 359              | 2000 | 3000  |
 | 4      | V3/V4 Class Room                         | 179              | 1500 | 2500  |
-| 5      | Nalanda Class Room(Upto 4 room with Ac)  | 4\*120 or 240    | 5000 | 8000  |
-| 6      | Nalanda Class Room (per room without Ac) | 120              | 500  | 800   |
+| 5      | Nalanda Class Room (Upto 4 rooms with AC)| 4\*120 or 240    | 5000 | 8000  |
+| 6      | Nalanda Class Room (Per room without AC) | 120              | 500  | 800   |
