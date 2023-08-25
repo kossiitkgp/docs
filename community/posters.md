@@ -9,7 +9,7 @@ See also: The [design](https://github.com/kossiitkgp/design/) repository. Please
 #### Content
 See also: [kossiitkgp/design](https://github.com/kossiitkgp/design/).
 
-- The name "Kharagpur Open Source Society" and a logo must be mentioned in a prominent position.
+- The name "Kharagpur Open Source Society" or "KOSS" and a logo must be mentioned in a prominent position.
 - Event posters:
 	- Each poster must include a date, time, and location of the event.
 	- Contact numbers of at least two people in-charge must be included on the poster.
