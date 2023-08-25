@@ -1,4 +1,5 @@
 # Event Poster Guidelines
+See also: The [design](https://github.com/kossiitkgp/design/) repository. Please add all poster designs to this repository.
 
 ### Poster Design Guidelines
 #### Size
@@ -14,7 +15,7 @@ See also: [kossiitkgp/design](https://github.com/kossiitkgp/design/).
 	- Contact numbers of at least two people in-charge must be included on the poster.
 - Posters that will be stuck on campus must include a QR code linking to a place where more information could be obtained or registration process could be done. The link could be to a website, a document, or a form.
 - If the poster is about an event that has a sponsor, the poster must be first approved by the sponsor and must adhere to their brand guidelines.
-- The design for the poster with in both an editable format (could be an online link) and an exported image format must be added to the [design](https://github.com/kossiitkgp/design/) repository.
+-
 
 ### Poster Printing Guidelines
 - Shops at IIT Kharagpur that print posters:
