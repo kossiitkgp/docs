@@ -15,12 +15,12 @@ Steps for room and AV (Audio Visual) cell booking for conducting workshops and o
 - Support for mic and projector is booked separately at the [AV Cell](#steps-for-booking-av-audio-visual-cell).
 
 ### Room Booking During CDC
-- When CDC internships and placements, all Nalanda classrooms and Vikramshila rooms are booked by the CDC.
-- In order to conduct a workshop during this period, explicit written permission is required from CDC to use a particular room.
+- During CDC internships and placements (August - December), all Nalanda classrooms and Vikramshila rooms are booked by the CDC.
+- In order to conduct a workshop during this period, explicit written permission is required from CDC to use a room in the above mentioned venues.
 - This permission can only be obtained with the approval of a professor.
 - If a professor agrees to approve the booking, they will have to send an email to CDC (`tnp-off@hijli.iitkgp.ac.in`) with us (`admin@kossiitkgp.org`) and `tpn-placecom@hijli.iitkgp.ac.in` in cc, asking for permission to conduct the event on our behalf.
 - The permission will be emailed back and should be kept show to the guard on the day of the event.
-- The [AV Cell booking](#steps-for-booking-av-audio-visual-cell) booking should be done separately throught the normal procedure. The permission email might be asked for during the AV cell booking process.
+- The [AV Cell booking](#steps-for-booking-av-audio-visual-cell) booking should be done separately through the normal procedure. The permission email might be asked for during the AV cell booking process.
 
 ## Steps for booking AV (Audio Visual) Cell
 - Get the AV cell "Requisition Form" from the AV cell control room in Nalanda (ground floor) or from the CWISS (Central Workshop & Instruments Service Section) office near the Mechanical Engineering department.
