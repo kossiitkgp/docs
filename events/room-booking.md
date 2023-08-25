@@ -11,6 +11,8 @@ Steps for room and AV (Audio Visual) cell booking for conducting workshops and o
 - Upon submitting the receipt to the Jr. Executive, the process from our end is done.
 - The Jr. Executive would email a memo with the permission to use the room to the professor approving the booking (and may add the person booking it in cc).
 - This memo must be printed and shown to the guard with the keys. In the worst case, the email and pdf memo can be shown.
+- Note that room booking must be done **7 days** prior to the day of the event and the booking procedure takes at least **4-5 days**.
+- Support for mic and projector is booked separately at the [AV Cell](#steps-for-booking-av-audio-visual-cell).
 
 ### Room Booking During CDC
 - When CDC internships and placements, all Nalanda classrooms and Vikramshila rooms are booked by the CDC.
@@ -33,7 +35,7 @@ Steps for room and AV (Audio Visual) cell booking for conducting workshops and o
 - Submit the form to the CWISS office or at the control room in Nalanda.
 
 ## Points to be noted
-- Keep at least 1.5 weeks in hand before booking a room, the process takes time. Weekends are excluded.
+- Keep at least **2 weeks** in hand before booking a room, the process takes time. The booking must be done at least **7 days** prior to the day of the workshop and the procedure can take Weekends are excluded.
 - AV Cell booking can be done 2-3 days in advance but it is still better to do it at the earliest along with room booking.
 - UPI payment is accepted while paying in the Fees department.
 - Both the form for room booking and AV cell needs the professor's signature, better to get it done together.
