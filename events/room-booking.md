@@ -18,9 +18,28 @@ Steps for room and AV (Audio Visual) cell booking for conducting workshops and o
 - During CDC internships and placements (August - December), all Nalanda classrooms and Vikramshila rooms are booked by the CDC.
 - In order to conduct a workshop during this period, explicit written permission is required from CDC to use a room in the above mentioned venues.
 - This permission can only be obtained with the approval of a professor.
-- If a professor agrees to approve the booking, they will have to send an email to CDC (`tnp-off@hijli.iitkgp.ac.in`) with us (`admin@kossiitkgp.org`) and `tpn-placecom@hijli.iitkgp.ac.in` in cc, asking for permission to conduct the event on our behalf.
+- If a professor agrees to approve the booking, they will have to send an email to CDC (`tnp-off@hijli.iitkgp.ac.in`) with us (`admin@kossiitkgp.org`) and `tpn-placecom@hijli.iitkgp.ac.in` in cc, asking for permission to conduct the event on our behalf. [This](#email-template-for-asking-permission) template can be used to send the draft email to the professor.
 - The permission will be emailed back and should be kept show to the guard on the day of the event.
 - The [AV Cell booking](#steps-for-booking-av-audio-visual-cell) booking should be done separately through the normal procedure. The permission email might be asked for during the AV cell booking process.
+
+#### Email Template for Asking Permission
+**NOTE: Replace placeholders for the professor's name, our contact number/email id, venue, room number, event name, date, and time.**
+```
+Respected Prof. [Name],
+
+Here is the mail draft we request you to send to [tnp-off@hijli.iitkgp.ac.in](mailto:tnp-off@iitkgp.ac.in) and cc to [tnp-placecom@hijli.iitkgp.ac.in](mailto:tnp-placecom@iitkgp.ac.in) along with this e-mail id. If there is anything to be conveyed to us you may contact us at [contact number or email id].
+
+----------------
+Kharagpur Open Source Society (KOSS) would require one of the bigger [Nalanda/Vikramshila] Classrooms, preferably [Room Number].
+
+Details of the event are as follows:
+- Name : [Event Name]
+- Date : [Date]
+- Time : [Time]
+
+As the rooms are currently booked by CDC, I request you on behalf of KOSS to provide one of the preferred classrooms for the above mentioned date and time.
+----------------
+```
 
 ## Steps for booking AV (Audio Visual) Cell
 - Get the AV cell "Requisition Form" from the AV cell control room in Nalanda (ground floor) or from the CWISS (Central Workshop & Instruments Service Section) office near the Mechanical Engineering department.
