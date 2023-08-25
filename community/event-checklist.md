@@ -8,7 +8,7 @@ toc=true
 
 ✔️ Publicize the event at least **_2 or 3_** days before the workshop. Publicizing earlier will fade away the event info from memory and publicizing late will be difficult for the audience to plan for.
 
-✔️ Complete [room and AV cell booking](../events/room-booking.md) _at least_ **1.5 weeks** before the workshop.
+✔️ Complete [room and AV cell booking](../events/room-booking.md) _at least_ **2 weeks** before the workshop.
 
 ✔️ Share the Post on Facebook, Twitter and Linkedin via KOSS Account.
 
