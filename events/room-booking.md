@@ -2,7 +2,7 @@
 Steps for room and AV (Audio Visual) cell booking for conducting workshops and other events.
 
 ## Steps for Room Booking
-- Go to the Junior Executive, Academic Section (UG) (Mr. Shouvik Adhikari as of now) and get the form for room booking.
+- Go to the Junior Executive, Academic Section (UG) (Mr. Shouvik Adhikari as of now) and get the form for room booking. [Here](../assets/room-booking-form.pdf) is a scan of the form.
 - This form is only for room booking and not for AV support.
 - Fill in the details necessary for booking a room. Date, time, and duration.
 - Get the signature of a Professor and the HOD of the respective department as the booking is made in the professor's name (Approach professors at the earliest). CSE professors are easily approachable for this, so can reach them out.
@@ -17,13 +17,20 @@ Steps for room and AV (Audio Visual) cell booking for conducting workshops and o
 - In order to conduct a workshop during this period, explicit written permission is required from CDC to use a particular room.
 - This permission can only be obtained with the approval of a professor.
 - If a professor agrees to approve the booking, they will have to send an email to CDC (`tnp-off@hijli.iitkgp.ac.in`) with us (`admin@kossiitkgp.org`) and `tpn-placecom@hijli.iitkgp.ac.in` in cc, asking for permission to conduct the event on our behalf.
-- Further steps to be documented.
+- The permission will be emailed back and should be kept show to the guard on the day of the event.
+- The [AV Cell booking](#steps-for-booking-av-audio-visual-cell) booking should be done separately throught the normal procedure. The permission email might be asked for during the AV cell booking process.
 
 ## Steps for booking AV (Audio Visual) Cell
 - Get the AV cell "Requisition Form" from the AV cell control room in Nalanda (ground floor) or from the CWISS (Central Workshop & Instruments Service Section) office near the Mechanical Engineering department.
-- The form may also be scanned and printed. [INSERT COPY] is a copy of the form.
-- Fill in the required details and get it signed by a professor. Preferrably, the student filling the form should be of the same department as the professor signing the form.
-- Submit the form to the CWISS office.
+- The form may also be scanned and printed. [Here](../assets/av-cell-requisition-form.pdf) is a scan of the form.
+- Fill in the required details and get it signed by a professor.
+	- Preferrably, the student filling the form should be of the same department as the professor signing the form.
+	- For `User Name with Cell No`, fill the name of the *student* filling the form and their phone number.
+	- For `User designation with EC No. / Roll No`, fill just the roll number of the student.
+	- For `Users' Deptt./Centre/Society`, fill "Kharagpur Open Source Society."
+	- For `Equipments Required`, mention mic and speaker for audio and projector for screen sharing.
+- The professor's seal must be stamped on the signed form from the respective department's office.
+- Submit the form to the CWISS office or at the control room in Nalanda.
 
 ## Points to be noted
 - Keep at least 1.5 weeks in hand before booking a room, the process takes time.
