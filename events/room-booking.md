@@ -33,10 +33,11 @@ Steps for room and AV (Audio Visual) cell booking for conducting workshops and o
 - Submit the form to the CWISS office or at the control room in Nalanda.
 
 ## Points to be noted
-- Keep at least 1.5 weeks in hand before booking a room, the process takes time.
+- Keep at least 1.5 weeks in hand before booking a room, the process takes time. Weekends are excluded.
+- AV Cell booking can be done 2-3 days in advance but it is still better to do it at the earliest along with room booking.
 - UPI payment is accepted while paying in the Fees department.
 - Both the form for room booking and AV cell needs the professor's signature, better to get it done together.
-- Contact the AV Cell staff and AC maintainers of Nalanda one day before the event to notify them.
+- Contact the AV Cell staff and AC maintainers of Nalanda one day before the event to notify them. [Here](../assets/av-cell-contacts.jpg) is a list of contacts.
 
 ## Rates of Room w.e.f Oct 5, 2022
 | Sl no. | Name of the Auditorium                   | Seating Capacity | 4hrs | 8 hrs |
