@@ -3,8 +3,8 @@ See also: The [design](https://github.com/kossiitkgp/design/) repository. Please
 
 ### Poster Design Guidelines
 #### Size
-- Instagram restricts images in a post to 1:1 ratio.
 - For printable posters, the size must be **11.5x17.5 inches** and it must be in portrait orientation.
+- Instagram restricts images in a post to **1:1 ratio**. A cropped or modified version of the poster may be required to post on Instagram but the print version should be prioritized.
 
 #### Content
 - The name "Kharagpur Open Source Society" or "KOSS" and a logo must be mentioned in a prominent position.
