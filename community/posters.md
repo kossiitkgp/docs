@@ -15,7 +15,6 @@ See also: [kossiitkgp/design](https://github.com/kossiitkgp/design/).
 	- Contact numbers of at least two people in-charge must be included on the poster.
 - Posters that will be stuck on campus must include a QR code linking to a place where more information could be obtained or registration process could be done. The link could be to a website, a document, or a form.
 - If the poster is about an event that has a sponsor, the poster must be first approved by the sponsor and must adhere to their brand guidelines.
--
 
 ### Poster Printing Guidelines
 - Shops at IIT Kharagpur that print posters:
@@ -30,6 +29,8 @@ See also: [kossiitkgp/design](https://github.com/kossiitkgp/design/).
 - The following table contains a rough number of posters to be printed per location:
 
 #### Poster Locations
+##### Total
+
 ##### Halls
 |Location|Number of Posters|Details|
 |-|-|-|
