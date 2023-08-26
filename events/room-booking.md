@@ -2,7 +2,7 @@
 Steps for room and AV (Audio Visual) cell booking for conducting workshops and other events.
 
 ## Steps for Room Booking
-- Go to the Junior Executive, Academic Section (UG) (Mr. Shouvik Adhikari as of now) and get the form for room booking. [Here](../assets/room-booking-form.pdf) is a scan of the form.
+- Go to the Junior Executive, Academic Section (UG), Establishment Section, 2nd Floor, Main Building and get the form for room booking. [Here](../assets/room-booking-form.pdf) is a scan of the form.
 - This form is only for room booking and not for AV support.
 - Fill in the details necessary for booking a room. Date, time, and duration.
 - Get the signature of a Professor and the HOD of the respective department as the booking is made in the professor's name (Approach professors at the earliest). CSE professors are easily approachable for this, so can reach them out.
