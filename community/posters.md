@@ -7,8 +7,6 @@ See also: The [design](https://github.com/kossiitkgp/design/) repository. Please
 - For printable posters, the size must be **11.5x17.5 inches** and it must be in portrait orientation.
 
 #### Content
-See also: [kossiitkgp/design](https://github.com/kossiitkgp/design/).
-
 - The name "Kharagpur Open Source Society" or "KOSS" and a logo must be mentioned in a prominent position.
 - Event posters:
 	- Each poster must include a date, time, and location of the event.
