@@ -18,7 +18,7 @@ Steps for room and AV (Audio Visual) cell booking for conducting workshops and o
 - During CDC internships and placements (August - December), all Nalanda classrooms and Vikramshila rooms are booked by the CDC.
 - In order to conduct a workshop during this period, explicit written permission is required from CDC to use a room in the above mentioned venues.
 - This permission can only be obtained with the approval of a professor.
-- If a professor agrees to approve the booking, they will have to send an email to CDC (`tnp-off@hijli.iitkgp.ac.in`) with us (`admin@kossiitkgp.org`) and `tpn-placecom@hijli.iitkgp.ac.in` in cc, asking for permission to conduct the event on our behalf. [This](#email-template-for-asking-permission) template can be used to send the draft email to the professor.
+- If a professor agrees to approve the booking, they will have to send an email to CDC (`tnp-off@hijli.iitkgp.ac.in`) with us (`admin@kossiitkgp.org`) and `tnp-placecom@hijli.iitkgp.ac.in` in cc, asking for permission to conduct the event on our behalf. [This](#email-template-for-asking-permission) template can be used to send the draft email to the professor.
 - The permission will be emailed back and should be kept show to the guard on the day of the event.
 - The [AV Cell booking](#steps-for-booking-av-audio-visual-cell) booking should be done separately through the normal procedure. The permission email might be asked for during the AV cell booking process.
 
