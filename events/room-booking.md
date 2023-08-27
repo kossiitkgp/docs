@@ -2,7 +2,7 @@
 Steps for room and AV (Audio Visual) cell booking for conducting workshops and other events.
 
 ## Steps for Room Booking
-- Note that room booking must be done **7 days** prior to the day of the event and the booking procedure takes at least **4-5 days**.
+>**NOTE**: that room booking must be done **7 days** prior to the day of the event and the booking procedure takes at least **4-5 days**.
 - Go to the Junior Executive, Academic Section (UG) (Mr. Shouvik Adhikari as of now) and get the form for room booking. [Here](../assets/room-booking-form.pdf) is a scan of the form.
 - This form is only for room booking and not for AV support.
 - Fill in the details necessary for booking a room. Date, time, and duration.
@@ -23,7 +23,7 @@ Steps for room and AV (Audio Visual) cell booking for conducting workshops and o
 - The [AV Cell booking](#steps-for-booking-av-audio-visual-cell) booking should be done separately through the normal procedure. The permission email might be asked for during the AV cell booking process.
 
 #### Email Template for Asking Permission
-**NOTE: Replace placeholders for the professor's name, our contact number/email ID, venue, room number, event name, date, and time.**
+> **NOTE**: Replace placeholders for the professor's name, our contact number/email ID, venue, room number, event name, date, and time.
 ```
 Respected Prof. [Name],
 
