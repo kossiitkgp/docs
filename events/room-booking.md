@@ -8,7 +8,7 @@ Steps for room and AV (Audio Visual) cell booking for conducting workshops and o
 - Fill in the details necessary for booking a room. Date, time, and duration.
 - Get the signature of a Professor and the HOD of the respective department as the booking is made in the professor's name (Approach professors at the earliest). CSE professors are easily approachable for this, so can reach them out.
 - Submit this form back to the Jr. Executive, and they will reach back in a day or two for the payment.
-- The Jr. Executive would give a draft to be paid at the cash counter (Establishment Section, 2nd Floor, Main Building) and take the payment receipt.
+- The Jr. Executive would give a draft to be paid at the cash counter (Establishment Section, 2nd Floor, Above Raman Auditorium, Main Building) and take the payment receipt.
 - Upon submitting the receipt to the Jr. Executive, the process from our end is done.
 - The Jr. Executive would email a memo with the permission to use the room to the professor approving the booking (and may add the person booking it in cc).
 - This memo must be printed and shown to the guard with the keys. In the worst case, the email and pdf memo can be shown.
@@ -56,7 +56,7 @@ As the rooms are currently booked by CDC, I request you, on behalf of KOSS, to p
 ## Points to be noted
 - Keep at least **2 weeks** in hand before booking a room, the process takes time. The booking must be done at least **7 days** prior to the day of the workshop and the procedure can take 4-5 days, excluding weekends.
 - AV Cell booking can be done 2-3 days in advance but it is still better to do it at the earliest along with room booking.
-- UPI payment is accepted while paying at the cash counter (Establishment Section, 2nd Floor, Main Building).
+- UPI payment is accepted while paying at the cash counter (Establishment Section, 2nd Floor, Above Raman Auditorium, Main Building).
 - Both the form for room booking and AV cell need the professor's signature; better to get it done together.
 - Contact the AV Cell staff and AC maintainers of Nalanda one day before the event to notify them. [Here](../assets/av-cell-contacts.jpg) is a list of contacts.
 
