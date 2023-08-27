@@ -8,6 +8,8 @@ toc=true
 
 ✔️ Publicize the event at least **_2 or 3_** days before the workshop. Publicizing earlier will fade away the event info from memory and publicizing late will be difficult for the audience to plan for.
 
+✔️ Complete [room and AV cell booking](../events/room-booking.md) _at least_ **2 weeks** before the workshop.
+
 ✔️ Share the Post on Facebook, Twitter and Linkedin via KOSS Account.
 
 ✔️ Speakers should be **_decided atleast a week_** before the workshop, giving them enough time to prepare.
@@ -22,7 +24,7 @@ toc=true
 
 ​      🗸 Make sure that something important that has been covered in the past doesn't gets removed.
 
-​      🗸 Feel free to remove or edit stuff if you ever feel some part of the content is unnecessary and irrelevant, after discussing with team mates. 
+​      🗸 Feel free to remove or edit stuff if you ever feel some part of the content is unnecessary and irrelevant, after discussing with team mates.
 
 ✔️ Make sure to take feedback on the slides(content) from other members of KOSS. It is suggested to have the discussion over a meet to discuss things like potential queries from audience, thinking of ways to simplify content.
 
@@ -48,7 +50,7 @@ toc=true
 
 ## 2.2 How to decide the content of the workshop
 
-Make sure that the content adds a practical value to the audience. It might be tempting to add bits of cool jargon or theoretically detailed stuff to impress. But it is not recommended. For every slide, ask- Is this something that adds practical value. Will knowing or not knowing a particular thing affect the practical understanding of the topic. For example, consider explaining the idea of Merkel Tree in git, it might not be necessary to include the explanation of Merkel tree. As someone getting started with git, it is more important to practically understand staging area, branching, commits, sending a PR, pushing and pulling. When we get into details like Merkel Tree, audience might lose track of the event and lose interest. However, for the curious audience, it is a good idea to include such things at the end of the workshop, and provide further resources to explore more. 
+Make sure that the content adds a practical value to the audience. It might be tempting to add bits of cool jargon or theoretically detailed stuff to impress. But it is not recommended. For every slide, ask- Is this something that adds practical value. Will knowing or not knowing a particular thing affect the practical understanding of the topic. For example, consider explaining the idea of Merkel Tree in git, it might not be necessary to include the explanation of Merkel tree. As someone getting started with git, it is more important to practically understand staging area, branching, commits, sending a PR, pushing and pulling. When we get into details like Merkel Tree, audience might lose track of the event and lose interest. However, for the curious audience, it is a good idea to include such things at the end of the workshop, and provide further resources to explore more.
 
 During the core period of the workshop, make sure that they get a **practical hands on experience**(which is what they have come for, otherwise they could have learnt it on YouTube too!)
 
@@ -56,7 +58,7 @@ Make sure to give enough time to cover the queries and concerns of the audience 
 
 ## 2.3 How to organize or approach content:
 
-- **2.3.1 Introduction:** It is a good idea to tell the audience the following things: 
+- **2.3.1 Introduction:** It is a good idea to tell the audience the following things:
 
   - What they should take away from the workshop. For example, if it is git workshop, convey that by the end of the workshop they will be comfortable to track their project using git and know how to send a Pull Request properly to a open source repository on Github.
 
@@ -66,11 +68,11 @@ Make sure to give enough time to cover the queries and concerns of the audience 
     - There will be small doubt sessions periodically **or** may be if the speaker is comfortable, he/she may ask the audience to interrupt in middle and ask the query. It is a good idea to take breaks after each [microcentury](https://susam.in/blog/microcentury/)
     - It is a good idea to warn the audience if there is a long strech of theoretical discussion for the next few minutes.
 
-  - **2.3.2 Introducing a new topic**: If you are introducing any new topic, it is suggested to try either of the two methods - 
+  - **2.3.2 Introducing a new topic**: If you are introducing any new topic, it is suggested to try either of the two methods -
 
     - **First principles approach**: Introducing the topic from the ground up. Don't just bring up a word and say, **_"we are going to learn about this X topic now"_**. Introduce a practical situation to explain why something of this sort is necessary. For example, in git consider the topic "branching". Introduce a problem in the beginning, where git branching is a super-useful solution. This will help the audience grasp the idea better.
 
-    - **Using Analogy**: It is always a useful thing to give a analogy with something which people already know. For  example, in git consider the idea of staging area. The staging area is [generally difficult to grasp](https://github.com/kossiitkgp/mistakes/blob/master/git-workshop.md#git-workshop-2018) for someone new to git. To explain this, one can use "shopping in a mall"  analogy. 
+    - **Using Analogy**: It is always a useful thing to give a analogy with something which people already know. For  example, in git consider the idea of staging area. The staging area is [generally difficult to grasp](https://github.com/kossiitkgp/mistakes/blob/master/git-workshop.md#git-workshop-2018) for someone new to git. To explain this, one can use "shopping in a mall"  analogy.
 
       - Selecting items from the rack <-> Making changes in the files
 
@@ -89,9 +91,9 @@ Make sure to give enough time to cover the queries and concerns of the audience 
     ✔️ Once the audience has learned the basics from our workshop, we should encourage the curious ones to explore more advanced and interesting topics on their own. Hence for such people, update further reading material or links to explore more regarding the topic.
 
     ✔️ Share the updated repo's link along with a thanks for the audience. It is a good idea if the post explains the contents of the repo. A Facebook post after the workshop serves the purpose (For example, refer - [1](https://i.imgur.com/IoZsw6r.png),[2](https://i.imgur.com/fHflDQ2.png)).
-    
+
     ✔️ If the event is recorded then upload it on youtube via KOSS account and share its link along with workshop's repo link.
 
     ✔️ For sake of posterity, update the [kossiitkgp/slides](kossiitkgp/slides) repo
 
-    ✔️ Update the [kossiitkgp/mistakes](https://github.com/kossiitkgp/mistakes) repository 
+    ✔️ Update the [kossiitkgp/mistakes](https://github.com/kossiitkgp/mistakes) repository
