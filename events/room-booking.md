@@ -2,7 +2,8 @@
 Steps for room and AV (Audio Visual) cell booking for conducting workshops and other events.
 
 ## Steps for Room Booking
-- Go to the Junior Executive, Academic Section (UG), Establishment Section, 2nd Floor, Main Building, and get the form for room booking. [Here](../assets/room-booking-form.pdf) is a scan of the form.
+- Note that room booking must be done **7 days** prior to the day of the event and the booking procedure takes at least **4-5 days**.
+- Go to the Junior Executive, Academic Section (UG) (Mr. Shouvik Adhikari as of now) and get the form for room booking. [Here](../assets/room-booking-form.pdf) is a scan of the form.
 - This form is only for room booking and not for AV support.
 - Fill in the details necessary for booking a room. Date, time, and duration.
 - Get the signature of a Professor and the HOD of the respective department as the booking is made in the professor's name (Approach professors at the earliest). CSE professors are easily approachable for this, so can reach them out.
@@ -11,8 +12,7 @@ Steps for room and AV (Audio Visual) cell booking for conducting workshops and o
 - Upon submitting the receipt to the Jr. Executive, the process from our end is done.
 - The Jr. Executive would email a memo with the permission to use the room to the professor approving the booking (and may add the person booking it in cc).
 - This memo must be printed and shown to the guard with the keys. In the worst case, the email and pdf memo can be shown.
-- Note that room booking must be done **7 days** prior to the day of the event, and the booking procedure takes at least **4-5 days**.
-- Support for the mic and projector is booked separately at the [AV Cell](#steps-for-booking-av-audio-visual-cell).
+- Support for mic and projector is booked separately at the [AV Cell](#steps-for-booking-av-audio-visual-cell).
 
 ### Room Booking During CDC
 - During CDC internships and placements (August - December), all Nalanda classrooms and Vikramshila rooms are booked by the CDC.
@@ -54,8 +54,8 @@ As the rooms are currently booked by CDC, I request you, on behalf of KOSS, to p
 - Submit the form to the CWISS office or at the control room in Nalanda.
 
 ## Points to be noted
-- Keep at least **2 weeks** in hand before booking a room; the process takes time. The booking must be done at least **7 days** prior to the day of the workshop, and the procedure can take Weekends are excluded.
-- AV Cell booking can be done 2-3 days in advance, but it is still better to do it at the earliest along with room booking.
+- Keep at least **2 weeks** in hand before booking a room, the process takes time. The booking must be done at least **7 days** prior to the day of the workshop and the procedure can take 4-5 days, excluding weekends.
+- AV Cell booking can be done 2-3 days in advance but it is still better to do it at the earliest along with room booking.
 - UPI payment is accepted while paying in the Fees department.
 - Both the form for room booking and AV cell need the professor's signature; better to get it done together.
 - Contact the AV Cell staff and AC maintainers of Nalanda one day before the event to notify them. [Here](../assets/av-cell-contacts.jpg) is a list of contacts.
