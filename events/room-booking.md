@@ -42,7 +42,7 @@ As the rooms are currently booked by CDC, I request you, on behalf of KOSS, to p
 ```
 
 ## Steps for booking AV (Audio Visual) Cell
-- Get the AV cell "Requisition Form" from the AV cell control room in Nalanda (ground floor) or from the CWISS (Central Workshop & Instruments Service Section) office near the Mechanical Engineering department.
+- Get the AV cell "Requisition Form" from the AV cell control room in Nalanda (ground floor) or from the CWISS (Central Workshop & Instruments Service Section) office opposite the Mining Department.
 - The form may also be scanned and printed. [Here](../assets/av-cell-requisition-form.pdf) is a scan of the form.
 - Fill in the required details and get it signed by a professor.
 	- Preferably, the student filling out the form should be in the same department as the professor signing the form.
