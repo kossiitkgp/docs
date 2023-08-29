@@ -19,4 +19,4 @@ eg:
 - The place should have a good internet connection, enough plug points, and no time restrictions (as sprints are usually held around midnight).
 - Some suggested venues:
   - Maggu Room
-  - 
+  - Lbrary
