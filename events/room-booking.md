@@ -51,7 +51,7 @@ As the rooms are currently booked by CDC, I request you, on behalf of KOSS, to p
 	- For `Users' Deptt./Centre/Society`, fill in "Kharagpur Open Source Society."
 	- For `Equipments Required`, mention mic and speaker for audio and projector for screen sharing.
 - The professor's seal must be stamped on the signed form from the respective department's office.
-- Submit the form to the CWISS office or at the control room in Nalanda.
+- Submit the form to the control room in Nalanda if the booking is for any room in Nalanda Complex; otherwise, submit it to the CWISS Office.
 
 ## Points to be noted
 - Keep at least **2 weeks** in hand before booking a room, the process takes time. The booking must be done at least **7 days** prior to the day of the workshop and the procedure can take 4-5 days, excluding weekends.
