@@ -32,27 +32,28 @@ See also: The [design](https://github.com/kossiitkgp/design/) repository. Please
 ##### Halls
 |Location|Number of Posters|Details|
 |-|-|-|
-|Azad| | |
-|BRH| | |
-|Gokhale| | |
-|HJB| | |
-|JCB| | |
-|Nehru| | |
-|LBS| | |
-|LLR| | |
-|MMM| | |
-|MS| | |
-|MT| | |
-|SNVH| | |
-|Patel| | |
-|RK| | |
-|RP| | |
-|SNIG| | |
-|VS| | |
+|Azad|3 | |
+|BRH|- | No UG students here _for now_ |
+|Gokhale|4 |~160 freshers |
+|HJB| 2| |
+|JCB| 3| |
+|Nehru| 3| |
+|LBS| 7|~900 freshers |
+|LLR|2 | |
+|MMM|7 |~900 freshers |
+|MS| 3| |
+|MT| 3| |
+|SNVH|3 | |
+|IGH|5 | All girl freshers|
+|Patel|3 | |
+|RK| 3| |
+|RP| 3| |
+|SNIG| 3| |
+|VS| 2| |
 
 ##### Others
 |Location|Number of Posters|Details|
 |-|-|-|
-|Main Building| | |
-|Gymkhana| | |
-|HJB Night Canteen| | |
+|Main Building| 2| |
+|Gymkhana| 3| |
+|HJB Night Canteen|1 | |
