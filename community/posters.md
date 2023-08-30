@@ -63,5 +63,5 @@ See also: The [design](https://github.com/kossiitkgp/design/) repository. Please
 |-|-|-|
 |Main Building|1|Main noticeboard, opposite Maggu room|
 |Gymkhana|1|Noticeboard|
-|Nalanda|3|1 outside the entrance + 1 near the staircase + 1 on the first floor|
+|Nalanda|3|1 outside the entrance + 1 near the staircase + 1 outside the backside entrance|
 |HJB Night Canteen|1||
