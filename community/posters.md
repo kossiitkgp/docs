@@ -31,10 +31,10 @@ See also: The [design](https://github.com/kossiitkgp/design/) repository. Please
 |Category|Number of Posters|
 |-|-|
 |Freshers' Halls (as of 2023-2024)|23|
-|Other UG Halls|37|
+|Other UG Halls|38|
 |Non-UG Halls|0|
 |Others|6|
-|**Total**|67|
+|**Total**|68|
 
 ##### Halls
 |Location|Number of Posters|Details|
