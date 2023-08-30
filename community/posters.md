@@ -16,7 +16,7 @@ See also: The [design](https://github.com/kossiitkgp/design/) repository. Please
 
 ### Poster Printing Guidelines
 - Shops at IIT Kharagpur that print posters:
-	- Quest Printers, Tech Market.
+	- Quest Printers, Near Radhakanta Sweets, Tech Market.
 - The poster must be printed in A3 portrait size. See [#Size](#size).
 - The poster must be readable, and the text must not be blurry. A sample should be printed and reviewed by other members before printing the final posters.
 - An invoice must be generated in the name of "Kharagpur Open Source Society" for the posters printed.
