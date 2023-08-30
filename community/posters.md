@@ -33,7 +33,7 @@ See also: The [design](https://github.com/kossiitkgp/design/) repository. Please
 |Freshers' Halls (as of 2023-2024)|21|
 |Other UG Halls|39|
 |Non-UG Halls|0|
-|Others|8|
+|Others|9|
 |**Total**|68|
 
 ##### Halls
@@ -63,6 +63,6 @@ See also: The [design](https://github.com/kossiitkgp/design/) repository. Please
 |-|-|-|
 |Main Building|2|1 on the main noticeboard, opposite Maggu room + outside raman auditorium|
 |Library|1|Noticeboard on the pillar|
-|Gymkhana|1|Noticeboard|
+|Gymkhana|2|1 on the outer noticeboard + 1 on the inner noticeboard|
 |Nalanda|3|1 outside the entrance + 1 near the staircase + 1 outside the backside entrance|
 |HJB Night Canteen|1||
