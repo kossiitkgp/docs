@@ -28,33 +28,40 @@ See also: The [design](https://github.com/kossiitkgp/design/) repository. Please
 
 #### Poster Locations
 ##### Total
+|Category|Number of Posters|
+|-|-|
+|Freshers' Halls (as of 2023-2024)|23|
+|Other UG Halls|36|
+|Non-UG Halls|0|
+|Others|6|
+|**Total**|65|
 
 ##### Halls
 |Location|Number of Posters|Details|
 |-|-|-|
-|Azad|4 |1 on notice board + one in each 2nd year block (3)|
-|BRH|- | No UG students here _for now_ |
-|Gokhale|4 |~160 freshers |
-|HJB| 2| |
-|JCB| 2| |
-|Nehru| 3|1 on notice board + one in each 2nd year block (2)|
-|LBS| 8|~1000 freshers |
-|LLR|2 | |
-|MMM|6 |~400 freshers; 1 per mess (2) + 1 per block (4) |
-|MS| 3| |
-|MT| 3| |
-|SNVH|3 | |
-|IGH|5 | All girl freshers|
-|Patel|3 |1 on notice board + one in each 2nd year block (2)|
-|RK| 3| |
-|RP| 3| |
-|SNIG| 3| |
-|VS| 2| |
+|Patel|3|1 on notice board + 1 in each 2nd year block (2)|
+|Azad|4|1 on notice board + 1 in each 2nd year block (3)|
+|Nehru|3|1 on notice board + 1 in each 2nd year block (2)|
+|HJB|2||
+|JCB|2||
+|VS|2|1 on entrance noticeboard + 1 on main noticeboard|
+|LLR|2|1 on entrance noticeboard + 1 on main noticeboard|
+|MS|3||
+|RK|3|1 on noticeboard + 2 in 2nd year blocks|
+|RP|3|1 on noticeboard + 2 in 2nd year blocks|
+|LBS|8|~1000 freshers|
+|MMM|6|~400 freshers; 1 per mess (2) + 1 per block (4)|
+|MT|3||
+|SNVH|3||
+|IGH|5|All girl freshers|
+|SNIG|3||
+|Gokhale|4|~160 freshers|
+|BRH|-|No UG students here _for now_|
 
 ##### Others
 |Location|Number of Posters|Details|
 |-|-|-|
-|Main Building| 1| |
-|Gymkhana| 1| |
+|Main Building|1||
+|Gymkhana|1||
 |Nalanda|3||
-|HJB Night Canteen|1 | |
+|HJB Night Canteen|1||
