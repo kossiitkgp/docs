@@ -38,9 +38,9 @@ See also: The [design](https://github.com/kossiitkgp/design/) repository. Please
 |HJB| 2| |
 |JCB| 2| |
 |Nehru| 3| |
-|LBS| 7|~900 freshers |
+|LBS| 8|~1300 freshers |
 |LLR|2 | |
-|MMM|7 |~900 freshers |
+|MMM|6 |~400 freshers; 1 per mess (2) + 1 per block (4) |
 |MS| 3| |
 |MT| 3| |
 |SNVH|3 | |
