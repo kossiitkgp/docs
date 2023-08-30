@@ -38,7 +38,7 @@ See also: The [design](https://github.com/kossiitkgp/design/) repository. Please
 |HJB| 2| |
 |JCB| 2| |
 |Nehru| 3|1 on notice board + one in each 2nd year block (2)|
-|LBS| 8|~1300 freshers |
+|LBS| 8|~1000 freshers |
 |LLR|2 | |
 |MMM|6 |~400 freshers; 1 per mess (2) + 1 per block (4) |
 |MS| 3| |
