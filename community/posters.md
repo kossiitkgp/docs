@@ -40,7 +40,7 @@ See also: The [design](https://github.com/kossiitkgp/design/) repository. Please
 |Location|Number of Posters|Details|
 |-|-|-|
 |Patel|3|1 on notice board + 1 in each 2nd year block (2)|
-|Azad|4|1 on notice board + 1 in each 2nd year block (3)|
+|Azad|4|1 on main notice board + 1 outside mesa + 2 in 2nd year block|
 |Nehru|3|1 on notice board + 1 in each 2nd year block (2)|
 |HJB|2||
 |JCB|2||
