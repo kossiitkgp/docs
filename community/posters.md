@@ -4,7 +4,7 @@ See also: The [design](https://github.com/kossiitkgp/design/) repository. Please
 ### Poster Design Guidelines
 #### Size
 - For printable posters, the size must be **11.5x17.5 inches** to be printed properly without any borders and it must be in portrait orientation.
-- Instagram restricts images in a post to **1:1 ratio** or **4:5 portrait ratio**. A cropped or modified version of the poster may be required to post on Instagram but the print version should be prioritized.
+- Instagram restricts images in a post to **1:1 ratio** or **4:5 portrait ratio**. A cropped or modified version of the poster may be required to post on Instagram but the print version should be prioritized. [This](https://pinetools.com/blurred-frame-images-generator) tool can be used to add blurred borders to the image.
 
 #### Content
 - The name "Kharagpur Open Source Society" or "KOSS" and a logo must be mentioned in a prominent position.
