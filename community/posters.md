@@ -39,8 +39,8 @@ See also: The [design](https://github.com/kossiitkgp/design/) repository. Please
 ##### Halls
 |Location|Number of Posters|Details|
 |-|-|-|
-|Patel|5|1 on main notice board + 1 outside mess + 1 in each 2nd year block (3)|
-|Azad|4|1 on main notice board + 1 outside mesa + 2 in 2nd year block|
+|Azad|5|1 on main notice board + 1 outside mess + 1 in each 2nd year block (3)|
+|Patel|4|1 on main notice board + 1 outside mess + 2 in 2nd year blocks|
 |Nehru|3|1 on notice board + 1 in each 2nd year block (2)|
 |HJB|2|1 on the main notice board + 1 in the mess corridor notice board|
 |JCB|2|1 on the main notice board + 1 outside the mess|
