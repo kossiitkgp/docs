@@ -30,11 +30,11 @@ See also: The [design](https://github.com/kossiitkgp/design/) repository. Please
 ##### Total
 |Category|Number of Posters|
 |-|-|
-|Freshers' Halls (as of 2023-2024)|23|
+|Freshers' Halls (as of 2023-2024)|21|
 |Other UG Halls|39|
 |Non-UG Halls|0|
-|Others|6|
-|**Total**|68|
+|Others|7|
+|**Total**|67|
 
 ##### Halls
 |Location|Number of Posters|Details|
@@ -55,13 +55,14 @@ See also: The [design](https://github.com/kossiitkgp/design/) repository. Please
 |SNVH|3||
 |IGH|5|All girl freshers|
 |SNIG|3||
-|Gokhale|4|~160 freshers|
+|Gokhale|2|~160 freshers; 1 on the main noticeboard + 1 on the pillar between mess and cycle stand|
 |BRH|-|No UG students here _for now_|
 
 ##### Others
 |Location|Number of Posters|Details|
 |-|-|-|
 |Main Building|1|Main noticeboard, opposite Maggu room|
+|Library|1|Noticeboard on the pillar|
 |Gymkhana|1|Noticeboard|
 |Nalanda|3|1 outside the entrance + 1 near the staircase + 1 outside the backside entrance|
 |HJB Night Canteen|1||
