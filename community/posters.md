@@ -54,6 +54,7 @@ See also: The [design](https://github.com/kossiitkgp/design/) repository. Please
 ##### Others
 |Location|Number of Posters|Details|
 |-|-|-|
-|Main Building| 2| |
-|Gymkhana| 3| |
+|Main Building| 1| |
+|Gymkhana| 1| |
+|Nalanda|3||
 |HJB Night Canteen|1 | |
