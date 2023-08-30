@@ -33,8 +33,8 @@ See also: The [design](https://github.com/kossiitkgp/design/) repository. Please
 |Freshers' Halls (as of 2023-2024)|21|
 |Other UG Halls|39|
 |Non-UG Halls|0|
-|Others|7|
-|**Total**|67|
+|Others|8|
+|**Total**|68|
 
 ##### Halls
 |Location|Number of Posters|Details|
@@ -52,16 +52,16 @@ See also: The [design](https://github.com/kossiitkgp/design/) repository. Please
 |LBS|8|~1000 freshers; 1 in front of each mess (2) + 3 in D block + 3 in C block|
 |MMM|6|~400 freshers; 1 per mess (2) + 1 per block, besides the elevator (4)|
 |MT|4|1 on the main noticeboard + 1 outside Nescafe + 1 outside mess + 1 near D/E block staircase|
-|SNVH|3||
+|SNVH|3|1 on the main noticeboard + 1 outside the mess + 1 outside the elevator|
 |IGH|5|All girl freshers|
-|SNIG|3||
+|SNIG|3|1 in the reception + 1 in the C-block entrance + 1 near the staircase|
 |Gokhale|2|~160 freshers; 1 on the main noticeboard + 1 on the pillar between mess and cycle stand|
 |BRH|-|No UG students here _for now_|
 
 ##### Others
 |Location|Number of Posters|Details|
 |-|-|-|
-|Main Building|1|Main noticeboard, opposite Maggu room|
+|Main Building|2|1 on the main noticeboard, opposite Maggu room + outside raman auditorium|
 |Library|1|Noticeboard on the pillar|
 |Gymkhana|1|Noticeboard|
 |Nalanda|3|1 outside the entrance + 1 near the staircase + 1 outside the backside entrance|
