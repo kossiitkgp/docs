@@ -50,8 +50,8 @@ See also: The [design](https://github.com/kossiitkgp/design/) repository. Please
 |RK|3|1 on noticeboard + 2 in 2nd year blocks|
 |RP|3|1 on noticeboard + 2 in 2nd year blocks|
 |LBS|8|~1000 freshers; 1 in front of each mess (2) + 3 in D block + 3 in C block|
-|MMM|6|~400 freshers; 1 per mess (2) + 1 per block (4)|
-|MT|3||
+|MMM|6|~400 freshers; 1 per mess (2) + 1 per block, besides the elevator (4)|
+|MT|4|1 on the main noticeboard + 1 outside Nescafe + 1 outside mess + 1 near D/E block staircase|
 |SNVH|3||
 |IGH|5|All girl freshers|
 |SNIG|3||
