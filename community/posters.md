@@ -31,15 +31,15 @@ See also: The [design](https://github.com/kossiitkgp/design/) repository. Please
 |Category|Number of Posters|
 |-|-|
 |Freshers' Halls (as of 2023-2024)|23|
-|Other UG Halls|36|
+|Other UG Halls|37|
 |Non-UG Halls|0|
 |Others|6|
-|**Total**|65|
+|**Total**|67|
 
 ##### Halls
 |Location|Number of Posters|Details|
 |-|-|-|
-|Patel|3|1 on notice board + 1 in each 2nd year block (2)|
+|Patel|5|1 on main notice board + 1 outside mess + 1 in each 2nd year block (3)|
 |Azad|4|1 on main notice board + 1 outside mesa + 2 in 2nd year block|
 |Nehru|3|1 on notice board + 1 in each 2nd year block (2)|
 |HJB|2||
