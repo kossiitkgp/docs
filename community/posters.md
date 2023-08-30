@@ -21,8 +21,8 @@ See also: The [design](https://github.com/kossiitkgp/design/) repository. Please
 - The poster must be readable, and the text must not be blurry. A sample should be printed and reviewed by other members before printing the final posters.
 - An invoice must be generated in the name of "Kharagpur Open Source Society" for the posters printed.
 
-### Poster Placing Guidelines
-- Posters must be pasted at notice boards and other prominent places of every hall, and other frequently visited locations such as the Main building, Gymkhana, and famous night canteens.
+### Poster Pasting Guidelines
+- Posters must be pasted on notice boards and other prominent places of every hall and other frequently visited locations such as the Main building, Gymkhana, and famous night canteens.
 - Make sure to buy or arrange for push pins, tape, and scissors.
 - The following table contains a rough number of posters to be printed per location:
 
@@ -61,7 +61,7 @@ See also: The [design](https://github.com/kossiitkgp/design/) repository. Please
 ##### Others
 |Location|Number of Posters|Details|
 |-|-|-|
-|Main Building|1||
-|Gymkhana|1||
+|Main Building|1|Main noticeboard, opposite Maggu room|
+|Gymkhana|1|Noticeboard|
 |Nalanda|3||
 |HJB Night Canteen|1||
