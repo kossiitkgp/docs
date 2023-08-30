@@ -32,12 +32,12 @@ See also: The [design](https://github.com/kossiitkgp/design/) repository. Please
 ##### Halls
 |Location|Number of Posters|Details|
 |-|-|-|
-|Azad|4 | |
+|Azad|4 |1 on notice board + one in each 2nd year block (3)|
 |BRH|- | No UG students here _for now_ |
 |Gokhale|4 |~160 freshers |
 |HJB| 2| |
 |JCB| 2| |
-|Nehru| 3| |
+|Nehru| 3|1 on notice board + one in each 2nd year block (2)|
 |LBS| 8|~1300 freshers |
 |LLR|2 | |
 |MMM|6 |~400 freshers; 1 per mess (2) + 1 per block (4) |
@@ -45,7 +45,7 @@ See also: The [design](https://github.com/kossiitkgp/design/) repository. Please
 |MT| 3| |
 |SNVH|3 | |
 |IGH|5 | All girl freshers|
-|Patel|3 | |
+|Patel|3 |1 on notice board + one in each 2nd year block (2)|
 |RK| 3| |
 |RP| 3| |
 |SNIG| 3| |
