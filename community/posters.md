@@ -32,11 +32,11 @@ See also: The [design](https://github.com/kossiitkgp/design/) repository. Please
 ##### Halls
 |Location|Number of Posters|Details|
 |-|-|-|
-|Azad|3 | |
+|Azad|4 | |
 |BRH|- | No UG students here _for now_ |
 |Gokhale|4 |~160 freshers |
 |HJB| 2| |
-|JCB| 3| |
+|JCB| 2| |
 |Nehru| 3| |
 |LBS| 7|~900 freshers |
 |LLR|2 | |
