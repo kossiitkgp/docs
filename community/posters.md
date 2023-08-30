@@ -46,7 +46,7 @@ See also: The [design](https://github.com/kossiitkgp/design/) repository. Please
 |JCB|2|1 on the main notice board + 1 outside the mess|
 |VS|2|1 on entrance noticeboard + 1 on main noticeboard|
 |LLR|2|1 on entrance noticeboard + 1 on main noticeboard|
-|MS|3||
+|MS|3|1 on the main noticeboard + 1 on the noticeboard in the rightward passage + 1 outside the mess|
 |RK|3|1 on noticeboard + 2 in 2nd year blocks|
 |RP|3|1 on noticeboard + 2 in 2nd year blocks|
 |LBS|8|~1000 freshers; 1 in front of each mess (2) + 3 in D block + 3 in C block|
