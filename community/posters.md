@@ -49,7 +49,7 @@ See also: The [design](https://github.com/kossiitkgp/design/) repository. Please
 |MS|3||
 |RK|3|1 on noticeboard + 2 in 2nd year blocks|
 |RP|3|1 on noticeboard + 2 in 2nd year blocks|
-|LBS|8|~1000 freshers|
+|LBS|8|~1000 freshers; 1 in front of each mess (2) + 2 in D block + 3 in C block|
 |MMM|6|~400 freshers; 1 per mess (2) + 1 per block (4)|
 |MT|3||
 |SNVH|3||
