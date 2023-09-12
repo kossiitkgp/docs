@@ -66,4 +66,4 @@ See also: The [design](https://github.com/kossiitkgp/design/) repository. Please
 |Library|1|Noticeboard on the pillar|
 |Gymkhana|2|1 on the outer noticeboard + 1 on the inner noticeboard|
 |Nalanda|3|1 outside the entrance + 1 near the staircase + 1 outside the backside entrance|
-|HJB Night Canteen|1||
+|HJB Night Canteen|1|On shed pillars|
