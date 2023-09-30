@@ -11,15 +11,23 @@ The workshop should cover and explain the following
 
 ## Before the workshop
 
-Share an instructions file like [this installation guide](https://github.com/kossiitkgp/git-and-github-workshop-2020/blob/main/installation.md), along with the poster of the workshop. The instructions should contain
+Share an instructions file like [this installation guide](https://github.com/kossiitkgp/events/blob/main/2023/git-github-autumn/installation.md), along with the poster of the workshop. The instructions should contain
 
 - How to install Git for Windows, Linux, Mac seperately
 - For Windows users, make that they install `git bash` and configure it
 - How to verify that git is installed
-- Install SSH(As Pushing via HTTPS has been deprecated)
 - Instructions on how to create a Github Account
 
 In the post mention the fact that we will be available for installation issues before 15 minutes of the workshop. Help with the installation issues before the workshop begins.
+
+## Connecting Github Account
+While SSH authentication is a secure and efficient way to interact with GitHub, it may not work on the campus network.  
+Alternative :
+- Use Personal Access Tokens.
+- Use Browser Login Method.
+
+
+
 
 ## Flow of the workshop
 
@@ -92,7 +100,7 @@ In the post mention the fact that we will be available for installation issues b
 
 11. **Sending a Pull Request**
 
-    This is also best explained via a demo. It is a good idea to have a Github Repository made from KOSS account for the Pull Request demo. Make a small issue like a  "typo in `printf` function" which anyone can solve. Follow up the whole process from checking the issues, comment on issue you want to work, Forking the repo, Cloning it, Making a new branch, Push it, Sending a Pull Request with proper description. 
+    This is also best explained via a demo. Use the `sandbox` repo. Make a small issue like a  "typo in `printf` function" which anyone can solve. Follow up the whole process from checking the issues, comment on issue you want to work, Forking the repo, Cloning it, Making a new branch, Push it, Sending a Pull Request with proper description. 
 
     While demonstrating each and every step explain clearly, why you are doing this. For example, tell them that you are forking the repo to have your own copy of the codebase. Similarly, make your explanation in such a way that steps have a logical sequence.
 
@@ -109,13 +117,13 @@ In the post mention the fact that we will be available for installation issues b
 
     - Tell them about starring a repo and the usefulness of starred repos.
     - Tell them about "watch" feature of a repo, and show them how it can be used to track a project.
-    - Ask them to `star` and `watch` the `kossiitkgp/slides` repo, as important links like slides, resources will be put here
+    - Ask them to `star` and `watch` the `events` repo, as important links like slides, resources will be put here
 
     If any swags are available distriubute them to the audience.
 
 ## After the workshop
 
-Upload the following in the `kossiitkgp/slides` repo
+Upload the following in the `events` repo  
 
 - Recording of the workshop, if its recorded
 - Link to the slides
@@ -129,7 +137,8 @@ Share the above via a facebook post along with a thanks for the audience.
 - Skip hands-on sessions. Hands on sessions are the main reason we conduct workshops, else audience would have simply watched a tutorial video. Repeat demos if required. Provide individual assistance. Make sure audience get their hands dirty.
 - Skip questions. Git contains many non-intuitive ideas. Audience may be confused while you are explaining the concepts. Re-explain things in a different way if necessary. Encourage audience to speak out if they have confuse. Tell them that Git is non-intuitive and its okay to ask small doubts.
 
-
+## KOSS Intro
+This git and github workshop will have a significant part, introducing them about KOSS (4-5 slides worth it material). Focusing on when we do selections and why we do it at that time - no need to introduce to open source
 ## Miscellaneous
 - We can also consider to conduct a Advanced Git workshop, where concepts like `rebase`, `stash` and `bisect` are taught. The duration of this workshop can be shorter than duration of a regular workshop(3 hours). If such a thing is being planned, make sure to give some git excerises in the gap between git basic workshop and git advanced workshop, so that they are in touch with git concepts.
 - `switch` is the new preferred way to switch branches. This might be included in the upcoming workshops. Refer [this](https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore/).
