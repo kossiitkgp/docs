@@ -9,6 +9,10 @@ The workshop should cover and explain the following
 - Be able to push and pull code from Github
 - Be able to send a PR to an Open Source Repository
 
+## Timeline  
+The Workshop should be held around the time when GymK societies have their Intro-Seminar, so that we also show our presence during the same time but with a Workshop.
+GymK socities have their Intros during the mid of August, So it's best to conduct the Workshop before the end of August.
+
 ## Before the workshop
 
 Share an instructions file like [this installation guide](https://github.com/kossiitkgp/events/blob/main/2023/git-github-autumn/installation.md), along with the poster of the workshop. The instructions should contain
@@ -138,7 +142,7 @@ Share the above via a facebook post along with a thanks for the audience.
 - Skip questions. Git contains many non-intuitive ideas. Audience may be confused while you are explaining the concepts. Re-explain things in a different way if necessary. Encourage audience to speak out if they have confuse. Tell them that Git is non-intuitive and its okay to ask small doubts.
 
 ## KOSS Intro
-This git and github workshop will have a significant part, introducing them about KOSS (4-5 slides worth it material). Focusing on when we do selections and why we do it at that time - no need to introduce to open source
+This git and github workshop will have a significant part, introducing them about KOSS (4-5 slides worth it material). Focusing on when we do selections, why we do it at that time and what we expect from them - no need to introduce to open source.
 ## Miscellaneous
 - We can also consider to conduct a Advanced Git workshop, where concepts like `rebase`, `stash` and `bisect` are taught. The duration of this workshop can be shorter than duration of a regular workshop(3 hours). If such a thing is being planned, make sure to give some git excerises in the gap between git basic workshop and git advanced workshop, so that they are in touch with git concepts.
 - `switch` is the new preferred way to switch branches. This might be included in the upcoming workshops. Refer [this](https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore/).
