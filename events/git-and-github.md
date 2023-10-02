@@ -10,13 +10,13 @@ The workshop should cover and explain the following
 - Be able to send a PR to an Open Source Repository
 
 ## Timeline  
-The Workshop should be held around the time when Gymkhana societies have their Introductory Seminar so that we also show our presence during the same time but with a workshop.
-Gymkhana societies have their introductory seminars in mid-August, So it's best to conduct the Workshop before the end of August.
+The Workshop should be held around the time when Gymkhana societies have their introductory seminar so that we also show our presence during the same time but with a workshop.
+Gymkhana societies have their introductory seminars in mid-August, so it's best to conduct the Workshop before the end of August.
 ## Before the workshop
 
 Share an instructions file like [this installation guide](https://github.com/kossiitkgp/events/blob/main/2023/git-github-autumn/installation.md), along with the poster of the workshop. The instructions should contain
 
-- How to install Git for Windows, Linux, Mac separately
+- How to install Git for Windows, Linux, and Mac separately
 - For Windows users, make that they install `git bash` and configure it
 - How to verify that git is installed
 - Instructions on how to create a Github Account
@@ -37,7 +37,7 @@ Alternative :
 
 1. **Terminal Commands**
 
-   It might be a good idea to introduce basic Linux Commands, as they will be used throughout the workshop. You don't have to cover this topic in detail. Just important commands like - `ls`, `cat`, `echo` , `cd`, `mkdir`, `pwd` , `rm' would suffice. Windows users can be asked to try these commands on Git Bash. 
+   It might be a good idea to introduce basic Linux Commands, as they will be used throughout the workshop. You don't have to cover this topic in detail. Just important commands like - `ls`, `cat`, `echo` , `cd`, `mkdir`, `pwd` , `rm` would suffice. Windows users can be asked to try these commands on Git Bash. 
 
 2. **Why do we need something like Git**
 
@@ -91,9 +91,9 @@ Alternative :
 
 10. **Push and Pull**
 
-    This is best explained via demo. First show them how to create SSH keys and how to add the generated keys to Github. Show them how to make a new repository    on Github. 
+    This is best explained via demo. First, show them how to create SSH keys and how to add the generated keys to Github. Show them how to make a new repository    on Github. 
 
-    Show them how to push the local project to the Github repo using `git push git@github.com:USERNAME/REPONAME.git master` . Make a README on repo on Github. Show them how the changes on Github repo can be obtained locally via `git pull git@github.com:USERNAME/REPONAME.git master`.
+    Show them how to push the local project to the Github repo using `git push git@github.com:USERNAME/REPONAME.git master` . Make a README on repo on Github. Show them how the changes on the Github repo can be obtained locally via `git pull git@github.com:USERNAME/REPONAME.git master`.
 
     Tell them typing the URL is a pain every time, and use this as an opportunity to introduce the concept of remote variables. Add a remote by name `origin`  using `git remote add origin` and show how `git push origin master` does the same job.
 
@@ -111,12 +111,12 @@ Alternative :
 12. **Conclusion**
 
     - Tell them to contribute to beginner-friendly issues at metakgp or KOSS repositories on GitHub. Share the Github Links of both the Github Organizations. Pointing them to some beginner-friendly issues would be great.
-    - Tell them about the Github Student pack and its benefits like Domains, Free Servers and so on.
+    - Tell them about the Github Student pack and its benefits like Domains, Free Servers, and so on.
     - Tell them about Github Pages, and tell them how easily a beautiful blog can be set up within minutes.
     - Inform them about Hacktoberfest and tell them about the T-shirt and Stickers
 
     - Tell them about starring a repo and the usefulness of starred repos.
-    - Tell them about "watch" feature of a repo, and show them how it can be used to track a project.
+    - Tell them about the "watch" feature of a repo, and show them how it can be used to track a project.
     - Ask them to `star` and `watch` the `events` repo, as important links like slides, and resources will be put here
 
     If any swags are available distribute them to the audience.
@@ -126,7 +126,7 @@ Alternative :
 Upload the following in the `events` repo:
 - Recording of the workshop, if it's recorded
 - Link to the slides
-- Link to extra resources, from which they can revise or learn more advanced stuff. Something like [this](https://github.com/kossiitkgp/git-and-github-workshop-2020/tree/main/advance%20stuff) 
+- Link to extra resources, from which they can revise or learn more advanced stuff. Something like [this](https://github.com/kossiitkgp/Git-and-Github-Workshop-2023/tree/main/resources)
 
 Share the above via a Facebook post along with a thanks to the audience.
 
@@ -134,7 +134,7 @@ Share the above via a Facebook post along with a thanks to the audience.
 
 - Introduce an idea or feature directly without explaining why it is needed. Just starting with "Branching is an important feature and to create a new branch, we use `git branch` command" is a bad way to introduce branching. Make sure you firmly establish in the audience's mind why they are learning. If you can't explain why in the beginning make a promise that it will be explained later and keep your promise. Otherwise, our workshops will be no different than most of the boring academic lectures.
 - Skip hands-on sessions. Hands-on sessions are the main reason we conduct workshops, else the audience would have simply watched a tutorial video. Repeat demos if required. Provide individual assistance. Make sure the audience gets their hands dirty.
-- Skip questions. Git contains many non-intuitive ideas. Audience may be confused while you are explaining the concepts. Re-explain things in a different way if necessary. Encourage the audience to speak out if they are confused. Tell them that Git is non-intuitive and it's okay to ask small doubts.
+- Skip questions. Git contains many non-intuitive ideas. The audience may be confused while you are explaining the concepts. Re-explain things in a different way if necessary. Encourage the audience to speak out if they are confused. Tell them that Git is non-intuitive and it's okay to ask small doubts.
 
 ## KOSS Intro
 Include 4-5 slides introducing KOSS, focusing on when we do selections, why we do it at that time, and what we expect from them. This introduction can be inserted in the middle of the workshop when the maximum audience is present.
@@ -161,7 +161,6 @@ Some questions to include in the feedback form can be (Including all the questio
 - What more could we have done to improve your learning experience? (descriptive)
 - How relevant and useful did you find the workshop? (1-5)
 - Any other suggestions? (descriptive)
-
 
 ## Useful Resources
 - [Git-School](https://git-school.github.io/visualizing-git/): Visualizating git.This can be used while the workshop
