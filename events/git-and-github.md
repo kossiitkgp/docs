@@ -100,7 +100,7 @@ Alternative :
 
 11. **Sending a Pull Request**
 
-    This is also best explained via a demo. Use the `sandbox` repo. Make a small issue like a  "typo in `printf` function" which anyone can solve. Follow up the whole process from checking the issues, comment on issue you want to work on, Forking the repo, Cloning it, Making a new branch, Push it, Sending a Pull Request with a proper description. 
+    This is also best explained via a demo. Use the [sandbox](https://github.com/kossiitkgp/sandbox) repo. Make a small issue like a  "typo in `printf` function" which anyone can solve. Follow up the whole process from checking the issues, comment on issue you want to work on, Forking the repo, Cloning it, Making a new branch, Push it, Sending a Pull Request with a proper description. 
 
     While demonstrating each and every step explain clearly, why you are doing this. For example, tell them that you are forking the repo to have your own copy of the codebase. Similarly, make your explanation in such a way that steps have a logical sequence.
 
@@ -113,8 +113,7 @@ Alternative :
     - Tell them to contribute to beginner-friendly issues at metakgp or KOSS repositories on GitHub. Share the Github Links of both the Github Organizations. Pointing them to some beginner-friendly issues would be great.
     - Tell them about the Github Student pack and its benefits like Domains, Free Servers, and so on.
     - Tell them about Github Pages, and tell them how easily a beautiful blog can be set up within minutes.
-    - Inform them about Hacktoberfest and tell them about the T-shirt and Stickers
-
+    - Inform them about Hacktoberfest.
     - Tell them about starring a repo and the usefulness of starred repos.
     - Tell them about the "watch" feature of a repo, and show them how it can be used to track a project.
     - Ask them to `star` and `watch` the `events` repo, as important links like slides, and resources will be put here
@@ -137,7 +136,11 @@ Share the above via a Facebook post along with a thanks to the audience.
 - Skip questions. Git contains many non-intuitive ideas. The audience may be confused while you are explaining the concepts. Re-explain things in a different way if necessary. Encourage the audience to speak out if they are confused. Tell them that Git is non-intuitive and it's okay to ask small doubts.
 
 ## KOSS Intro
-Include 4-5 slides introducing KOSS, focusing on when we do selections, why we do it at that time, and what we expect from them. This introduction can be inserted in the middle of the workshop when the maximum audience is present.
+Include 4-5 slides introducing KOSS, focusing on:
+- when we do selections.
+- why we do it at that time.
+- what we expect from them.
+This introduction can be inserted in the middle of the workshop when the maximum audience is present.
 
 ## Miscellaneous
 - We can also consider conducting an Advanced Git workshop, where concepts like `rebase`, `stash` and `bisect` are taught. The duration of this workshop can be shorter than the duration of a regular workshop(3 hours). If such a thing is being planned, make sure to give some git exercises in the gap between git basic workshop and git advanced workshop, so that they are in touch with git concepts.
