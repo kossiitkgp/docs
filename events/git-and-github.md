@@ -10,7 +10,7 @@ The workshop should cover and explain the following
 - Be able to send a PR to an Open Source Repository
 
 ## Timeline  
-The Workshop should be held around the time when GymK societies have their Intro-Seminar, so that we also show our presence during the same time but with a Workshop.
+The Workshop should be held around the time when Gymkhana societies have their Introductory Seminar, so that we also show our presence during the same time but with a workshop.
 GymK socities have their Intros during the mid of August, So it's best to conduct the Workshop before the end of August.
 
 ## Before the workshop
@@ -29,9 +29,6 @@ While SSH authentication is a secure and efficient way to interact with GitHub, 
 Alternative :
 - Use Personal Access Tokens.
 - Use Browser Login Method.
-
-
-
 
 ## Flow of the workshop
 
@@ -127,7 +124,7 @@ Alternative :
 
 ## After the workshop
 
-Upload the following in the `events` repo  
+Upload the following in the `events` repo:  
 
 - Recording of the workshop, if its recorded
 - Link to the slides
@@ -146,6 +143,24 @@ This git and github workshop will have a significant part, introducing them abou
 ## Miscellaneous
 - We can also consider to conduct a Advanced Git workshop, where concepts like `rebase`, `stash` and `bisect` are taught. The duration of this workshop can be shorter than duration of a regular workshop(3 hours). If such a thing is being planned, make sure to give some git excerises in the gap between git basic workshop and git advanced workshop, so that they are in touch with git concepts.
 - `switch` is the new preferred way to switch branches. This might be included in the upcoming workshops. Refer [this](https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore/).
+
+## Feedback Form
+Include a feedback form at the end of the slides and ask the audience to share their experience and suggestions.
+Some questions to include in the feedback form can be:  
+- Can you now explain Git-Github to someone totally new in this field?
+- Can you revert a commit with errors now?
+- I don't want the changes made by you recently, which are not yet committed. Can you quickly roll them back?
+- How well did you grasp the concept of Git branching?
+- Are you condifent enough to push that important file into the github repository? Or try pulling the doc?
+- How well did you understand the flow of making a Pull Request?
+- Were the workshop materials, such as slides and handouts, clear and helpful in your learning process?
+- Do you feel more confident in collaborating with others on GitHub after attending this workshop?
+- Were there any specific topics or concepts related to Git and GitHub that you expected to be covered in the workshop but were not?
+- Did you encounter any challenges or areas of confusion during the workshop? If so, please describe them.
+- Did you find the pace of the workshop appropriate, too fast, or too slow?
+- How likely are you to apply the knowledge and skills gained from this workshop in your future projects or work?
+- What more could we have done to improve your learning experience?
+- How relevant and useful did you find the workshop?
 
 ## Useful Resources
 - [Git-School](https://git-school.github.io/visualizing-git/): Visualizating git.This can be used while the workshop
