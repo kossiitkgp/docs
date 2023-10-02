@@ -126,7 +126,7 @@ Alternative :
 Upload the following in the `events` repo:
 - Recording of the workshop, if it's recorded
 - Link to the slides
-- Link to extra resources, from which they can revise or learn more advanced stuff. Something like [this](https://github.com/kossiitkgp/Git-and-Github-Workshop-2023/tree/main/resources)
+- Link to extra resources, from which they can revise or learn more advanced stuff. Something like [this](https://github.com/kossiitkgp/events/tree/main/2023/git-github-autumn/resources)
 
 Share the above via a Facebook post along with a thanks to the audience.
 
