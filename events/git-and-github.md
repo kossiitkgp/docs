@@ -139,7 +139,8 @@ Share the above via a Facebook post along with a thanks to the audience.
 Include 4-5 slides introducing KOSS, focusing on:
 - when we do selections.
 - why we do it at that time.
-- what we expect from them.  
+- what we expect from them.
+
 This introduction can be inserted in the middle of the workshop when the maximum audience is present.
 
 ## Miscellaneous
