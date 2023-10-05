@@ -41,25 +41,25 @@ Alternative :
 
 2. **Why do we need something like Git**
 
-   Before teaching anything, it is important that the audience understand why they are learning it. Start with an example, with which they can connect. Note that most of the audience might have not have collaborated on a software. You can give an example of a folder, containing so many files, which are regularly updated. Tell them that tools called "Version Control Systems" are used to track projects. Tell them the importance of maintaining History and backups. Then you can tell that how such tools are useful in Software development and conclude that Git is used to track Software projects.
+   Before teaching anything, it is important that the audience understand why they are learning it. Start with an example, with which they can connect. Note that most of the audience might not have collaborated on a software. You can give an example of a folder, containing so many files, which are regularly updated. Tell them that tools called "Version Control Systems" are used to track projects. Tell them the importance of maintaining History and backups. Then you can tell that how such tools are useful in Software development and conclude that Git is used to track Software projects.
 
 3. **Mental Model of Git**:
 
-   Directly jumping to the terminal would confuse the audience. It might be frustrating for audience to type commands that they don't understand. Hence, first explain how Git tracks your project. Tell that by Git stores snapshots of the project. And each snapshot is referred as commit. You can show a `git log` of a good project, to convey the idea of how snapshots are taken at every feature. 
+   Directly jumping to the terminal would confuse the audience. It might be frustrating for the audience to type commands that they don't understand. Hence, first explain how Git tracks your project. Tell that Git stores snapshots of the project and each snapshot is referred as a commit. You can show a `git log` of a good project, to convey the idea of how snapshots are taken at every feature. 
 
    Explain the idea of staging area very carefully and clearly. Tell them that before storing snapshots, it is important to add them to a staging area. Show them a picture depicting the workflow - 1. git add 2. git commit.
 
-   <u>Note</u>: Though it might be tempting to introduce the concepts of Decentralized VCS and Centralized VCS, Merkle Tree. Please refrain from jumping to complex concepts. We have only 3 hours. It is important that we convey them knowledge of practical usage. One can use Git comfortably without knowing Merkle Trees. But making audience comfortable with Git requires some time and effort. So, its worth investing time in making the basics strong. However, you can share the links/resources to such concepts at the end of the workshop for the curious audience.
+   <u>Note</u>: Though it might be tempting to introduce the concepts of Decentralized VCS and Centralized VCS, Merkle Tree. Please refrain from jumping to complex concepts. We have only 3 hours. It is important that we convey them knowledge of practical usage. One can use Git comfortably without knowing Merkle Trees. But making audience comfortable with Git requires some time and effort. So, it's worth investing time in making the basics strong. However, you can share the links/resources to such concepts at the end of the workshop for the curious audience.
 
 4. **A demo**
 
    A small demo of how a git repository is initialised. Creating files and adding them to staging area. Commit the changes. While you are typing the commands, do explain the audience what these commands do. For example, while typing `git add FILE` , tell them that now this will add `FILE` to the staging area. You can use `git status` after each command to show the status of changes - changes have been staged, changes have been committed. 
 
-   Though any demo works, it is a good idea to demonstrate something that's closer to daily life examples. For demo purpose, you can create a project as a "Facebook clone". You don't have to write any real code. You can simply create a text file and and something to demonstrate that some X feature has been added, and commit it. Audience will indirectly absorb the idea the commits are made after every feature is added or after every bug is fixed.
+   Though any demo works, it is a good idea to demonstrate something that's closer to daily life examples. For demo purpose, you can create a project as a "Facebook clone". You don't have to write any real code. You can simply create a text file and something to demonstrate that some X feature has been added, and commit it. The audience will indirectly absorb the idea the commits are made after every feature is added or after every bug is fixed.
 
 5. **Stop and Revise**
 
-   It is a good time to stop and revise the concepts. Staging area is a non-intuitive concept. Try using analogies to make the idea clear(For analogies [refer answer by Spoike](https://softwareengineering.stackexchange.com/questions/119782/what-does-stage-mean-in-git)). Ask the audience if they have any doubts. In an offline session TAs can individually clear people's queries. 
+   It is a good time to stop and revise the concepts. Staging area is a non-intuitive concept. Try using analogies to make the idea clear(For analogies [refer answer by Spoike](https://softwareengineering.stackexchange.com/questions/119782/what-does-stage-mean-in-git)). Ask the audience if they have any doubts. In an offline session, TAs can individually clear people's queries. 
 
 6. **Reverting using Git**
 
@@ -79,21 +79,21 @@ Alternative :
 
 8. **Branching demo**
 
-   You can use the "Facebook clone" project for the demo. Make a branch for a new feature. Make some commits in the new branch and show the commits. Jump to `master` branch and show that the newly made commits are absent(To convey the idea that different branches have different commits). Merge the newly created branch and show how commits have appeared. 
+   You can use the "Facebook clone" project for the demo. Make a branch for a new feature. Make some commits in the new branch and show the commits. Jump to the `master` branch and show that the newly made commits are absent(To convey the idea that different branches have different commits). Merge the newly created branch and show how commits have appeared. 
 
    Make sure to speak while you are typing the commands, explaining what the commands do. For example, tell them that you are creating a new branch while typing `git branch BRANCH` and tell them that you are hoping on to the newly created branch while typing `git checkout BRANCH`
 
-   Again it is a good point to stop and summarise branching. Pause for a short period of time. Let audience ask their queries. 
+   Again it is a good point to stop and summarise branching. Pause for a short period of time. Let the audience ask their queries. 
 
 9. **Introduce Github**
 
-   Now once the audience is comfortable with the basics of Git. It is the right time to introduce Github. Tell them, how Github is important for software development. Give an analogy of people writing a shared google doc, and explain collaborative software development better.
+   Now once the audience is comfortable with the basics of Git. It is the right time to introduce Github. Tell them, how Github is important for software development. Give an analogy of people writing a shared Google doc, and explain collaborative software development better.
 
 10. **Push and Pull**
 
-    This is best explained via demo. First, show them how to create SSH keys and how to add the generated keys to Github. Show them how to make a new repository    on Github. 
+    This is best explained via demo. First, show them how to create SSH keys and how to add the generated keys to Github. Show them how to make a new repository on GitHub. 
 
-    Show them how to push the local project to the Github repo using `git push git@github.com:USERNAME/REPONAME.git master` . Make a README on repo on Github. Show them how the changes on the Github repo can be obtained locally via `git pull git@github.com:USERNAME/REPONAME.git master`.
+    Show them how to push the local project to the Github repo using `git push git@github.com:USERNAME/REPONAME.git master`. Make a README on repo on GitHub. Show them how the changes on the Github repo can be obtained locally via `git pull git@github.com:USERNAME/REPONAME.git master`.
 
     Tell them typing the URL is a pain every time, and use this as an opportunity to introduce the concept of remote variables. Add a remote by name `origin`  using `git remote add origin` and show how `git push origin master` does the same job.
 
@@ -122,7 +122,7 @@ Alternative :
 
 ## After the workshop
 
-Upload the following in the `events` repo:
+Upload the following in the [events](https://github.com/kossiitkgp/events) repo:
 - Recording of the workshop, if it's recorded
 - Link to the slides
 - Link to extra resources, from which they can revise or learn more advanced stuff. Something like [this](https://github.com/kossiitkgp/events/tree/main/2023/git-github-autumn/resources)
@@ -144,23 +144,23 @@ Include 4-5 slides introducing KOSS, focusing on:
 This introduction can be inserted in the middle of the workshop when the maximum audience is present.
 
 ## Miscellaneous
-- We can also consider conducting an Advanced Git workshop, where concepts like `rebase`, `stash` and `bisect` are taught. The duration of this workshop can be shorter than the duration of a regular workshop(3 hours). If such a thing is being planned, make sure to give some git exercises in the gap between git basic workshop and git advanced workshop, so that they are in touch with git concepts.
+- We can also consider conducting an Advanced Git workshop, where concepts like `rebase`, `stash`, and `bisect` are taught. The duration of this workshop can be shorter than the duration of a regular workshop(3 hours). If such a thing is being planned, make sure to give some git exercises in the gap between git basic workshop and git advanced workshop, so that they are in touch with git concepts.
 - `switch` is the new preferred way to switch branches. This might be included in the upcoming workshops. Refer [this](https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore/).
 
 ## Feedback Form
 Include an _anonymous_ form at the end of the slides and ask the audience to share their experience and suggestions.
 Some questions to include in the feedback form can be (Including all the questions below is not necessary):  
-- Can you now explain Git-Github to someone totally new in this field?  (1-5)
-- Can you revert a commit with errors now? (1-5)
-- I don't want the changes made by you recently, which are not yet committed. Can you quickly roll them back? (1-5)
+- How well can you now explain Git-Github to someone totally new in this field?  (1-5)
+- Can you revert a commit with errors now? (Yes / No)
+- I don't want the changes made by you recently, which are not yet committed. Can you quickly roll them back? (Yes / No)
 - How well did you grasp the concept of Git branching? (1-5)
-- Are you confident enough to push that important file into the GitHub repository? Or try pulling the doc? (1-5)
+- Are you confident enough to push that important file into the GitHub repository? Or try pulling the doc? (Yes / No)
 - How well did you understand the flow of making a Pull Request? (1-5)
-- Were the workshop materials, such as slides and handouts, clear and helpful in your learning process? (1-5)
-- Do you feel more confident in collaborating with others on GitHub after attending this workshop? (1-5) 
+- How helpful were the workshop materials, such as slides and handouts, in your learning process? (1-5)
+- Do you feel more confident in collaborating with others on GitHub after attending this workshop? (Yes / No) 
 - Were there any specific topics or concepts related to Git and GitHub that you expected to be covered in the workshop but were not? (descriptive)
 - Did you encounter any challenges or areas of confusion during the workshop? If so, please describe them. (descriptive)
-- Did you find the pace of the workshop appropriate, too fast, or too slow? (descriptive)
+- How did you find the pace of the workshop? (too slow, perfect, too fast)
 - How likely are you to apply the knowledge and skills gained from this workshop in your future projects or work? (1-5)
 - What more could we have done to improve your learning experience? (descriptive)
 - How relevant and useful did you find the workshop? (1-5)
