@@ -28,6 +28,13 @@ See also: The [design](https://github.com/kossiitkgp/design/) repository. Please
 - The following table contains a rough number of posters to be printed per location:
 
 #### Poster Locations
+
+> **Note** Following is the minimum count. It is recommended to have 4-5 extra posters more than the total count below.
+> This may solve one of the two things:
+> - If some new location is discovered, can be pasted there and reflected here as well.
+> - If some poster gets damaged they can be used as replacements.
+> > It is fine to have 4-5 extra posters but not fine to miss these minimum requirements.
+
 ##### Total
 |Category|Number of Posters|
 |-|-|
