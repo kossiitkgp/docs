@@ -11,10 +11,10 @@ The workshop should cover and explain the following
 
 ## Timeline  
 The Workshop should be held around the time when Gymkhana societies have their introductory seminar so that we also show our presence during the same time but with a workshop.
-Gymkhana societies have their introductory seminars in mid-August, so it's best to conduct the Workshop before the end of August.
+Gymkhana societies have their introductory seminars in mid-August, so it's best to conduct the Workshop by the end of August.
 ## Before the workshop
 
-Share an instructions file like [this installation guide](https://github.com/kossiitkgp/events/blob/main/2023/git-github-autumn/installation.md), along with the poster of the workshop. The instructions should contain
+Share an instructions file like [this installation guide](https://github.com/kossiitkgp/events/blob/main/2023/Autumn/Git-github/installation.md), along with the poster of the workshop. The instructions should contain
 
 - How to install Git for Windows, Linux, and Mac separately
 - For Windows users, make that they install `git bash` and configure it
@@ -113,10 +113,10 @@ Alternative :
     - Tell them to contribute to beginner-friendly issues at metakgp or KOSS repositories on GitHub. Share the Github Links of both the Github Organizations. Pointing them to some beginner-friendly issues would be great.
     - Tell them about the Github Student pack and its benefits like Domains, Free Servers, and so on.
     - Tell them about Github Pages, and tell them how easily a beautiful blog can be set up within minutes.
-    - Inform them about Hacktoberfest.
+    - Inform them about Hacktoberfest, GsoC & KWoC.
     - Tell them about starring a repo and the usefulness of starred repos.
     - Tell them about the "watch" feature of a repo, and show them how it can be used to track a project.
-    - Ask them to `star` and `watch` the `events` repo, as important links like slides, and resources will be put here
+    - Ask them to `star` and `watch` the [events](https://github.com/kossiitkgp/events) repo, as important links like slides, and resources will be put here
 
     If any swags are available distribute them to the audience.
 
@@ -125,7 +125,7 @@ Alternative :
 Upload the following in the [events](https://github.com/kossiitkgp/events) repo:
 - Recording of the workshop, if it's recorded
 - Link to the slides
-- Link to extra resources, from which they can revise or learn more advanced stuff. Something like [this](https://github.com/kossiitkgp/events/tree/main/2023/git-github-autumn/resources)
+- Link to extra resources, from which they can revise or learn more advanced stuff. Something like [this](https://github.com/kossiitkgp/events/tree/main/2023/Autumn/Git-github/resources)
 
 Share the above via a Facebook post along with a thanks to the audience.
 
@@ -140,6 +140,7 @@ Include 4-5 slides introducing KOSS, focusing on:
 - when we do selections.
 - why we do it at that time.
 - what we expect from them.
+- what they need to do/learn to get selected.
 
 This introduction can be inserted in the middle of the workshop when the maximum audience is present.
 
