@@ -22,6 +22,7 @@ toc=true
 
 1. Make all Executives the Admins of Slack workspace.
 1. Add all Executive Members and Heads to the `Admins` team on GitHub org. Remove them from the `Newbies` team.
+1. Replace all members of the `Executives` team on the Github org with the new executives.
 1. Ask an Owner of kossiitkgp GitHub org to change role of Executive Heads as `Owners`.
 1. Make Executive Heads the Managers of the Google Group.
 1. [Transfer access](./socials.md#transferring-access) of Social media accounts.
