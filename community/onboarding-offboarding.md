@@ -21,6 +21,7 @@ toc=true
 ## How to re-designate Core Team Members as Executives?
 
 1. Make all Executives the Admins of Slack workspace.
+1. Make all new executives enable two-factor authentication on their Github accounts before proceeding with the further steps. The following steps give access to crucial organization repositories and settings.
 1. Add all Executive Members and Heads to the `Admins` team on GitHub org. Remove them from the `Newbies` team.
 1. Replace all members of the `Executives` team on the Github org with the new executives.
 1. Ask an Owner of kossiitkgp GitHub org to change role of Executive Heads as `Owners`.
