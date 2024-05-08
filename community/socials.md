@@ -6,6 +6,7 @@ Guidelines regarding handling, releasing posts, and transferring access to the o
 - [Instagram](https://www.instagram.com/kossiitkgp/)
 - [Twitter](https://twitter.com/kossiitkgp)
 - [LinkedIn](https://www.linkedin.com/company/kharagpur-open-source-society)
+- [Whatsapp Channel](https://whatsapp.com/channel/0029VaR3Adf8vd1TKOUtCo3W)
 
 ### Post Release Guidelines
 - Try to include a poster in every post. **NOTE: Instagram posts cannot be shared without an image.**
@@ -17,6 +18,10 @@ Guidelines regarding handling, releasing posts, and transferring access to the o
     - The post content must be shortened to include only the most essential information.
     - Try to include the most relevant information in the main tweet.
     - A poster, if present, must only be added to the main tweet of the thread.
+- Whatsapp guidelines:
+    - The image has to have a 1:1 ratio to be properly displayed in messages without clicking.
+    - [This](https://pinetools.com/blurred-frame-images-generator) tool may be used to add blurred borders to the image to make it 1:1.
+    - The Whatsapp channel may be used for sharing posts regarding KOSS events as well as important open-source community news (eg: GSoC announcements) or interesting articles to keep the community engaged. Do not share too many posts as it leads to spam.
 
 ### Resharing/Reposting Guidelines
 - Posts from organizations such as MetaKGP that align with the views of KOSS or relevant posts from other KOSS members can be reshared/reposted from KOSS social media accounts.
@@ -57,6 +62,8 @@ Guidelines regarding handling, releasing posts, and transferring access to the o
 - Instagram and Twitter accounts must be logged into to make a post.
 - The credentials to these accounts will already have been shared with the new executives.
 
+#### Whatsapp Channel
+
 ### Revoking Access (For Offboarding)
 #### Facebook and LinkedIn
 - An existing executive or advisor with access to the page revokes access from the pages.
@@ -65,3 +72,5 @@ Guidelines regarding handling, releasing posts, and transferring access to the o
 #### Instagram and Twitter
 - If the said member had access to these socials, update their passwords.
 - Notify the password change on Slack.
+
+#### Whatsapp Channel

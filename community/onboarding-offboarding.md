@@ -7,17 +7,18 @@ toc=true
 ## How to onboard someone in KOSS?
 1. Add them to the “Newbies” GitHub team.
 1. Add them to the kossiitkgp@ Google Group. Check the delivery settings. Anyone can ask to join using this link https://groups.google.com/g/kossiitkgp
-1. Add them to the Slack.
+1. Add them to the Slack. Ask each one to install the Slack desktop and mobile apps and enable notifications to not miss out any important updates.
 1. Add them to their batch’s private channel.
 1. Add their contact details on https://github.com/kossiitkgp/secrets.
 1. Assign their 1:1 group.
 1. Add their name to the website.
 1. Give access to KOSS’s facebook page.
 1. Make them store numbers of everyone in team using the automatically generated VCFs in the secrets repository.
-1. Ask them to create their batch's private Whatsapp group and add it to the "Kossverse" community. Encourage them to use Slack as the main medium of communication and keep Whatsapp for emergencies only.
+1. Ask them to create their batch's private Whatsapp group and add it to the "Kossverse" community. 
 1. Create a Whatsapp group with the Executives + CTMs and name it `KOSS XX` where `XX` is the sum of the last two digits of the batch years of the executives and CTMs. Eg: Batch of '21 and batch of '22 will have a whatsapp group named `KOSS 43`. (Credits to [@rakaar](https://github.com/rakaar) for the naming scheme).
 1. Create a Whatsapp group with all the advisors (B.Tech and Dual), Executives, and CTMs, and name it `KOSS XX` where `XX` is the sum of the last two digits of their batch years.
 1. Add both of the above groups to the `Kossverse` Whatsapp community.
+1. The purpose of the Whatsapp groups is promotions, bakaar, and motiviation to use Slack. This should be made clear to the new members and they should be encouraged to use Slack as the main medium of communication.
 
 ## How to re-designate Core Team Members as Executives?
 1. Make all Executives the Admins of Slack workspace and add them to the `#emails` channel. 
