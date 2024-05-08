@@ -17,7 +17,7 @@ toc=true
 1. Make them store numbers of everyone in team using the automatically generated VCFs in the secrets repository.
 1. Ask them to create their batch's private Whatsapp group and add it to the "Kossverse" community. 
 1. Create a Whatsapp group with the Executives + CTMs and name it `KOSS XX` where `XX` is the sum of the last two digits of the batch years of the executives and CTMs. Eg: Batch of '21 and batch of '22 will have a whatsapp group named `KOSS 43`. (Credits to [@rakaar](https://github.com/rakaar) for the naming scheme).
-1. Create a Whatsapp group with all the advisors (B.Tech and Dual), Executives, and CTMs, and name it `KOSS XX` where `XX` is the sum of the last two digits of their batch years.
+1. Create a Whatsapp group with all the on-campus advisors (Last two batches, B.Tech and Dual), Executives, and CTMs, and name it `KOSS XX` where `XX` is the sum of the last two digits of their batch years.
 1. Add both of the above groups to the `Kossverse` Whatsapp community.
 1. The purpose of the Whatsapp groups is promotions, bakaar, and motivation to use Slack. It will be an unofficial platform for communcation. This should be made clear to the new members and they should be encouraged to use Slack as the main medium of communication.
 
