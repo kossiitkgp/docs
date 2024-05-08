@@ -35,6 +35,7 @@ toc=true
 
 1. Make all Advisors the Owners of Slack workspace.
 1. Make all Advisors the Owners of the Google Group.
+1. Add all new Advisors to the `Advisors` team on GitHub and move graduated advisors to the `Alumni` team. 
 1. Update Contacts README on `kossiitkgp/secrets`.
 1. Update the “Members” section on the website.
 
