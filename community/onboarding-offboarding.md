@@ -26,7 +26,7 @@ toc=true
 1. Add all Executives to the `Admins` team on GitHub org. Remove them from the `Newbies` team.
 1. Replace all members of the `Executives` team on the Github org with the new executives.
 1. Ask an Owner of kossiitkgp GitHub org to change role of Executives as `Owners`.
-1. Make Executive Heads the Managers of the Google Group.
+1. Make Executives the Managers of the Google Group.
 1. [Transfer access](./socials.md#transferring-access) of Social media accounts.
 1. Release the names from blog/facebook page.
 1. Update the “Members” section on the website.
