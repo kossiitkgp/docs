@@ -13,7 +13,6 @@ toc=true
 1. Add their contact details on https://github.com/kossiitkgp/secrets.
 1. Assign their 1:1 group.
 1. Add their name to the website.
-1. Add them to facebook groups (unofficial)
 1. Give access to KOSS’s facebook page.
 1. Make them store numbers of everyone in team using the automatically generated VCFs in the secrets repository. 
 
@@ -45,7 +44,6 @@ toc=true
 1. Update the Contacts on https://github.com/kossiitkgp/secrets .
 1. Update the “Members” section on the website - https://kossiitkgp.org .
 1. Remove access to KOSS’ facebook page.
-1. Remove them from facebook groups (if any).
 1. Remove their access to KOSS gsuite account and other Social Media Handles.
 
 ## Why do we lay off some members? What are the reasons?
