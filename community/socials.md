@@ -56,3 +56,12 @@ Guidelines regarding handling, releasing posts, and transferring access to the o
 #### Instagram and Twitter
 - Instagram and Twitter accounts must be logged into to make a post.
 - The credentials to these accounts will already have been shared with the new executives.
+
+### Revoking Access (For Offboarding)
+#### Facebook and LinkedIn
+- An existing executive or advisor with access to the page revokes access from the pages.
+- See the [Transferring Access](#transferring-access) section for links to help articles for the same.
+
+#### Instagram and Twitter
+- If the said member had access to these socials, update their passwords.
+- Notify the password change on Slack.

@@ -41,10 +41,13 @@ toc=true
 1. Remove them from the GitHub organization.
 1. Disable their account on Slack (Contact an owner if they are admin).
 1. Remove them from the Google group (Contact owners of group).
-1. Update the Contacts on https://github.com/kossiitkgp/secrets .
-1. Update the “Members” section on the website - https://kossiitkgp.org .
+1. Update the Contacts on https://github.com/kossiitkgp/secrets.
+1. Update the “Members” section on the website - https://kossiitkgp.org.
 1. Remove access to KOSS’ facebook page.
-1. Remove their access to KOSS gsuite account and other Social Media Handles.
+1. Remove their access to KOSS gsuite account if they have access.
+1. Update any passwords they had access to. Notify the password change on Slack.
+1. [Revoke acess](./socials.md#revoking-access-for-offboarding) from social media accounts.
+
 
 ## Why do we lay off some members? What are the reasons?
 
