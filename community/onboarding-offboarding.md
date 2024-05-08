@@ -15,7 +15,7 @@ toc=true
 1. Add their name to the website.
 1. Add them to facebook groups (unofficial)
 1. Give access to KOSS’s facebook page.
-1. Make them store numbers of everyone in team.
+1. Make them store numbers of everyone in team using the automatically generated VCFs in the secrets repository. 
 
 ## How to re-designate Core Team Members as Executives?
 
@@ -26,7 +26,6 @@ toc=true
 1. Ask an Owner of kossiitkgp GitHub org to change role of Executives as `Owners`.
 1. Make Executive Heads the Managers of the Google Group.
 1. [Transfer access](./socials.md#transferring-access) of Social media accounts.
-1. Update Contacts README on `kossiitkgp/secrets`.
 1. Release the names from blog/facebook page.
 1. Update the “Members” section on the website.
 
