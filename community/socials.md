@@ -63,6 +63,7 @@ Guidelines regarding handling, releasing posts, and transferring access to the o
 - The credentials to these accounts will already have been shared with the new executives.
 
 #### Whatsapp Channel
+- This is not clear as of now as it is an experimental Whatsapp feature.
 
 ### Revoking Access (For Offboarding)
 #### Facebook and LinkedIn
@@ -74,3 +75,4 @@ Guidelines regarding handling, releasing posts, and transferring access to the o
 - Notify the password change on Slack.
 
 #### Whatsapp Channel
+- This is not clear as of now as it is an experimental Whatsapp feature.
