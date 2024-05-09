@@ -8,7 +8,8 @@ toc=true
 1. Add them to the “Newbies” GitHub team.
 1. Add them to the kossiitkgp@ Google Group. Check the delivery settings. Anyone can ask to join using this link https://groups.google.com/g/kossiitkgp
 1. Add them to the Slack. Make them install the Slack desktop and mobile apps and enable notifications to not miss out any important updates.
-1. Add them to their batch’s private channel.
+1. Create a private Slack channel named `koss-xx` (where `xx` are the last two digits of the batch year) and all new members to it. Leave the channel once all new members join.
+1. Create a private Slack channel named `a-b-c-d` where each of the letters represents the full name of one member of each of the four batches on campus. Add all on-campus KOSS members(CTMs + Executives + Advisors) to this channel. This will be used as the main medium of communication for shop talk.
 1. Add their contact details on https://github.com/kossiitkgp/secrets.
 1. Update the [Bhattu bot](https://github.com/kossiitkgp/bhattu) with the new batch's Slack accounts.
 1. Assign their 1:1 group.
