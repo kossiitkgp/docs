@@ -5,50 +5,52 @@ toc=true
 # Onboarding/Offboarding
 
 ## How to onboard someone in KOSS?
-
 1. Add them to the “Newbies” GitHub team.
 1. Add them to the kossiitkgp@ Google Group. Check the delivery settings. Anyone can ask to join using this link https://groups.google.com/g/kossiitkgp
-1. Add them to the Slack.
+1. Add them to the Slack. Make them install the Slack desktop and mobile apps and enable notifications to not miss out any important updates.
 1. Add them to their batch’s private channel.
-1. Add their contact details on https://github.com/kossiitkgp/secrets .
+1. Add their contact details on https://github.com/kossiitkgp/secrets.
+1. Update the [Bhattu bot](https://github.com/kossiitkgp/bhattu) with the new batch's Slack accounts.
 1. Assign their 1:1 group.
 1. Add their name to the website.
-1. Add them to facebook groups (unofficial)
 1. Give access to KOSS’s facebook page.
-1. Make them store numbers of everyone in team.
-1. Add them to [KOSS Workshops](https://teams.microsoft.com/l/team/19%3aa012c782fe2d428ab5bf644ef564efe5%40thread.tacv2/conversations?groupId=5fa16cd8-ce71-4c62-b41c-22816c93f841&tenantId=71dbb522-5704-4537-9f25-6ad2dcd4278d) Microsoft Team and make them Owner (Applicable for online workshop conduction)
+1. Make them store numbers of everyone in team using the automatically generated VCFs in the secrets repository.
+1. Ask them to create their batch's private Whatsapp group and add it to the "Kossverse" community. 
+1. Create a Whatsapp group with the Executives + CTMs and name it `KOSS XX` where `XX` is the sum of the last two digits of the batch years of the executives and CTMs. Eg: Batch of '21 and batch of '22 will have a whatsapp group named `KOSS 43`. (Credits to [@rakaar](https://github.com/rakaar) for the naming scheme).
+1. Create a Whatsapp group with all the on-campus advisors (Last two batches, B.Tech and Dual), Executives, and CTMs, and name it `KOSS XX` where `XX` is the sum of the last two digits of their batch years.
+1. Add both of the above groups to the `Kossverse` Whatsapp community.
+1. The purpose of the Whatsapp groups is promotions, bakaar, and motivation to use Slack. It will be an unofficial platform for communcation. This should be made clear to the new members and they should be encouraged to use Slack as the main medium of communication.
 
 ## How to re-designate Core Team Members as Executives?
-
-1. Make all Executives the Admins of Slack workspace.
+1. Make all Executives the Admins of Slack workspace and add them to the `#emails` channel. 
 1. Make all new executives enable two-factor authentication on their Github accounts before proceeding with the further steps. The following steps give access to crucial organization repositories and settings.
-1. Add all Executive Members and Heads to the `Admins` team on GitHub org. Remove them from the `Newbies` team.
+1. Add all Executives to the `Admins` team on GitHub org. Remove them from the `Newbies` team.
 1. Replace all members of the `Executives` team on the Github org with the new executives.
-1. Ask an Owner of kossiitkgp GitHub org to change role of Executive Heads as `Owners`.
-1. Make Executive Heads the Managers of the Google Group.
+1. Ask an Owner of kossiitkgp GitHub org to change role of Executives as `Owners`.
+1. Make Executives the Managers of the Google Group.
 1. [Transfer access](./socials.md#transferring-access) of Social media accounts.
-1. Update Contacts README on `kossiitkgp/secrets`.
 1. Release the names from blog/facebook page.
 1. Update the “Members” section on the website.
+1. Make a few randomly chosen executives admins of the "Kossverse" Whatsapp community while removing the graduating admins. There is a limit of 20 admins.
 
-## How to re-designate Executive Members as Advisors?
-
+## How to re-designate Executives as Advisors?
 1. Make all Advisors the Owners of Slack workspace.
 1. Make all Advisors the Owners of the Google Group.
+1. Add all new Advisors to the `Advisors` team on GitHub and move graduated advisors to the `Alumni` team. 
 1. Update Contacts README on `kossiitkgp/secrets`.
 1. Update the “Members” section on the website.
 
 ## How to offboard someone from KOSS?
-
 1. Remove them from the GitHub organization.
 1. Disable their account on Slack (Contact an owner if they are admin).
 1. Remove them from the Google group (Contact owners of group).
-1. Update the Contacts on https://github.com/kossiitkgp/secrets .
-1. Update the “Members” section on the website - https://kossiitkgp.org .
+1. Update the Contacts on https://github.com/kossiitkgp/secrets.
+1. Update the “Members” section on the website - https://kossiitkgp.org.
 1. Remove access to KOSS’ facebook page.
-1. Remove them from facebook groups (if any).
-1. Remove them from owner position in KOSS Workshops Microsoft Team.
-1. Remove their access to KOSS gsuite account and other Social Media Handles.
+1. Remove their access to KOSS gsuite account if they have access.
+1. Change any passwords they had access to and update the [passwords](https://github.com/kossiitkgp/passwords) repository. Notify the password change on Slack.
+1. [Revoke acess](./socials.md#revoking-access-for-offboarding) from social media accounts.
+1. Remove them from the "Kossverse" Whatsapp community and any official KOSS Whatsapp groups.
 
 ## Why do we lay off some members? What are the reasons?
 
