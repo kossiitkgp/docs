@@ -71,7 +71,7 @@ Guidelines regarding handling, releasing posts, and transferring access to the o
 - See the [Transferring Access](#transferring-access) section for links to help articles for the same.
 
 #### Instagram and Twitter
-- If the said member had access to these socials, update their passwords.
+- If the said member had access to these socials, change their passwords and update the [passwords](https://github.com/kossiitkgp/passwords) repository.
 - Notify the password change on Slack.
 
 #### Whatsapp Channel

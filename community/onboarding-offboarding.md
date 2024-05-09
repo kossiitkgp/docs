@@ -48,7 +48,7 @@ toc=true
 1. Update the “Members” section on the website - https://kossiitkgp.org.
 1. Remove access to KOSS’ facebook page.
 1. Remove their access to KOSS gsuite account if they have access.
-1. Update any passwords they had access to. Notify the password change on Slack.
+1. Change any passwords they had access to and update the [passwords](https://github.com/kossiitkgp/passwords) repository. Notify the password change on Slack.
 1. [Revoke acess](./socials.md#revoking-access-for-offboarding) from social media accounts.
 1. Remove them from the "Kossverse" Whatsapp community and any official KOSS Whatsapp groups.
 
