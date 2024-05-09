@@ -7,7 +7,7 @@ toc=true
 ## How to onboard someone in KOSS?
 1. Add them to the “Newbies” GitHub team.
 1. Add them to the kossiitkgp@ Google Group. Check the delivery settings. Anyone can ask to join using this link https://groups.google.com/g/kossiitkgp
-1. Add them to the Slack. Ask each one to install the Slack desktop and mobile apps and enable notifications to not miss out any important updates.
+1. Add them to the Slack. Make them install the Slack desktop and mobile apps and enable notifications to not miss out any important updates.
 1. Add them to their batch’s private channel.
 1. Add their contact details on https://github.com/kossiitkgp/secrets.
 1. Update the [Bhattu bot](https://github.com/kossiitkgp/bhattu) with the new batch's Slack accounts.
