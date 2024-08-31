@@ -19,7 +19,7 @@ Steps for room and AV (Audio Visual) cell booking for conducting workshops and o
 - In order to conduct a workshop during this period, explicit written permission is required from the CDC to use a room in the above-mentioned venues. Payment for the room booking is not required.
 - This permission can only be obtained with the approval of a professor.
 - If a professor agrees to approve the booking, they will have to send an email to CDC (`tnp-off@hijli.iitkgp.ac.in`) with us (`admin@kossiitkgp.org`) and `tnp-placecom@hijli.iitkgp.ac.in` in cc, asking for permission to conduct the event on our behalf. [This](#email-template-for-asking-permission) template can be used to send the draft email to the professor.
-- The permission will be emailed back and should be kept and shown to the guard on the day of the event.
+- The CDC's approval will be emailed back. To get the permission, follow the same steps as mentioned [above](#steps-for-room-booking) for room booking. Along with the form, attach the screenshot of the email from CDC.
 - The [AV Cell booking](#steps-for-booking-av-audio-visual-cell) booking should be done separately through the normal procedure. Payment is required for AV cell. The permission email might be asked for during the AV cell booking process.
 
 #### Email Template for Asking Permission
