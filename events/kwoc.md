@@ -17,7 +17,9 @@
     - FAQs.
   - Student and Mentor Docs of KWoC. Make sure that the content of the doc is updated with the current rules of KWoC(especially rules like Mid Evals and End Evals criteria). If there are any new important changes, do mention them in the docs. 
 
-- A dedicated slack workspace for KWoC. If the old one has reached the maximum free limit, create a new Slack workspace.
+- Update the Discord server and make timely announcements there.
+
+- Have a separate channel/thread to discuss projects and queries in the discord server
 
 - Printing and circulation of posters to every hall's, main building's and nalanda's notice boards.
 
@@ -35,7 +37,7 @@
   - Briefly about KWoC
   - Mentor and Student Docs' Links
   - Instructions to register
-  - A KWoC workspace invite link. (Already existing one or New Slack workspace can be created)
+  - KWoC Discord Server invite link.
 -  Mail previous year's students and mentors that kwoc is back - along with working registration links.
 -  Make sure to take database backups periodically.
 -  When projects are being registered, they should not be immediately shown on the Projects Page. The projects should be shown only when they are accepted. During the registration period, the projects should be accepted frequently(atleast on a daily basis). The guidelines to accept projects are discussed [here](https://github.com/kossiitkgp/mistakes/blob/master/kwoc20.md) (2nd point in `Logistical` section). If we are rejecting a project, mail the mentor why we are doing so.  
@@ -46,13 +48,11 @@ It is suggested a group of dedicated people from KOSS handle complaints and quer
 
 - Facebook, Instagram, Twitter, and Linkedin of KOSS account.
 
-- KWoC Slack workspace
+- Discord Server of KWoC.
 
 - Mails received at admin@kossiitkgp.org
 
 - A Github Repo for Technical complaints. For example refer [this](https://github.com/kossiitkgp/kwoc-bugs)
-
-- Discord Server of KWoC.
 
   Make sure to keep the FAQ page exhaustive and detailed. Update the FAQ page from regularly if new frequent queries come up. Along with answering the queries, it is a good idea to share the FAQ Page of KWoC, so that future queries can be addressed without need of contact. 
 
