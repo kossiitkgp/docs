@@ -3,14 +3,10 @@ Steps for room and AV (Audio Visual) cell booking for conducting workshops and o
 
 ## Steps for Room Booking
 >**NOTE**: that room booking must be done **7 days** prior to the day of the event and the booking procedure takes at least **4-5 days**.
-- Go to the Junior Executive, Academic Section (UG) (Mr. Shouvik Adhikari as of now) and get the form for room booking. [Here](../assets/room-booking-form.pdf) is a scan of the form.
-- This form is only for room booking and not for AV support.
-- Fill in the details necessary for booking a room. Date, time, and duration.
-- Get the signature of a Professor and the HOD of the respective department as the booking is made in the professor's name (Approach professors at the earliest). CSE professors are easily approachable for this, so can reach them out.
-- Submit this form back to the Jr. Executive, and they will reach back in a day or two for the payment.
-- The Jr. Executive would give a draft to be paid at the cash counter (Establishment Section, 2nd Floor, Above Raman Auditorium, Main Building) and take the payment receipt.
-- Upon submitting the receipt to the Jr. Executive, the process from our end is done.
-- The Jr. Executive would email a memo with the permission to use the room to the professor approving the booking (and may add the person booking it in cc).
+- Room has to be booked from a professor's ERP (Academic -> Facility Booking -> Central Classroom Booking), using his employee ID. No physical forms are required. [Guide](./../assets/Online%20Room%20booking.pdf)
+- Request the professor to book the room, giving them the necessary details: venue, dates and time.
+- Room availability can only be checked at the same portal, so it's preferable if someone from KOSS asks to meet the professor offline for the procedure.
+- When the room is allocated, the professor will be mailed (maybe) and there will be a memo available next to the request at the portal (sure).
 - This memo must be printed and shown to the guard with the keys. In the worst case, the email and pdf memo can be shown.
 - Support for mic and projector is booked separately at the [AV Cell](#steps-for-booking-av-audio-visual-cell).
 
