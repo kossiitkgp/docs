@@ -3,7 +3,7 @@ Steps for room and AV (Audio Visual) cell booking for conducting workshops and o
 
 ## Steps for Room Booking
 >**NOTE**: that room booking must be done **7 days** prior to the day of the event and the booking procedure takes at least **4-5 days**.
-- Room has to be booked from a professor's ERP (Academic -> Facility Booking -> Central Classroom Booking), using his employee ID. No physical forms are required.
+- Room has to be booked from a professor's ERP (Academic -> Facility Booking -> Central Classroom Booking), using his employee ID. No physical forms are required. [Guide](./../assets/Online%20Room%20booking.pdf)
 - Request the professor to book the room, giving them the necessary details: venue, dates and time.
 - Room availability can only be checked at the same portal, so it's preferable if someone from KOSS asks to meet the professor offline for the procedure.
 - When the room is allocated, the professor will be mailed (maybe) and there will be a memo available next to the request at the portal (sure).
