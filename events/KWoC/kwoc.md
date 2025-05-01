@@ -102,7 +102,7 @@ It is suggested a group of dedicated people from KOSS handle complaints and quer
 - It is good to inform the participants by what date, they might expect the results of KWoC after they have submitted their End evals Blog. 
 
 # Feedback
-Share an **anonymus** feedback form with following
+Share an **anonymous** feedback form with following
 1. Some objective questions, where they can rate about different aspects of KWoC-website, doubts clarification,coding experience.
 2. Subjective questions - What did they like about KWoC, What did they didn't like about KWoC, Anything they would like to tell us.
 
@@ -112,10 +112,20 @@ Share an **anonymus** feedback form with following
   - Verification link: A link of certificate hosted on a Public repository of KOSS - [kossiitkgp/public-files](https://github.com/kossiitkgp/public-files)
   - Stats link: A link containing the Student's or the Project's stats respectively for a student or a Mentor.
 
-- Move the website from `kwoc.kossiitkgp.org` to `kwoc{Y}.kossiitkgp.org` (e.g. `kwoc19.kossiitkgp.org` for KWoC19). Thereafter, the stats are hosted on the latter while the former is reused next year.
-
 - The certificates must be hosted on the public files repo - [kossiitkgp/public-files](https://github.com/kossiitkgp/public-files)
 - The certificates in PDF formats should be sent via mail to the participants.
+
+### KWoC Website Archival Guidelines
+
+- Move the website from `kwoc.kossiitkgp.org` to `kwoc{Y}.kossiitkgp.org` (e.g. `kwoc19.kossiitkgp.org` for KWoC19). Thereafter, the stats are hosted on the latter while the former is reused next year.
+
+- archived websites are branches in the frontend repo
+- these branches are deployed on [netlify](https://www.netlify.com/) because [vercel](https://vercel.com/) has a limitation on the number of branches.
+- `kwocxx.kossiitkgp.org` will be the domain of each archive
+- [`kwoc.kossiitkgp.org`](https://kwoc.kossiitkgp.org) will point to the previous KWoC's archive after it ends and before the next KWoC's website is deployed.
+
+> [!NOTE]
+> Each year a new website may be made or the previous one may be reused with suitable changes. Feel free to reuse whatever is required. 
 
 ## Miscellaneous
 
