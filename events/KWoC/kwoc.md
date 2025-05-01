@@ -46,15 +46,16 @@ It is suggested a group of dedicated people from KOSS handle complaints and quer
 
 - Facebook, Instagram, Twitter, and Linkedin of KOSS account.
 
-- KWoC Slack workspace
-
 - Mails received at admin@kossiitkgp.org
-
-- A Github Repo for Technical complaints. For example refer [this](https://github.com/kossiitkgp/kwoc-bugs)
 
 - Discord Server of KWoC.
 
-  Make sure to keep the FAQ page exhaustive and detailed. Update the FAQ page from regularly if new frequent queries come up. Along with answering the queries, it is a good idea to share the FAQ Page of KWoC, so that future queries can be addressed without need of contact. 
+- ~KWoC Slack workspace~ (inactive)
+
+- ~A Github Repo for Technical complaints. For example refer [this](https://github.com/kossiitkgp/kwoc-bugs)~ (archived)
+
+> [!TIP]
+> Make sure to keep the FAQ page exhaustive and detailed. Update the FAQ page from regularly if new frequent queries come up. Along with answering the queries, it is a good idea to share the FAQ Page of KWoC, so that future queries can be addressed without need of contact. 
 
 ## Coding Period
 
