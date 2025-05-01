@@ -27,7 +27,7 @@
 
    
 
-## Registration:
+## Registration
 
 -  It is recommended to start the registrations in the first week of November. At maximum, the registrations should begin by third week of November. Please do not delay the registrations further.
 - It is suggested that Student, Mentor and Project Registrations begin at the same time.  
@@ -38,7 +38,17 @@
   - A KWoC workspace invite link. (Already existing one or New Slack workspace can be created)
 -  Mail previous year's students and mentors that kwoc is back - along with working registration links.
 -  Make sure to take database backups periodically.
--  When projects are being registered, they should not be immediately shown on the Projects Page. The projects should be shown only when they are accepted. During the registration period, the projects should be accepted frequently(atleast on a daily basis). The guidelines to accept projects are discussed [here](https://github.com/kossiitkgp/mistakes/blob/master/kwoc20.md) (2nd point in `Logistical` section). If we are rejecting a project, mail the mentor why we are doing so.  
+-  When projects are being registered, they should not be immediately shown on the Projects Page. The projects should be shown only when they are accepted. During the registration period, the projects should be accepted frequently(atleast on a daily basis). If we are rejecting a project, mail the mentor why we are doing so.  
+
+### Project Approval Guidelines
+
+Below are the minimum required criteria to approve a KWoC project. Further discretion may be required for approving certain projects. Ensure that any projects inspire young developers to get involved in Open Source software, and help them master Git/Github.
+
+- A project must have more than two easy-to-fix and at least one moderate-level issue
+- A project must have at least 5 issues
+- A project must have a dedicated public communication channel
+- The mentor must have merge access in the project
+- A project must have a descriptive README
 
 ## Complaints and Queries
 
