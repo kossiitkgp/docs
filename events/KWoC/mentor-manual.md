@@ -1,3 +1,9 @@
+**Contents**
+
+1. [Introduction](#introduction)
+2. [Why Should You Apply?](#why-should-you-apply)
+3. [How to Apply](#how-to-apply)
+4. [Contact](#contact)
 # Student Manual - Kharagpur Winter of Code 
 
 ## Introduction

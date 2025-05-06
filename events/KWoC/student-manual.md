@@ -1,4 +1,13 @@
 # Student Manual - Kharagpur Winter of Code 
+**Contents**
+
+1. [Introduction](#introduction)
+2. [Why Should You Apply?](#why-should-you-apply)
+3. [Am I Good Enough?](#am-i-good-enough)
+4. [How to Apply](#how-to-apply)
+5. [What to do Next?](#what-to-do-next)
+6. [Wrapping Up](#wrapping-up)
+7. [Contact](#contact)
 
 ## Introduction
 
