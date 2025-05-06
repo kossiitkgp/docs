@@ -1,3 +1,17 @@
+**Contents**
+
+1. [First things first](#first-things-first)
+2. [Pre-registration](#pre-registration)
+3. [Registration](#registration)
+	1. [Project Approval Guidelines](#project-approval-guidelines)
+4. [Complaints and Queries](#complaints-and-queries)
+5. [Coding Period](#coding-period)
+6. [Mid Evals](#mid-evals)
+7. [End evals](#end-evals)
+8. [Certificates](#certificates)
+	1. [KWoC Website Archival Guidelines](#kwoc-website-archival-guidelines)
+9. [Miscellaneous](#miscellaneous)
+
 ## First things first 
 
 - KWoC is a month-long event, generally conducted in December.
@@ -24,8 +38,6 @@
 - Intro Seminar of KWoC should be conducted, a week before the registrations begin.
 
 - If possible approach a few organisations or companies - well before the website goes live - to sponsor KWoC for providing swags/goodies to the top-contributors (the number of top-contributors might vary based on what we get in the swag). Do NOT term them as `winners` - [KWoC is not a competition](https://github.com/kossiitkgp/mistakes/blob/kwoc-22-mistakes/kwoc20.md#5-reduce-competive-nature-)
-
-   
 
 ## Registration
 
@@ -130,5 +142,4 @@ Share an **anonymous** feedback form with following
 ## Miscellaneous
 
 - Take anonymous feedback about the proceedings of KWoC from participants. Preferably after the submission of the end evals blog.
-
 - Update [kossiitkgp/mistakes](https://github.com/kossiitkgp/mistakes) repo for the sake of posterity based on feedback and other things that went wrong.
