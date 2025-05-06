@@ -137,7 +137,7 @@ Share an **anonymous** feedback form with following
 - [`kwoc.kossiitkgp.org`](https://kwoc.kossiitkgp.org) will point to the previous KWoC's archive after it ends and before the next KWoC's website is deployed.
 
 > [!NOTE]
-> Each year a new website may be made or the previous one may be reused with suitable changes. Feel free to reuse whatever is required. 
+> Each year a new website may be made or the previous one may be reused with a new design. Reuse previous components if necessary, but ensure that a new design is implemented every year.
 
 ## Miscellaneous
 
