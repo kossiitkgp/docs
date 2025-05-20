@@ -4,6 +4,7 @@
 2. [Why Should You Apply?](#why-should-you-apply)
 3. [How to Apply](#how-to-apply)
 4. [Contact](#contact)
+
 # Student Manual - Kharagpur Winter of Code 
 
 ## Introduction
@@ -28,13 +29,16 @@ winter.
 
 **Eligibility**
 
-There are five main criteria to be a mentor in KWoC: 
+There are eight main criteria to be a mentor in KWoC: 
 
 1. You must have one or more projects on Github with merge access. 
-1. Your project(s) must have more than two easy-to-fix and at least oen moderate-level issue.
+1. Your project(s) must have more than two easy-to-fix and at least one moderate-level issue.
 1. You must have a dedicated public communication channel for each project, where all the conversations regarding the project will happen.
 1. Your project must have a descriptive README.
 1. KWoC Organisers must approve your project(s).
+1. A project must have an actual usecase and not just be a tutorial/example/sandbox repo
+1. A project should have an open source LICENSE
+1. A project must have at least a minimum amount of development, There should be some sort of roadmap layed out
 
 **Goals of the Program**: 
 
@@ -72,11 +76,18 @@ channel, Slack/Gitter/Matrix channel, or any other communication platform that
 allows a team to interact and work collaboratively. Make sure to add the link
 to this communication channel in the registration form!
 
+> [!WARNING]
+> WhatsApp-like platforms that are closed or require personal information like your phone number are frowned upon.
+
 **Make the project descriptive and beginner friendly**
 
-- Every kick-ass project needs to have a kick-ass README file. Go ahead and add a
+- Every kick-ass project needs to have a kick-ass README file[^1]. Go ahead and add a
   beautiful and detailed README to your project so that beginners can find it
-  easy to get started with your project. 
+  easy to get started with your project. A good README contains
+    - a clear project description describing its working/architecture
+    - instructions to install/build/access/run the project for usage
+    - development instructions and setting up a development environment
+    - contribution guidelines
 - You may add an action plan and a good proposal about what you aim to finish
   up by the end of KWoC. This will help applicants see a larger picture of what
   they can try developing instead of just fixing a couple of issues. You can add
@@ -105,3 +116,4 @@ Stay tuned to our social media handles for further updates: [https://linktr.ee/k
 
 [1] Huge thanks to the authors of the GSoC Mentor Guide. The guide serves as a reference for the outline of the KWoC Mentor Guide
 
+[^1]: https://bauva.com/blog/writing-kickass-readmes/

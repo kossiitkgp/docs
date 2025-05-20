@@ -37,6 +37,9 @@ The primary goals of KWoC are
 - Help them master the development workflow of Git and Github.
 - Connect students with mentors.
 
+>[!NOTE]
+> KWoC is open to ALL students, anywhere in the world. All work will be done remotely meaning you can participate from wherever you are.
+
 ## Why Should You Apply?
 
 You now know that participating in Kharagpur Winter of Code seems like a productive thing to do. 
@@ -116,14 +119,14 @@ help of various online resources, some of which are as follows:
 
 **Making Contact**
 
-The contact details of each mentor will be available to you on the projects list. Feel free to 
-contact the mentors to learn more about their projects. 
+Each project will include a link to it's respective public-communication channel, you are encouraged to join it and get involved with the discussions
+there. You will get to discuss more about the project with the mentor and your fellow contributors.
 
 **Software Development**
 
-Develope the project codebase, writeup test suites, add third-party integrations, and lots of other cool stuff depending on your project.
+Develop the project codebase, write test suites, add third-party integrations, and lots of other cool stuff depending on your project.
 After cooking up the perfect recipe, use Git to keep track of the changes and create your Pull Requests. Fix as many issues as you can and add 
-as many new features as possible to the project. Communicate with your mentor about furher requirements and/or improvements.
+as many new features as possible to the project. Communicate with your mentor about further requirements and/or improvements.
 
 **Writing Documentation**
 
@@ -160,7 +163,14 @@ At the end of the KWoC program, you will have to create a report. Failing to do 
 be as descriptive as you want but must contain at least the following points. 
 
 - List of projects you worked on and pull requests you created
-- Summary of your work along with your learning
+- Summary of your work along with your learning. More specifically
+    - A brief description of the project
+    - A description of the issue/problem statement you sought to address with your contributions
+    - Your journey in addressing that issue
+
+The report should be in the form of a public blog. You could create your own blog site if you haven't already with, this is an easy process with static-site generators like Hugo.
+You could create a Medium account, or register with any other blog website. Finally you will be asked to submit a single link to your blog. Please do not upload drive links to pdfs or word documents,
+those are not what we are looking for.
 
 ## Contact
 

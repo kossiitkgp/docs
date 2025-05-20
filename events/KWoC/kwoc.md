@@ -42,12 +42,12 @@
 ## Registration
 
 -  It is recommended to start the registrations in the first week of November. At maximum, the registrations should begin by third week of November. Please do not delay the registrations further.
-- It is suggested that Student, Mentor and Project Registrations begin at the same time.  
+- Mentor/Project Registrations should begin earlier than Student registrations to ensure they see some projects on the first day. One week earlier is recommended.
 - Release a Facebook, Twitter and LinkedIn Post from KOSS account. The post should contain the following things:
   - Briefly about KWoC
   - Mentor and Student Docs' Links
   - Instructions to register
-  - A KWoC workspace invite link. (Already existing one or New Slack workspace can be created)
+  - A KWoC workspace invite link. (The previous workspace can be reused or a new one can be made)
 -  Mail previous year's students and mentors that kwoc is back - along with working registration links.
 -  Make sure to take database backups periodically.
 -  When projects are being registered, they should not be immediately shown on the Projects Page. The projects should be shown only when they are accepted. During the registration period, the projects should be accepted frequently(atleast on a daily basis). If we are rejecting a project, mail the mentor why we are doing so.  
@@ -61,6 +61,9 @@ Below are the minimum required criteria to approve a KWoC project. Further discr
 - A project must have a dedicated public communication channel
 - The mentor must have merge access in the project
 - A project must have a descriptive README
+- A project must have an actual usecase and not just be a tutorial/example/sandbox repo
+- A project should have an open source LICENSE
+- A project must have at least a minimum amount of development, There should be some sort of roadmap layed out
 
 ## Complaints and Queries
 
@@ -114,6 +117,7 @@ It is suggested a group of dedicated people from KOSS handle complaints and quer
 - It is good to inform the participants by what date, they might expect the results of KWoC after they have submitted their End evals Blog. 
 
 # Feedback
+
 Share an **anonymous** feedback form with following
 1. Some objective questions, where they can rate about different aspects of KWoC-website, doubts clarification,coding experience.
 2. Subjective questions - What did they like about KWoC, What did they didn't like about KWoC, Anything they would like to tell us.
