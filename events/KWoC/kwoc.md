@@ -8,9 +8,10 @@
 5. [Coding Period](#coding-period)
 6. [Mid Evals](#mid-evals)
 7. [End evals](#end-evals)
-8. [Certificates](#certificates)
+8. [Feedback](#feedback)
+9. [Certificates](#certificates)
 	1. [KWoC Website Archival Guidelines](#kwoc-website-archival-guidelines)
-9. [Miscellaneous](#miscellaneous)
+10. [Miscellaneous](#miscellaneous)
 
 ## First things first 
 
@@ -54,7 +55,10 @@
 
 ### Project Approval Guidelines
 
-Below are the minimum required criteria to approve a KWoC project. Further discretion may be required for approving certain projects. Ensure that any projects inspire young developers to get involved in Open Source software, and help them master Git/Github.
+Below are the minimum required criteria to approve a KWoC project. Further discretion may be required for approving certain projects. Ensure that projects inspire young developers to get involved in Open Source software, and help them master Git/Github. 
+
+> [!NOTE]
+> Keep the [Mentor Manual](./mentor-manual.md) updated with these guidelines.
 
 - A project must have more than two easy-to-fix and at least one moderate-level issue
 - A project must have at least 5 issues
@@ -116,7 +120,7 @@ It is suggested a group of dedicated people from KOSS handle complaints and quer
   - While evaluating, if a member finds some blog that doesn't seem to clear the end evals, make sure to cross verify the same with other members of KOSS
 - It is good to inform the participants by what date, they might expect the results of KWoC after they have submitted their End evals Blog. 
 
-# Feedback
+## Feedback
 
 Share an **anonymous** feedback form with following
 1. Some objective questions, where they can rate about different aspects of KWoC-website, doubts clarification,coding experience.
@@ -146,4 +150,4 @@ Share an **anonymous** feedback form with following
 ## Miscellaneous
 
 - Take anonymous feedback about the proceedings of KWoC from participants. Preferably after the submission of the end evals blog.
-- Update [kossiitkgp/mistakes](https://github.com/kossiitkgp/mistakes) repo for the sake of posterity based on feedback and other things that went wrong.
+- Update [kossiitkgp/mistakes](https://github.com/kossiitkgp/mistakes) repo atleast for the sake of posterity based on feedback and other things that went wrong.

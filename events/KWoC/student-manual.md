@@ -1,4 +1,5 @@
 # Student Manual - Kharagpur Winter of Code 
+
 **Contents**
 
 1. [Introduction](#introduction)
@@ -186,5 +187,5 @@ Stay tuned to our social media handles for further updates: [https://linktr.ee/k
 
 **Acknowlegdements**
 
-[1] Huge thanks to the authors of the GSoC Student Guide. The guide serves as a reference for the outline of the KWoC Student Guide
+1. Huge thanks to the authors of the GSoC Student Guide. The guide serves as a reference for the outline of the KWoC Student Guide
 

@@ -1,11 +1,11 @@
+# Mentor Manual - Kharagpur Winter of Code 
+
 **Contents**
 
 1. [Introduction](#introduction)
 2. [Why Should You Apply?](#why-should-you-apply)
 3. [How to Apply](#how-to-apply)
 4. [Contact](#contact)
-
-# Student Manual - Kharagpur Winter of Code 
 
 ## Introduction
 
@@ -114,6 +114,6 @@ Stay tuned to our social media handles for further updates: [https://linktr.ee/k
 
 **Acknowlegdements**
 
-[1] Huge thanks to the authors of the GSoC Mentor Guide. The guide serves as a reference for the outline of the KWoC Mentor Guide
+1. Huge thanks to the authors of the GSoC Mentor Guide. The guide serves as a reference for the outline of the KWoC Mentor Guide
 
-[^1]: https://bauva.com/blog/writing-kickass-readmes/
+[1]: https://bauva.com/blog/writing-kickass-readmes/
