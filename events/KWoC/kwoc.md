@@ -1,3 +1,18 @@
+**Contents**
+
+1. [First things first](#first-things-first)
+2. [Pre-registration](#pre-registration)
+3. [Registration](#registration)
+	1. [Project Approval Guidelines](#project-approval-guidelines)
+4. [Complaints and Queries](#complaints-and-queries)
+5. [Coding Period](#coding-period)
+6. [Mid Evals](#mid-evals)
+7. [End evals](#end-evals)
+8. [Feedback](#feedback)
+9. [Certificates](#certificates)
+	1. [KWoC Website Archival Guidelines](#kwoc-website-archival-guidelines)
+10. [Miscellaneous](#miscellaneous)
+
 ## First things first 
 
 - KWoC is a month-long event, generally conducted in December.
@@ -25,20 +40,34 @@
 
 - If possible approach a few organisations or companies - well before the website goes live - to sponsor KWoC for providing swags/goodies to the top-contributors (the number of top-contributors might vary based on what we get in the swag). Do NOT term them as `winners` - [KWoC is not a competition](https://github.com/kossiitkgp/mistakes/blob/kwoc-22-mistakes/kwoc20.md#5-reduce-competive-nature-)
 
-   
-
-## Registration:
+## Registration
 
 -  It is recommended to start the registrations in the first week of November. At maximum, the registrations should begin by third week of November. Please do not delay the registrations further.
-- It is suggested that Student, Mentor and Project Registrations begin at the same time.  
+- Mentor/Project Registrations should begin earlier than Student registrations to ensure they see some projects on the first day. One week earlier is recommended.
 - Release a Facebook, Twitter and LinkedIn Post from KOSS account. The post should contain the following things:
   - Briefly about KWoC
   - Mentor and Student Docs' Links
   - Instructions to register
-  - A KWoC workspace invite link. (Already existing one or New Slack workspace can be created)
+  - A KWoC workspace invite link. (The previous workspace can be reused or a new one can be made)
 -  Mail previous year's students and mentors that kwoc is back - along with working registration links.
 -  Make sure to take database backups periodically.
--  When projects are being registered, they should not be immediately shown on the Projects Page. The projects should be shown only when they are accepted. During the registration period, the projects should be accepted frequently(atleast on a daily basis). The guidelines to accept projects are discussed [here](https://github.com/kossiitkgp/mistakes/blob/master/kwoc20.md) (2nd point in `Logistical` section). If we are rejecting a project, mail the mentor why we are doing so.  
+-  When projects are being registered, they should not be immediately shown on the Projects Page. The projects should be shown only when they are accepted. During the registration period, the projects should be accepted frequently(atleast on a daily basis). If we are rejecting a project, mail the mentor why we are doing so.  
+
+### Project Approval Guidelines
+
+Below are the minimum required criteria to approve a KWoC project. Further discretion may be required for approving certain projects. Ensure that projects inspire young developers to get involved in Open Source software, and help them master Git/Github. 
+
+> [!NOTE]
+> Keep the [Mentor Manual](./mentor-manual.md) updated with these guidelines.
+
+- A project must have more than two easy-to-fix and at least one moderate-level issue
+- A project must have at least 5 issues
+- A project must have a dedicated public communication channel
+- The mentor must have merge access in the project
+- A project must have a descriptive README
+- A project must have an actual usecase and not just be a tutorial/example/sandbox repo
+- A project should have an open source LICENSE
+- A project must have at least a minimum amount of development, There should be some sort of roadmap laid out
 
 ## Complaints and Queries
 
@@ -46,15 +75,16 @@ It is suggested a group of dedicated people from KOSS handle complaints and quer
 
 - Facebook, Instagram, Twitter, and Linkedin of KOSS account.
 
-- KWoC Slack workspace
-
 - Mails received at admin@kossiitkgp.org
-
-- A Github Repo for Technical complaints. For example refer [this](https://github.com/kossiitkgp/kwoc-bugs)
 
 - Discord Server of KWoC.
 
-  Make sure to keep the FAQ page exhaustive and detailed. Update the FAQ page from regularly if new frequent queries come up. Along with answering the queries, it is a good idea to share the FAQ Page of KWoC, so that future queries can be addressed without need of contact. 
+- ~KWoC Slack workspace~ (inactive)
+
+- ~A Github Repo for Technical complaints. For example refer [this](https://github.com/kossiitkgp/kwoc-bugs)~ (archived)
+
+> [!TIP]
+> Make sure to keep the FAQ page exhaustive and detailed. Update the FAQ page regularly if new frequent queries come up. Along with answering the queries, it is a good idea to share the FAQ Page of KWoC, so that future queries can be addressed without need of contact. 
 
 ## Coding Period
 
@@ -90,8 +120,9 @@ It is suggested a group of dedicated people from KOSS handle complaints and quer
   - While evaluating, if a member finds some blog that doesn't seem to clear the end evals, make sure to cross verify the same with other members of KOSS
 - It is good to inform the participants by what date, they might expect the results of KWoC after they have submitted their End evals Blog. 
 
-# Feedback
-Share an **anonymus** feedback form with following
+## Feedback
+
+Share an **anonymous** feedback form with following
 1. Some objective questions, where they can rate about different aspects of KWoC-website, doubts clarification,coding experience.
 2. Subjective questions - What did they like about KWoC, What did they didn't like about KWoC, Anything they would like to tell us.
 
@@ -101,13 +132,22 @@ Share an **anonymus** feedback form with following
   - Verification link: A link of certificate hosted on a Public repository of KOSS - [kossiitkgp/public-files](https://github.com/kossiitkgp/public-files)
   - Stats link: A link containing the Student's or the Project's stats respectively for a student or a Mentor.
 
-- Move the website from `kwoc.kossiitkgp.org` to `kwoc{Y}.kossiitkgp.org` (e.g. `kwoc19.kossiitkgp.org` for KWoC19). Thereafter, the stats are hosted on the latter while the former is reused next year.
-
 - The certificates must be hosted on the public files repo - [kossiitkgp/public-files](https://github.com/kossiitkgp/public-files)
 - The certificates in PDF formats should be sent via mail to the participants.
+
+### KWoC Website Archival Guidelines
+
+- Move the website from `kwoc.kossiitkgp.org` to `kwoc{Y}.kossiitkgp.org` (e.g. `kwoc19.kossiitkgp.org` for KWoC19). Thereafter, the stats are hosted on the latter while the former is reused next year.
+
+- archived websites are branches in the frontend repo
+- these branches are deployed on [netlify](https://www.netlify.com/) because [vercel](https://vercel.com/) has a limitation on the number of branches.
+- `kwocxx.kossiitkgp.org` will be the domain of each archive
+- [`kwoc.kossiitkgp.org`](https://kwoc.kossiitkgp.org) will point to the previous KWoC's archive after it ends and before the next KWoC's website is deployed.
+
+> [!NOTE]
+> Each year a new website may be made or the previous one may be reused with a new design. Reuse previous components if necessary, but ensure that a new design is implemented every year.
 
 ## Miscellaneous
 
 - Take anonymous feedback about the proceedings of KWoC from participants. Preferably after the submission of the end evals blog.
-
-- Update [kossiitkgp/mistakes](https://github.com/kossiitkgp/mistakes) repo for the sake of posterity based on feedback and other things that went wrong.
+- Update [kossiitkgp/mistakes](https://github.com/kossiitkgp/mistakes) repo atleast for the sake of posterity based on feedback and other things that went wrong.
