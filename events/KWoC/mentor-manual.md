@@ -17,7 +17,7 @@
   contributions under the guidance of mentors who have the necessary experience.
 - KWoC is modeled to be an event similar to Google Summer of Code/Outreachy/Season of KDE/
   Rails Girls Summer of Code/GirlScript Summer of Code and many similar programs. KWoC 
-  similarily, is aimed at introducing new students to the area and helping them make PRs.
+  similarly, is aimed at introducing new students to the area and helping them make PRs.
   In fact, a first for many of them, and also gaining confidence which will help them continue 
   their open-source journey.
 
@@ -38,7 +38,7 @@ There are eight main criteria to be a mentor in KWoC:
 1. KWoC Organisers must approve your project(s).
 1. A project must have an actual usecase and not just be a tutorial/example/sandbox repo
 1. A project should have an open source LICENSE
-1. A project must have at least a minimum amount of development, There should be some sort of roadmap layed out
+1. A project must have at least a minimum amount of development, There should be some sort of roadmap laid out
 
 **Goals of the Program**: 
 
@@ -112,7 +112,7 @@ Stay tuned to our social media handles for further updates: [https://linktr.ee/k
 
 ---
 
-**Acknowlegdements**
+**Acknowledgements**
 
 1. Huge thanks to the authors of the GSoC Mentor Guide. The guide serves as a reference for the outline of the KWoC Mentor Guide
 

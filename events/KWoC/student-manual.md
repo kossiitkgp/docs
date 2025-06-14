@@ -20,7 +20,7 @@
   contributions under the guidance of mentors who have the necessary experience.
 - KWoC is modeled to be an event similar to Google Summer of Code/Outreachy/Season of KDE/
   Rails Girls Summer of Code/GirlScript Summer of Code and many similar programs. KWoC 
-  similarily, is aimed at introducing new students to the area and helping them make PRs.
+  similarly, is aimed at introducing new students to the area and helping them make PRs.
   In fact, a first for many of them, and also gaining confidence which will help them continue 
   their open-source journey.
 
@@ -70,7 +70,7 @@ is ready to be helpful to other folks throughout the world.
 
 **For the love of code and open-source**
 
-If you love to code and it relates even distrinctly to your passion, then you will find an opportunity to express that love by being
+If you love to code and it relates even distinctly to your passion, then you will find an opportunity to express that love by being
 a part of Kharagpur Winter of Code.
 
 ## Am I Good Enough?
@@ -88,7 +88,7 @@ and pushing your code online. This requires you to have a computer and an intern
 
 **Good Communication Skills**
 
-You will have to speak up. You will have to email the project mentor. Your will have to submit
+You will have to speak up. You will have to email the project mentor. You will have to submit
 your query to KOSS in case of any issue or facing difficulty in understanding anything. As long as 
 you can express yourself, there is nothing to stop you from achieving it. 
 
@@ -109,7 +109,7 @@ button. Login with Github and fill in your name, email address, and institute. H
 **Choosing a Project**
 
 First of all, choose the project(s) that you would like to work on in KWoC. You are free to 
-contribute to as amny projects as you like. Navigate over to [https://kwoc.kossiitkgp.org/projects](https://kwoc.kossiitkgp.org/projects)
+contribute to as as many projects as you like. Navigate over to [https://kwoc.kossiitkgp.org/projects](https://kwoc.kossiitkgp.org/projects)
  and hunt down projects by their description. All of the projects must be on Github. Learn how to get acquainted with Github's interface with the 
 help of various online resources, some of which are as follows: 
 - https://github.com/kossiitkgp/Git-and-Github-2021
@@ -120,7 +120,7 @@ help of various online resources, some of which are as follows:
 
 **Making Contact**
 
-Each project will include a link to it's respective public-communication channel, you are encouraged to join it and get involved with the discussions
+Each project will include a link to its respective public-communication channel, you are encouraged to join it and get involved with the discussions
 there. You will get to discuss more about the project with the mentor and your fellow contributors.
 
 **Software Development**
@@ -131,7 +131,7 @@ as many new features as possible to the project. Communicate with your mentor ab
 
 **Writing Documentation**
 
-The code that you have added must be documented thoroughly. Open-source involved writing code that humans can read and understand. 
+The code that you have added must be documented thoroughly. Open-source involves writing code that humans can read and understand. 
 Good documentation makes it easier to understand the code. Hence, add information in the README, in the comments of the code, etc.
 Ask your mentor to help you out with it.
 
@@ -185,7 +185,7 @@ Stay tuned to our social media handles for further updates: [https://linktr.ee/k
 
 ---
 
-**Acknowlegdements**
+**Acknowledgements**
 
 1. Huge thanks to the authors of the GSoC Student Guide. The guide serves as a reference for the outline of the KWoC Student Guide
 
