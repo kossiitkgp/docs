@@ -23,8 +23,8 @@
 - End evals are done after the coding period
 
 ## Distribution of Work
-
 KWoC broadly involves the following separate tasks:
+
 0. Finalizing the timeline, getting sponsors for goodies (optional), and general planning.
 1. Conducting an introductory seminar, and other publicity.
 1. Preparing student and mentor manuals.
