@@ -1,17 +1,18 @@
 **Contents**
 
 1. [First things first](#first-things-first)
-2. [Pre-registration](#pre-registration)
-3. [Registration](#registration)
+1. [Pre-registration](#pre-registration)
+1. [Distribution of Work](#distribution-of-work)
+1. [Registration](#registration)
 	1. [Project Approval Guidelines](#project-approval-guidelines)
-4. [Complaints and Queries](#complaints-and-queries)
-5. [Coding Period](#coding-period)
-6. [Mid Evals](#mid-evals)
-7. [End evals](#end-evals)
-8. [Feedback](#feedback)
-9. [Certificates](#certificates)
+1. [Complaints and Queries](#complaints-and-queries)
+1. [Coding Period](#coding-period)
+1. [Mid Evals](#mid-evals)
+1. [End evals](#end-evals)
+1. [Feedback](#feedback)
+1. [Certificates](#certificates)
 	1. [KWoC Website Archival Guidelines](#kwoc-website-archival-guidelines)
-10. [Miscellaneous](#miscellaneous)
+1. [Miscellaneous](#miscellaneous)
 
 ## First things first 
 
@@ -20,6 +21,28 @@
 - Coding period is generally 4 weeks long
 - Mid evals are held around 2 weeks after start of the coding period.
 - End evals are done after the coding period
+
+## Distribution of Work
+KWoC broadly involves the following separate tasks:
+
+0. Finalizing the timeline, getting sponsors for goodies (optional), and general planning.
+1. Conducting an introductory seminar, and other publicity.
+1. Preparing student and mentor manuals.
+1. Hosting and managing the website (backend + frontend + stats script).
+1. Handling emails - including previous contributors and mentors, responding to queries, and eval reminders.
+1. Handling backend tasks - including approving projects, keeping track of stats, and handling mid and end evals.
+1. Managing the Discord server - replying to queries, announcements, and moderation.
+
+### KWoC Captains
+All of the above tasks, except for the planning and timeline should be assigned one or more executives as captains. These captains do not necessarily have to restrict themselves to only work on the assigned task, but would take the responsibility of keeping track of progress, delegating work to CTMs, and ensure it happens. CTMs on the other hand, need not be assigned specific tasks but are encouraged to try out different things.
+
+Assigning executives to specific tasks is not meant to break the flat hierarchy but instead to prevent confusion. During KWoC, some executives take up specific jobs anyway and unofficially act as captains. It is better if this is done earlier and more efficiently.
+
+### How to assign captains
+- During the planning phase, the executives should divide the tasks among themselves. They may ask the advisors for help.
+- Some larger tasks such as managing the website may be assigned multiple captains - e.g., one for the backend and one for the frontend.
+- If an executive may be busy due to any reason (internships, interiit, etc.), other captains should be assigned to the same task as backup.
+- It is advisable to create a checklist for ALL tasks and the assigned captains during the planning phase.
 
 ## Pre-registration
 
